@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2025-08-07T13:17:02" Sello="jtouFYVyAwShW29lz0L5d/gWoa/nLfDh9Qwh1gOptZkrTn3IW3KiVLHjnu8A6+9kxCuDpie/pojYh9VkaKwdn+UhLo4C4yMMdExuX3reF1HwM85Y6MWDH7aqR0VJ753Pfso0ySIlwKYAdGwHadcB1qDfRLX2vg+6StdNl+PhBGCPowouwkU/wW21L/Ba3CQhG7gw5bd6bCsjQ9Q86RPBYmmG9fyw5giSZFBJztNH3dH1H7khzeJJBEeBcg7yxlbJaGnTc+Q0Ap03bVcvcPGzEtKE566iQqI3lMo9N9KHwTyQ6bfcqIGH0n9zZU0+BgxeLULYW5xTDxuNSasUg6taBg==" FormaPago="03" NoCertificado="00001000000707764232" Certificado="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" SubTotal="557.25" Moneda="MXN" Total="580.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72470" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="EAGJ8706198C3" Nombre="JESUS SALVADOR ESCALONA GOMEZ" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78181500" Cantidad="1" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="SERVICIO DE MOTOR PARA CAMIONETA VW SAVEIRO" ValorUnitario="557.25" Importe="557.250000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="557.250000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="89.160000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="557.250000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106667" Importe="59.440186" />
+          <cfdi:Retencion Base="557.250000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="6.965625" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="89.16" TotalImpuestosRetenidos="66.41">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="002" Importe="59.44" />
+      <cfdi:Retencion Impuesto="001" Importe="6.97" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="557.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="89.16" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="543F56F1-160C-4F90-8094-1EB7DDAF3027" FechaTimbrado="2025-08-07T13:17:59" RfcProvCertif="SAT970701NN3" SelloCFD="jtouFYVyAwShW29lz0L5d/gWoa/nLfDh9Qwh1gOptZkrTn3IW3KiVLHjnu8A6+9kxCuDpie/pojYh9VkaKwdn+UhLo4C4yMMdExuX3reF1HwM85Y6MWDH7aqR0VJ753Pfso0ySIlwKYAdGwHadcB1qDfRLX2vg+6StdNl+PhBGCPowouwkU/wW21L/Ba3CQhG7gw5bd6bCsjQ9Q86RPBYmmG9fyw5giSZFBJztNH3dH1H7khzeJJBEeBcg7yxlbJaGnTc+Q0Ap03bVcvcPGzEtKE566iQqI3lMo9N9KHwTyQ6bfcqIGH0n9zZU0+BgxeLULYW5xTDxuNSasUg6taBg==" NoCertificadoSAT="00001000000705250068" SelloSAT="a3chCuv64fq62zdogKgVKE4Y/NO28JIwjbba+CIHxfMBgkhprii6gVhwkd8tsYh+WyDYtHfBVQtnnKg3HnEkfkjjF11sGACcH+Qtb2U9CZQK2XkQ0iAzobJ7735PZBozjn7IiaUfo/f0OBtZYlVG2+NWhUfioiy1ikOVguHE98EteZq/YzIsYrw8aZ56dH28gJ47zCbzPhIzC5WGp4GjNw+KiqItAN3BfX7teX8i3A9moIw6UBbjP9VYz2hLIJ9cJVNBGWiIuYoBECvnwsoOZLZ8XqLo6pG8pNDX1v7I/eAkPIJMfjo5eqhTjUynI8dCrXaY5nEe2wQyC41mfmA99g==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

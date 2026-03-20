@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="KARCO" Folio="2040939" Fecha="2025-08-30T20:23:31" FormaPago="01" CondicionesDePago="Contado" SubTotal="606.90" Moneda="MXN" TipoCambio="1" Total="704.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="11000" NoCertificado="00001000000710925267" Certificado="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" Sello="FVTxDBR0i1G547zhNOZxW8+v/yuDUvLsv18IagLD1WsIujmHvqT71JqDbOptqBSv6XlGVow2yZKyKFiRC7Z8il07Jf9cZgVWNJcgO7B5fEE0VsCrwi5PS6Oa1Gs1nUzmBIfvbMXgGg9CUvZUc1mafh5n/tzPfNPgzr88o6Dfa7xm2PSMsRB3MVk2dZ8izjIDoUFV8SQ9ohrDGXoY7rOOYUkGZg4I5pwNIe+0R+Y7AVBm4ig1tBOv1WFCc1DaWfHMD6sQ67LliOaQdmfhN+9vyJbmYH/KlDmW0Xf0CBeG6gIKmFWQ1ok/i0GsFlMET+Q5NU41U5Bn/9TJwcmv8oGyvQ==">
+  <cfdi:Emisor Rfc="AAN051220835" Nombre="AUTOPISTA ARCO NORTE" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="95111603" ObjetoImp="02" NoIdentificacion="AFO01" Cantidad="1.000000" ClaveUnidad="E48" Unidad="Servicio" Descripcion="PEAJE-2113915860620250822000141via1321122" ValorUnitario="105.1724" Importe="105.1724">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado TasaOCuota="0.160000" Base="105.1724" Importe="16.8276" Impuesto="002" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111603" ObjetoImp="02" NoIdentificacion="AFO01" Cantidad="1.000000" ClaveUnidad="E48" Unidad="Servicio" Descripcion="PEAJE-21141115499420250821165033via1423291" ValorUnitario="250.8621" Importe="250.8621">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado TasaOCuota="0.160000" Base="250.8621" Importe="40.1379" Impuesto="002" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="95111603" ObjetoImp="02" NoIdentificacion="AFO01" Cantidad="1.000000" ClaveUnidad="E48" Unidad="Servicio" Descripcion="PEAJE-219169900420250821135831Via929291" ValorUnitario="250.8621" Importe="250.8621">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado TasaOCuota="0.160000" Base="250.8621" Importe="40.1379" Impuesto="002" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="97.10">
+    <cfdi:Traslados>
+      <cfdi:Traslado TasaOCuota="0.160000" Base="606.90" Importe="97.10" Impuesto="002" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="7C82D3AB-8611-11F0-9618-9B35503B45EE" FechaTimbrado="2025-08-30T20:23:34" SelloCFD="FVTxDBR0i1G547zhNOZxW8+v/yuDUvLsv18IagLD1WsIujmHvqT71JqDbOptqBSv6XlGVow2yZKyKFiRC7Z8il07Jf9cZgVWNJcgO7B5fEE0VsCrwi5PS6Oa1Gs1nUzmBIfvbMXgGg9CUvZUc1mafh5n/tzPfNPgzr88o6Dfa7xm2PSMsRB3MVk2dZ8izjIDoUFV8SQ9ohrDGXoY7rOOYUkGZg4I5pwNIe+0R+Y7AVBm4ig1tBOv1WFCc1DaWfHMD6sQ67LliOaQdmfhN+9vyJbmYH/KlDmW0Xf0CBeG6gIKmFWQ1ok/i0GsFlMET+Q5NU41U5Bn/9TJwcmv8oGyvQ==" NoCertificadoSAT="00001000000700047508" SelloSAT="l4sKM1Z5Kb1nyt19qhucDTFwjFhtoOjNRLnU8yBPmwm026UpeFpmrvjWqr9Ekyja1Ls+i5OgLZUUCkSUJyeGyuXOrWdcZq/2BXu40sRML+Uk8d6Jck9/feATVzc0yvgLXaqxwJiqdDxkik2RtikWs3HTbGGd0Ro15lYEbkpHxZz4AXDDLu86ytcvyKrMhRVrJStJ8aCIelbyfCVF4MddKnoUg4xrO4VCZ/SjenV58PpjseL+msSr/AY5yOfahGR30kB+DqHcfZzPgz/184L9Uq5qh+9bdGw0oUfFfuQV0RzsvJWXOuub6hwaBiyfaKStqF+jc6/hp+BOEfBCJvkl4Q==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

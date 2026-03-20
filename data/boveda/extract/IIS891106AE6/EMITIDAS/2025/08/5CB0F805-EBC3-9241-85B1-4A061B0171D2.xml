@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="2694" Fecha="2025-08-28T19:28:10" Sello="iNnHLTOeC2EhzsxGFFTDks98a7fL1Hf9MxfZf56nXBTgTljl2kv7FzqFgVw+SlotQ/jlZ3oK6l5OiIMvYD6ufCkzICM/wEVNkcjoL1pmBq4AaZ4irTR3az2EpltWJl9BHwZXVnfnm5o/0FgZD+tvHx0EBEZO9YWzjVUAtQxSfRc8RFO8sWKLva+7w3LbxKAq9JgrfnaIhZiGo3PeNKnms5eAjqoMBGYGz5W+mrhJFNMXovr0gDGWygw58wTlY6Ixih26xFBP6ELawWmca25/s2iO6VAyy/KwtoTgDpJ9AFJ7wr9khcC90pa8H+sNg6SM12o4BEH8c6QgIWx1C4Dj8Q==" FormaPago="99" NoCertificado="00001000000718080169" Certificado="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" CondicionesDePago="30 DIAS" SubTotal="4806.00" Moneda="USD" TipoCambio="18.6912" Total="5574.96" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="TAM520130D49" Nombre="TUBOS DE ACERO DE MEXICO" DomicilioFiscalReceptor="91697" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026314" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON 1&quot; PIN 7/8&quot; 2DA OP 01.MA.501.12135&#xA;ITEM 00003" ValorUnitario="729.00" Importe="729.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="729.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="116.64" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026334" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; PIN 7/8&quot; 4TA OP CUCHILLA 01.MA.501.12137&#xA;ITEM 00006" ValorUnitario="288.00" Importe="288.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="288.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026345" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON 1&quot; PIN 7/8&quot; 3RA OP 01.MA.501.12136&#xA;ITEM 00007" ValorUnitario="585.00" Importe="585.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="585.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="93.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026346" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON 1&quot; PIN 7/8&quot; 4TA OP 01.MA.501.12137&#xA;ITEM 00008" ValorUnitario="396.00" Importe="396.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="396.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="63.36" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030039" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 7/8&quot; 1RA OP. POS.1 01.MA.501.12310&#xA;ITEM 00001" ValorUnitario="639.00" Importe="639.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="639.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="102.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030040" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 1&quot; 4TA OP. POS.1 01.MA.501.12309&#xA;ITEM 00007" ValorUnitario="513.00" Importe="513.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="513.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="82.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030041" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 1&quot; 1RA OP.POS.1 01.MA.501.12306&#xA;ITEM 00008" ValorUnitario="819.00" Importe="819.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="819.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="131.04" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030042" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 1&quot; 2DA OP. POS.1 01.MA.501.12307&#xA;ITEM 00009" ValorUnitario="837.00" Importe="837.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="837.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="133.92" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="768.96">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="4806.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="768.96" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="5CB0F805-EBC3-9241-85B1-4A061B0171D2" FechaTimbrado="2025-08-28T19:29:27" RfcProvCertif="SCD110105654" SelloCFD="iNnHLTOeC2EhzsxGFFTDks98a7fL1Hf9MxfZf56nXBTgTljl2kv7FzqFgVw+SlotQ/jlZ3oK6l5OiIMvYD6ufCkzICM/wEVNkcjoL1pmBq4AaZ4irTR3az2EpltWJl9BHwZXVnfnm5o/0FgZD+tvHx0EBEZO9YWzjVUAtQxSfRc8RFO8sWKLva+7w3LbxKAq9JgrfnaIhZiGo3PeNKnms5eAjqoMBGYGz5W+mrhJFNMXovr0gDGWygw58wTlY6Ixih26xFBP6ELawWmca25/s2iO6VAyy/KwtoTgDpJ9AFJ7wr9khcC90pa8H+sNg6SM12o4BEH8c6QgIWx1C4Dj8Q==" NoCertificadoSAT="00001000000702501858" SelloSAT="nNtg5K6i+Wq2fgizhuQLyVpkLyviPml/fSoScm4x8XQyqXXJ1IlSabyjMMapaxSpMyotn8chvzPVWBSzsTiwDFQofuXv3Ls7DuQ4IVQYQhy1qYQwyr3OI46sjhbYg+Aw/rchSGX2KPKQmNg//yEPahNirrBle7XXSL5OYJENmfP9q9lPaXDytigLLwMPaX/Rfi+l8+G0U8nJBh4+/lRPELbyb3FhDKYize5MGUPO9+UvFwJifpR565053Or4RCgHCzH0D0s9m/bj1pgphy3xuiHRTVwCG97j+zoollXtGLkyOjLFfVdZg1BG7DQpFQABCFxpvQI+fRtoLLUK5fM4Dw==" />
+</cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="G" Folio="33478" Fecha="2025-07-24T19:11:23" Sello="yEY+AzD9P/iMVrRHLOLysUI3i4cgeieQdA2H/QNE2DjdYFkRU5Psl56KusZn6caqpMSwGyHH1UL7lTCxOJpzygcmkBsZ2O/80oei5z8Po0h4yXc8Wek1bxctJiq5qgRKTlA0r4l8Jzf3BvjprTdiOma+pm+3efHmEhx1A5WcI7uOJ7ZMdvjbGe1l4oGsu1PXU7KnTNgl9XEG+QY3Cb/HkpcJTwInw7c8nMY1APhMe3L0QYM/FmQF5qb3VuhPDM9Vx/1rO5VhtifClVeYt3Xpm8ERY1PiAHp0B+mm+ZJdduLpF0JAMGUo2M5erQqd4RLdTScC/0KoiovPamrOmqCJIA==" FormaPago="03" NoCertificado="00001000000512142846" Certificado="MIIF8zCCA9ugAwIBAgIUMDAwMDEwMDAwMDA1MTIxNDI4NDYwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMjAzMzAxNjM2NTJaFw0yNjAzMzAxNjM2NTJaMIHBMSEwHwYDVQQDExhQQVBFTEVSSUEgTk9GRVIgU0EgREUgQ1YxITAfBgNVBCkTGFBBUEVMRVJJQSBOT0ZFUiBTQSBERSBDVjEhMB8GA1UEChMYUEFQRUxFUklBIE5PRkVSIFNBIERFIENWMSUwIwYDVQQtExxQTk85OTAxMjg5QTcgLyBURUxNNTMwMTA4VjVBMR4wHAYDVQQFExUgLyBURUxNNTMwMTA4SFBMTE5HMDUxDzANBgNVBAsTBlVOSURBRDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMk/ImkDzaJXohWTO5JXH1LjDbyEVK6gRLS03odb+mQqbXhnHYoBFFgiMaDrPKbVPnKU9hKRyybHVrOvaDOuFfUnDMbcfze39moOxv4jW57BZsYyYuRCVNN8KJNt8mTKiv+CWjNIcfL0ba23Qp4pUyQyYJW7e12QnXq66cJWZ7jI3S2mRuPwQJajX48lkUom8DdWXEqObf/Cf9pTHUmYq4Mb7BFfom5hJ6//CsV4eYWYZvbcKRqesIIMlXpoihKCtNDiyAPVYV8bO+CScGJuUZhZM91WyG3UeXIwxhnCGyedUFam0b0XuK/fwQNP1NLY9Nnm5BgMNy+B80z31VERaJ0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAGdL6hUPyIzJlWgs5Ql7xMtwFtraQLuIhR8Am+fylpfNVsAf9FzMeo6c2Krj7qWKjoRON63A68GLKtpaZpaMqAA0N1wfkpt/ceZn59ffhaWLyOtOqdDNYnvfb2WzFLfy43pNMvQRy58JtXWmnquTeLSLNEHJwHdWfxgSYzvboFprFOorHTievVZ5f4TOajUJJ2DL50xBu2i0PnuAmGXwJs5+7KqhjdnmMOuXimUva/TN74V0OGd4yIfMZl8e+odCjRX0zrLHgWGJPWjsBt6/Yau4yGz0tV2yVx5PGTXlRLyuW+yiX6rJ8tvFgUIq/miswCbZGPKA41+KZJOed64lY6ZB7AEG+XBehOtLn+vtETeZwrXWmB5sKKeHMgTJWA5fgUrK3OkyOxSfqbVC9Z9e/O9g52ZY1Xxbg+yQ9oq+eGYPul0cDrUw1ontYG5qYVXcd0iofUBwLb9h5Zh+jTeEaaDCwxfOMUXI/sm4EQpGdErJae48d3AmvSaL7FdBP6qShCT9cs9nJsSXmnbeTsT+HJDO0yfmXlqlmTB1dFoLJv0q42QilYX5QEy/MkR2tkv/XGstw6mVvbC4J/1mleKG12OWX+zE4yj8aCdy5TnXghI2ayF31b99P9NBs2LtiBippfw1pwJUKnVTUP+fn9NEeqpXWbg61VbMSMcod4lMfpDx" CondicionesDePago="CONTADO" SubTotal="1504.27" Moneda="MXN" Total="1744.95" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="UNB211215B28" Nombre="UNBEKANNT" DomicilioFiscalReceptor="11000" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="43202005" NoIdentificacion="859733006625" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MEMORIA HYUNDAI BRAVO USB 2.0 16GB CLRS XZ.." ValorUnitario="76.72" Importe="230.16" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="230.16" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="36.8256" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="7502270051551" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="REGISTRADOR T/C KYMA ARCOIRIS NEGRO XZ.." ValorUnitario="63.79" Importe="191.37" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="191.37" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.6192" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="1110-100-04" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="REGISTRADOR T/C KYMA VERDE JASP XZ.." ValorUnitario="63.79" Importe="191.37" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="191.37" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.6192" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="7502270051513" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="REGISTRADOR T/C KYMA ARCOIRIS ROJO XZ.." ValorUnitario="63.79" Importe="191.37" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="191.37" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.6192" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111507" NoIdentificacion="7502233375779" Cantidad="10" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="PAPEL BOND T/C ECOLOGICO 75GS C/500 XZ.." ValorUnitario="70.00" Importe="700.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="700.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="112.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="240.68">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="1504.27" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="240.68" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="E54D50B6-E73C-1F4C-9C73-25AA1C7E5168" FechaTimbrado="2025-07-24T19:10:05" RfcProvCertif="SCD110105654" SelloCFD="yEY+AzD9P/iMVrRHLOLysUI3i4cgeieQdA2H/QNE2DjdYFkRU5Psl56KusZn6caqpMSwGyHH1UL7lTCxOJpzygcmkBsZ2O/80oei5z8Po0h4yXc8Wek1bxctJiq5qgRKTlA0r4l8Jzf3BvjprTdiOma+pm+3efHmEhx1A5WcI7uOJ7ZMdvjbGe1l4oGsu1PXU7KnTNgl9XEG+QY3Cb/HkpcJTwInw7c8nMY1APhMe3L0QYM/FmQF5qb3VuhPDM9Vx/1rO5VhtifClVeYt3Xpm8ERY1PiAHp0B+mm+ZJdduLpF0JAMGUo2M5erQqd4RLdTScC/0KoiovPamrOmqCJIA==" NoCertificadoSAT="00001000000702501858" SelloSAT="IzjxkJreJd4UOEfmrsUSGrsvpB4vkb1NyLL2skXNcviNxBnoG6qeS2bOIkI5b2cq2p0jSMaAL5dEVvjvTCNYsdLIOioSmETcU7zW0a7cV9wod3YWHw/Pu0SezD+HzZsEfudIw+7reA/OY1YDMvH9YSGuy0iR1sW3Jr7c2qOAuUfzT9q8Y3KBigJkkl7p0jWc7xgc8rf37f4MVzWaZGvShUvUIPISW6RY9LlvDzaMPsP+Yj9tT76yVAFrCF9eJEaAJJm7VTT1JyOdBZKGhYqV0VeAroY1vtQ6QMkxHOqRlOW6rrr4HSsf87W1oSz8TaYA9snkF/zG9Ef7fTo+lff/cQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

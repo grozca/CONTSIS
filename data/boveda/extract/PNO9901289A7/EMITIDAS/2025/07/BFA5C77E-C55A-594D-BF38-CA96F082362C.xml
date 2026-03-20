@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="G" Folio="33405" Fecha="2025-07-18T16:39:18" Sello="iQYDn1qzbRzgTRGWhbpJQNqUD9gd0uAwi5LIU4n2v4jfGA1GrZn/fZHbYbHgloRcVqXRY3q3uuOyFt6qf0ezOrs8q7Pa5v2veElnqZBXOWkxILDzvBOR3bvDmjf0wDGB/c6oCAwLVpdpa2NPBX7ehhHGir/uMkeXOzAAz9YMvpQIpCIIwA9G9DrRJejOK5+pMb0JYD6FOhDQGDwGWgwktcYBGoRKecxJxWkuxmMBkj194m+lq/q0K/1UsMjTnDVUWNSdQdoYtra8FHsDkMn1qlWcwhvCJ4itc2+tqEXRakZYo3lejyOBSA/VIrO81mK/CncIHH4lwPtSK/33QxHiTg==" FormaPago="99" NoCertificado="00001000000512142846" Certificado="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" CondicionesDePago="120 DIAS" SubTotal="1892.64" Moneda="MXN" Total="2195.46" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="AHM160921IU5" Nombre="ADIENT MEXICO AUTOMOTRIZ" DomicilioFiscalReceptor="66260" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="7502212170098" Cantidad="4" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="AGARRAPAPEL MAE BC51 51MM 2&quot; P/110HJS C/12 XZ.." ValorUnitario="57.73" Importe="230.92" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="230.92" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="36.9472" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="7503017021189" Cantidad="8" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARPETA VINIL T/C KYMA PANORAMA O&quot; 1 1/2  BLANCA XZ.." ValorUnitario="56.29" Importe="450.32" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="450.32" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="72.0512" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121121" NoIdentificacion="1110-101-27" Cantidad="8" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="ETIQUETA ADHES T/C VANGOGH BLANCA MATE C/50 XZ.." ValorUnitario="85.71" Importe="685.68" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="685.68" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="109.7088" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111519" NoIdentificacion="7502294250947" Cantidad="4" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="CARTULINA OPALINA T/C KIP 220GR C/100 XZ." ValorUnitario="131.43" Importe="525.72" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="525.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="84.1152" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="302.82">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="1892.64" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="302.82" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="BFA5C77E-C55A-594D-BF38-CA96F082362C" FechaTimbrado="2025-07-18T16:38:29" RfcProvCertif="SCD110105654" SelloCFD="iQYDn1qzbRzgTRGWhbpJQNqUD9gd0uAwi5LIU4n2v4jfGA1GrZn/fZHbYbHgloRcVqXRY3q3uuOyFt6qf0ezOrs8q7Pa5v2veElnqZBXOWkxILDzvBOR3bvDmjf0wDGB/c6oCAwLVpdpa2NPBX7ehhHGir/uMkeXOzAAz9YMvpQIpCIIwA9G9DrRJejOK5+pMb0JYD6FOhDQGDwGWgwktcYBGoRKecxJxWkuxmMBkj194m+lq/q0K/1UsMjTnDVUWNSdQdoYtra8FHsDkMn1qlWcwhvCJ4itc2+tqEXRakZYo3lejyOBSA/VIrO81mK/CncIHH4lwPtSK/33QxHiTg==" NoCertificadoSAT="00001000000702501858" SelloSAT="M8kBgus/uf6JtmXkiIZK8pWLj2OHWCvtg91O0qSuZFldMmkHzsKBqodwwtu6H/ayAeQJxamQd5UGcqEXh9qcNmxCCXPPm8c/rFuzXumUECpXKNK2OwtktoqhNxoEi2B0SOSeS6d7hYqhgaaeoBtuzV48lul9cSiCl8IopPvpWJQxisXfB/TTPGk8B34LsYcXtOtvSJ4CWsPZziQnR8CgGWomWS0dxlQ0LE3ritvciTX/GJ7J7t1g6yxFkL0rtn2JoeJPZlPvDYxMYQdkmzAgpDoqIZyNM9yRJrx20dSURbJa0EnD7AiJOE7z0LgvrhiCGtESS0EabuJFZ7OorJ2DAw==" />
+</cfdi:Complemento></cfdi:Comprobante>

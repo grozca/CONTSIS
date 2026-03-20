@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="F" Folio="292256" Fecha="2025-08-20T18:08:05" Sello="lLlGw5ro6r85imr3tVsoioBUzvlFeXmouHECspSswRwNoLEmIMCBoc50AbzJbX27tmWGlMUjdxtS8Q01G8/PCyoCC7qrMcV5zPZa1GfjGysprvEM7TkEJWGDYnDkLxGlwgQ1GvNMBx/2pFBnf5lV84jRsSZf/aqpeBPJ+P6SinctkBlvl8Jn3X4kfAEU9TuLPxEHF22PXw8KWvOeXE1EYIZCxJpCw2prnBublOqKG1PLk+VfTdXq43fTszdXa9cWtAR7pBB5ZQnpCzLnPFOTxnO/zLfym2n0Y8n4Eg+TPiSoiV6OS2sfvRAc5iVUU63fKBjnyCd5E1Hu6oRx8s0KwQ==" FormaPago="03" NoCertificado="00001000000710958839" Certificado="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" SubTotal="2404.75" Descuento="240.48" Moneda="MXN" TipoCambio="1" Total="2510.55" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72029" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+    <cfdi:Emisor Rfc="SPA86011021A" Nombre="SUPER PAPELERA" RegimenFiscal="601" />
+    <cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto ClaveProdServ="30266403" NoIdentificacion="469081044" Cantidad="30.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY LAMINA 95X70CMS HD ROSA PASTEL  PASCUA" ValorUnitario="18.2300" Importe="546.9000" Descuento="54.6900" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="492.2100" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="78.7536" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="14111616" NoIdentificacion="0800793" Cantidad="8.00" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="PAPEL LUSTRE GALAS C/25 VERDE BANDERA  GALAS" ValorUnitario="54.0000" Importe="432.0000" Descuento="43.2000" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="388.8000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="62.2080" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="343020501" Cantidad="6.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 250ML 314 ROJO  POLITEC" ValorUnitario="54.3800" Importe="326.2800" Descuento="32.6280" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="293.6520" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.9843" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="3430205037" Cantidad="6.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 250ML 302 NEGRO INTENSO  POLITEC" ValorUnitario="54.3800" Importe="326.2800" Descuento="32.6280" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="293.6520" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.9843" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="3430205045" Cantidad="6.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 250ML 312 VERDE CLARO  POLITEC" ValorUnitario="54.3800" Importe="326.2800" Descuento="32.6280" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="293.6520" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.9843" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="3430205042" Cantidad="6.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 250ML 308 NARANJA  POLITEC" ValorUnitario="54.3800" Importe="326.2800" Descuento="32.6280" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="293.6520" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.9843" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="44121600" NoIdentificacion="46802020" Cantidad="1.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TAPETE PARA CORTE MEDIANO A3  PASCUA" ValorUnitario="120.7300" Importe="120.7300" Descuento="12.0730" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="108.6570" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.3851" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="346.28">
+        <cfdi:Traslados>
+            <cfdi:Traslado Base="2164.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="346.28" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="E8E82132-7E22-11F0-B71F-B516FB07FF4E" FechaTimbrado="2025-08-20T18:08:07" SelloCFD="lLlGw5ro6r85imr3tVsoioBUzvlFeXmouHECspSswRwNoLEmIMCBoc50AbzJbX27tmWGlMUjdxtS8Q01G8/PCyoCC7qrMcV5zPZa1GfjGysprvEM7TkEJWGDYnDkLxGlwgQ1GvNMBx/2pFBnf5lV84jRsSZf/aqpeBPJ+P6SinctkBlvl8Jn3X4kfAEU9TuLPxEHF22PXw8KWvOeXE1EYIZCxJpCw2prnBublOqKG1PLk+VfTdXq43fTszdXa9cWtAR7pBB5ZQnpCzLnPFOTxnO/zLfym2n0Y8n4Eg+TPiSoiV6OS2sfvRAc5iVUU63fKBjnyCd5E1Hu6oRx8s0KwQ==" NoCertificadoSAT="00001000000700047508" SelloSAT="QMLyVH3wXZUDw6TjoYhYiOokzV2NyS8MON5PXbYoAGsMpXRUv6cTkxWT1KvzGc/Dr6+y/7rXkweygni84oq17A49sQiyFwz1ns2ob1gA8JcUhabb5aS8+rir0LdAyTrbGzEteFbeAFAPBGO1XabyW2Wyx4lexfqYaKoIe40W8dyLzMNj95RcNQMe0OgohBIklCsr5P7a3rFXshRedPbdUkZVpwpHreuGfAFDiEL9ZVZEL25gwaAVhKLVdcVgFk+l17+ZhGFnkYTjvET7X5QffRzxzUKOUFTK2DgmQ6x3ZfrRJksj228HfROwmDmNH0Y4jdPkn3YKfTK4XjRjvjqjkA==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

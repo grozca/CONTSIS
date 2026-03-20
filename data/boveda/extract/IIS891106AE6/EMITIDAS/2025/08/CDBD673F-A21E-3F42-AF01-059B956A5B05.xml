@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="2703" Fecha="2025-08-31T10:39:20" Sello="Wacc1HLVLhmtffQzSE48wpTuKdGRakhWp1/yckE9GYgAnJ7AJDYbKs8O5M6JOYlJ3RywGLT7x5nM6QNqCa4jQ0i2rV7dQkCtUx5KPq3lMqBECcosSjJn9AXhrxGNo6Fu8OBxscpF/E+GFKZlzDy6aM1/SMYiOEL6EGsKgdRW4TlPOQtLFP4I77LIFxDn4O9Oa4uk0UnYP93ukxmzkDhdcEUlI73BaqrYZ/6V6N6KhN51pB7htcfbV5EcD2g6D1J+jRab/KnxmgZ3eWQ03eCxEaIStl8PNDrNJUY4Bgdyl/B7CwBCzGdKRDwacAK1ISgIbWR1yyuWbrCGjh4Y7sgEVw==" FormaPago="99" NoCertificado="00001000000718080169" Certificado="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" CondicionesDePago="30 DIAS" SubTotal="4592.00" Moneda="USD" TipoCambio="18.644" Total="5326.72" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="TAM520130D49" Nombre="TUBOS DE ACERO DE MEXICO" DomicilioFiscalReceptor="91697" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026608" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 7/8&quot; 3RA OP POS.2  01.MA.501.12037&#xA;ITEM 00001" ValorUnitario="740.00" Importe="740.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="740.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="118.40" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026643" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; 6TA OP POS.2 01.MA.501.12046&#xA;ITEM 00007" ValorUnitario="1060.00" Importe="1060.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1060.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="169.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026644" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 7/8&quot; 5TA OP POS.2  01.MA.501.12039&#xA;ITEM 00008" ValorUnitario="740.00" Importe="740.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="740.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="118.40" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026656" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; 3RA OP POS.2 01.MA.501.12043&#xA;ITEM 00012" ValorUnitario="496.00" Importe="496.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="496.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="79.36" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026663" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 3/4&quot; 4TA OP POS.2 01.MA.501.12032&#xA;ITEM 00014" ValorUnitario="799.00" Importe="799.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="799.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="127.84" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026668" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 3/4&quot; 6TA OP COMPLEMENTO POS.3   01.MA.501.12034&#xA;ITEM 00017" ValorUnitario="471.00" Importe="471.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="471.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="75.36" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35027211" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON 1&quot; 5TA OP POS.4 01.MA.501.12073&#xA;ITEM 00019" ValorUnitario="286.00" Importe="286.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="286.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="734.72">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="4592.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="734.72" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="CDBD673F-A21E-3F42-AF01-059B956A5B05" FechaTimbrado="2025-08-31T10:54:26" RfcProvCertif="SCD110105654" SelloCFD="Wacc1HLVLhmtffQzSE48wpTuKdGRakhWp1/yckE9GYgAnJ7AJDYbKs8O5M6JOYlJ3RywGLT7x5nM6QNqCa4jQ0i2rV7dQkCtUx5KPq3lMqBECcosSjJn9AXhrxGNo6Fu8OBxscpF/E+GFKZlzDy6aM1/SMYiOEL6EGsKgdRW4TlPOQtLFP4I77LIFxDn4O9Oa4uk0UnYP93ukxmzkDhdcEUlI73BaqrYZ/6V6N6KhN51pB7htcfbV5EcD2g6D1J+jRab/KnxmgZ3eWQ03eCxEaIStl8PNDrNJUY4Bgdyl/B7CwBCzGdKRDwacAK1ISgIbWR1yyuWbrCGjh4Y7sgEVw==" NoCertificadoSAT="00001000000702501858" SelloSAT="QnC4GMgJx8KpNrljAtriZMw0VDGIY9EcWNAX4nNQAfsV62KwecIAT8xpKqp1SGZIrv+2Xwrz7q9Uw2hS5nItnOsnyJa1awf896rExk/8BkhQ9U2/UhNM7Z/Vp6P5zn/I9J6lyLFOVEuJN1XPXbs7Y0Y5rJi99+2hGjQPl0gzmslBuhIURg7moPS7E2dMakeuBw3/IyxwTQQVVJIz4sHIIFE5iqjMSawLiqLEj6dnbAZlPoaDzj37J+9nIUFPuHoVnDmKV1T4NJ+K7UHdA+QBqFaxyUNRIROqd+Lcm4mT74cCJw2bi0UMO9J4/LXbE5Pbw8A7PpfKsigBdtDvnW0ACg==" />
+</cfdi:Complemento></cfdi:Comprobante>

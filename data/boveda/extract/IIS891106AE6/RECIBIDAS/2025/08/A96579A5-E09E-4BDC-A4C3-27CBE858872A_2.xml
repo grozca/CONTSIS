@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="CONTADO" Exportacion="01" Fecha="2025-08-28T18:00:43" Folio="001715" FormaPago="28" LugarExpedicion="72490" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000712122357" Sello="OTSNFZS53x4DBMRw5kryZbArUxdGLT/HkPHZy37rEzWcD2z0xizTN0yx7L1PZWX0khsQwojMJDqFbCuOVMTetKa+WRwy+NOVBia7BwYV4PGl7SPy5D4OlYnto/8ZFMwZIz/A13LzInIb1R+BSlNYIklkP1me19PtKkuX6lCAar3nSpHtOuIDKCFnwiL53/2tMmw/rNQvbr4Awpc1L9I3yuUWDyuLAUjrzG47AjesWRSo1lh8C+iW8cKspMzkNF3bQM9HJlTTF+4MVaVmRmKZaJHJUP9gRdm0QiqXhg9EaGRVu/Xi7NpE218whBMgUzpkcgI/RkM77u9y5KPowrVY3A==" Serie="OPP" SubTotal="257.49" TipoDeComprobante="I" Total="298.69" Version="4.0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+  <cfdi:Emisor Nombre="TONY TIENDAS" RegimenFiscal="601" Rfc="TTI961202IM1" />
+  <cfdi:Receptor DomicilioFiscalReceptor="72470" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscalReceptor="601" Rfc="IIS891106AE6" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="14111525" ClaveUnidad="H87" Descripcion="PAPEL BOND CTA 10 COL SURTIDO /100" Importe="66.03" NoIdentificacion="06830098" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="66.03">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="66.03" Importe="10.56" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="14111525" ClaveUnidad="H87" Descripcion="PAPEL BOND 37K CTA BCO C/500H SMARMULT" Importe="68.88" NoIdentificacion="09730008" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="68.88">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="68.88" Importe="11.02" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="MEMORIA USB 16GB ST100 METALICA STYLOS" Importe="53.53" NoIdentificacion="05690010" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="53.53">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="53.53" Importe="8.57" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="MEMORIA USB 32GB UV220 VDE/RSA ADATA" Importe="69.05" NoIdentificacion="06690072" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="69.05">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="69.05" Importe="11.05" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="41.20">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="257.49" Importe="41.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="A96579A5-E09E-4BDC-A4C3-27CBE858872A" SelloCFD="OTSNFZS53x4DBMRw5kryZbArUxdGLT/HkPHZy37rEzWcD2z0xizTN0yx7L1PZWX0khsQwojMJDqFbCuOVMTetKa+WRwy+NOVBia7BwYV4PGl7SPy5D4OlYnto/8ZFMwZIz/A13LzInIb1R+BSlNYIklkP1me19PtKkuX6lCAar3nSpHtOuIDKCFnwiL53/2tMmw/rNQvbr4Awpc1L9I3yuUWDyuLAUjrzG47AjesWRSo1lh8C+iW8cKspMzkNF3bQM9HJlTTF+4MVaVmRmKZaJHJUP9gRdm0QiqXhg9EaGRVu/Xi7NpE218whBMgUzpkcgI/RkM77u9y5KPowrVY3A==" NoCertificadoSAT="00001000000717964008" FechaTimbrado="2025-08-28T18:00:43" SelloSAT="isX/bX+GbqA+5uGrx+O3GSuQPwbMJiKD3o1A/i03Wsl2AYaqkfKCQtpNBOd21PkYJloDt6X38qbaoDKHScV8yryp1od12U9ZEIngjYVftM2rnUTj6KoCYR9tBRqLTAdpgeIwVLNSFjNXcQ1rE/MpSRULVDQFVixna3BUxLoGVXwsNgOKSx1rEEKt5u+g9Q0isqAoQctAIqVflausi/a+yMKb6l4YolL59jJowUivIrmBTupmLt3T6E4NjIo+wKCSiuYNWDb4yurdMT7MZxhIIMc9jwvTKxhp9hVz3Q2AJNH5D7gvy61trRY4NxhYbinBi0PgHWc4fmCCDy11xo9FUg==" RfcProvCertif="SIF0403229F9" /></cfdi:Complemento></cfdi:Comprobante>

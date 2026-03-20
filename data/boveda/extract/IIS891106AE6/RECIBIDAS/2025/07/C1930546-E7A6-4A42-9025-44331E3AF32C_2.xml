@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="49871" Fecha="2025-07-15T08:44:03" Sello="aP+uRnoln4cNNsSpEQnXbxDnTMzwMAUyh2U3VV+M0id8bX6p8Y7VmK4CluzfGwrLfey5o8tHyqxJ/o1lws2XXpyB2U3q7aCYL0XNhfJgUFUoS/iXrbht+wVP8uQxAnb4xuge9OM0KZWxdOYWnMJQX9qp8oxoaJuqr0vqYqFyKApjNZnN/chq6/qw6gcSEea1Bns4gVC78XzMBjCK5E4yW5ivf33s2LZp1pgUl35Zet4gsS1p5XQgBPENcHdI2f8PFxoRr3l8oIS6Okv31N3kCFNXk1ly1pkc1Xv59kL7IIGttwyv1kjJzobc0cSu+5CJlbxQwBYpx0ef31NYXZS8vQ==" FormaPago="99" NoCertificado="00001000000714579782" Certificado="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" CondicionesDePago="Crédito 60 Días" SubTotal="1090.98" Moneda="USD" TipoCambio="18.751" Total="1265.54" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72225">
+  <cfdi:Emisor Rfc="FMA840102CK2" Nombre="FABRICA DE MAQUINAS Y ACCESORIOS" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="27112100" NoIdentificacion="AW-CAT40-NBH2084PSET" Cantidad="1" ClaveUnidad="10" Unidad="Jgo" Descripcion="Cono CAT40 NBH2084 Sistema de Mandrinado de 8 a 280mm&#xA;Set para Sistema de Micro Madrinado y Acabado&#xA;en el que el Tamaño de Diámetro Oscila &#xA;entre (8 ~ 280) mm, Peso: 7kg" ValorUnitario="864.00" Importe="864.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="864.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="138.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="23242108" NoIdentificacion="ZT-TPGH090204-YNG151" Cantidad="10" ClaveUnidad="H87" Unidad="Pza" Descripcion="Inserto TPGH-090204L-YNG151 para Acabado de Acero y Acero Inoxidable&#xA;Inserto Torneado-Fresado Grado YNG151  PVD-multicapa TiCN&#xA;Dimensiones:&#xA;Largo: 9.6mm, Altura: 2.38mm, Ø Interior: 2.5mm,&#xA;Circulo Inscrito: 5.56mm, Radio: 0.4mm &#xA;TPGHGrado con Resistencia al Desgaste y Alta Vida Útil de los Insertos,&#xA;Adecuado para el Acabado de Acero y  Acero Inoxidable &#xA;25  80  3577  5108830/2025-06-05/80-0 Colombia, N.L." ValorUnitario="8.784" Importe="87.84" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="87.84" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="14.0544" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+      <cfdi:InformacionAduanera NumeroPedimento="25  80  3577  5108830" />
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="23242107" NoIdentificacion="ZT-TBGH060102-YBG102" Cantidad="4" ClaveUnidad="H87" Unidad="Pza" Descripcion="Inserto Torneado TBGH-060102-L Grado YBG102&#xA;Inserto Torneado-Fresado Grado YBG102  para acabado y semiacabado en acero, acero inoxidable y aleaciones&#xA;Dimensiones:Largo: 6.4mm, Altura: 1.98mm, Ø Interior:2.2mm,&#xA;Circulo Inscrito: 3.97mm, Radio: 0.2mm." ValorUnitario="11.25" Importe="45.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="45.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="23242107" NoIdentificacion="ZT-TPGH221-L-YBG102" Cantidad="10" ClaveUnidad="H87" Unidad="Pza" Descripcion="Inserto Torneado TPGH-110304-L Grado YBG102 para Acabado y Semiacabado en Materiales P, M y S&#xA;ANSI Descripción: TPGH-221-L&#xA;Inserto de torneado para acabado y semiacabado en acero, acero inoxidable y aleaciones&#xA;Dimensiones:&#xA;Largo: 11mm, Altura: 3.18mm, Ø Interior: 3.18mm,&#xA;Circulo Inscrito: 6.35mm, Radio: 0.4mm&#xA;&#xA;&#xA;25  80  3577  5105024/2025-04-04/80-0 Colombia, N.L." ValorUnitario="9.414" Importe="94.14" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="94.14" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.0624" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+      <cfdi:InformacionAduanera NumeroPedimento="25  80  3577  5105024" />
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="174.56">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="1090.98" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="174.56" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="C1930546-E7A6-4A42-9025-44331E3AF32C" FechaTimbrado="2025-07-15T08:46:56" RfcProvCertif="SCD110105654" SelloCFD="aP+uRnoln4cNNsSpEQnXbxDnTMzwMAUyh2U3VV+M0id8bX6p8Y7VmK4CluzfGwrLfey5o8tHyqxJ/o1lws2XXpyB2U3q7aCYL0XNhfJgUFUoS/iXrbht+wVP8uQxAnb4xuge9OM0KZWxdOYWnMJQX9qp8oxoaJuqr0vqYqFyKApjNZnN/chq6/qw6gcSEea1Bns4gVC78XzMBjCK5E4yW5ivf33s2LZp1pgUl35Zet4gsS1p5XQgBPENcHdI2f8PFxoRr3l8oIS6Okv31N3kCFNXk1ly1pkc1Xv59kL7IIGttwyv1kjJzobc0cSu+5CJlbxQwBYpx0ef31NYXZS8vQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="fsL74h/F5ScATKSiDAxOXc3KZwudVb//8kgaGemKdfChTN0aVy4OxP2Enq4FAG1Y6VZYQ1l5fSR3mn3k6IRAl1OG8i173thmPs+LvoszHHAMCfFzExry+2NCU70Dnd002tfwgR9RYj98vnDNb1r0M/Me5V1jh8r20pEVYN4K95EkI5p2EdZLzhleLPEFYKm24qV0l+Mzjkny7PFdRbL+kidcWWCJ3DKHsOWeuqSZceHqB29f5Ezjl9CjyB9MwsMkiHFwQUqoCiKIZ2IXN2OO/njrtQIOe57cxIn13CnsLeC8Fu7KIcAHHzD55SyG8wsg/e+04AzA+hYOZqnD9WmnFQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

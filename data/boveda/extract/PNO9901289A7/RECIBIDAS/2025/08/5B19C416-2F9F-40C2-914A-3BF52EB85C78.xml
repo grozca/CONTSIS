@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante Version="4.0" Serie="AEI" Folio="521259" Fecha="2025-08-06T23:43:33" Sello="PP3iekFoaKHzDzv9lkEysHmckQXK+dIdyzQmRZt+l6VFfzEtCJ/f2Hgvl3EQqxrO7QoShDIbz3BF4AbIlL4LpQ090FdPKKxQVjvy/QikxxdnjxEahuwzWMGZrTnmEhmZmvMIEaco/YWSgnwkpV6RdWyzfO4B8Vty5ifGTjchDNiri85hH9cmmAyyyl9zssFdQlpDOcBXpQACHdxxAbv+ucQRKgM3CPwMV9CFALwgF3ipBkVN93TJk1cy3MC7IfL4gyEbtLg2JQdf33am3U6gim1qcow7DSvOjJgLS8zm/KCDF9n1Oy/LGtlMqLK3Hex0hJloaJXMS+XT84KMCkphRA==" FormaPago="03" NoCertificado="00001000000708180748" Certificado="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" CondicionesDePago="PAGO POR ADELANTADO" SubTotal="3228.78" Moneda="MXN" Total="3745.39" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="07040" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/Pagos20 http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos20.xsd http://www.sat.gob.mx/ComercioExterior11 http://www.sat.gob.mx/sitio_internet/cfd/ComercioExterior11/ComercioExterior11.xsd" xmlns:pago20="http://www.sat.gob.mx/Pagos20" xmlns:cce11="http://www.sat.gob.mx/ComercioExterior11"> 
+<cfdi:Emisor Rfc="SNU830613NH6" Nombre="SEDERIA LA NUEVA" RegimenFiscal="601" />
+<cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+<cfdi:Conceptos>
+<cfdi:Concepto ClaveProdServ="13111000" NoIdentificacion="FOMFOM037" Cantidad="7.000" ClaveUnidad="XPK" Unidad="Paquete" Descripcion="Foamy carta con diamantina nacarada paquete con 10 Pzs. / FechaAduana=2025-07-26" ValorUnitario="17.681000" Importe="123.767000" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Importe="19.802720" TasaOCuota="0.160000" TipoFactor="Tasa" Impuesto="002" Base="123.767000" />
+</cfdi:Traslados> 
+</cfdi:Impuestos> 
+<cfdi:InformacionAduanera NumeroPedimento="25  51  1826  5000628" />
+</cfdi:Concepto> 
+<cfdi:Concepto ClaveProdServ="13111000" NoIdentificacion="FOMFOM050" Cantidad="8.000" ClaveUnidad="XPK" Unidad="Paquete" Descripcion="Foamy cuadricarta con diamantina ultra brillante paquete con 10 Pzs. / FechaAduana=2025-07-26" ValorUnitario="70.043100" Importe="560.344800" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Importe="89.655168" TasaOCuota="0.160000" TipoFactor="Tasa" Impuesto="002" Base="560.344800" />
+</cfdi:Traslados> 
+</cfdi:Impuestos> 
+<cfdi:InformacionAduanera NumeroPedimento="25  51  1826  5000627" />
+</cfdi:Concepto> 
+<cfdi:Concepto ClaveProdServ="13111000" NoIdentificacion="FOMFOM069" Cantidad="9.000" ClaveUnidad="XPK" Unidad="Bolsa" Descripcion="Foamy pliego liso bolsa con 25 Pzs. No. 70 x 95 / FechaAduana=2025-06-23" ValorUnitario="282.741400" Importe="2544.672600" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Importe="407.147616" TasaOCuota="0.160000" TipoFactor="Tasa" Impuesto="002" Base="2544.672600" />
+</cfdi:Traslados> 
+</cfdi:Impuestos> 
+<cfdi:InformacionAduanera NumeroPedimento="25  51  1826  5000550" />
+</cfdi:Concepto> 
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="516.61">
+<cfdi:Traslados>
+<cfdi:Traslado Base="3228.78" Importe="516.61" TasaOCuota="0.160000" TipoFactor="Tasa" Impuesto="002" />
+</cfdi:Traslados>
+</cfdi:Impuestos><cfdi:Complemento><tfd:TimbreFiscalDigital FechaTimbrado="2025-08-06T23:45:45" UUID="5B19C416-2F9F-40C2-914A-3BF52EB85C78" NoCertificadoSAT="00001000000704859748" SelloCFD="PP3iekFoaKHzDzv9lkEysHmckQXK+dIdyzQmRZt+l6VFfzEtCJ/f2Hgvl3EQqxrO7QoShDIbz3BF4AbIlL4LpQ090FdPKKxQVjvy/QikxxdnjxEahuwzWMGZrTnmEhmZmvMIEaco/YWSgnwkpV6RdWyzfO4B8Vty5ifGTjchDNiri85hH9cmmAyyyl9zssFdQlpDOcBXpQACHdxxAbv+ucQRKgM3CPwMV9CFALwgF3ipBkVN93TJk1cy3MC7IfL4gyEbtLg2JQdf33am3U6gim1qcow7DSvOjJgLS8zm/KCDF9n1Oy/LGtlMqLK3Hex0hJloaJXMS+XT84KMCkphRA==" SelloSAT="IRj1NxtUD62pjiReJcGl4gPBBXh6It9WXFxR4lztNxyEx4CnbMQiQL3dRCWKQIiQxIy3bjP9UCGqL8mhwk7PaiiwA8wQOIh9nNwVBDnr3+O2jqI8FQ14kPvoG4+CKZmcQIFZvvurujwmwuLbSJXqIvo4zTTbvoB71ColWvPBdor8/ewrwIeM0T79rjmzHvhDIV5psabdsBaxluLEwaPw1UJ5F3A6Aeq+T0EKxRYdlJhhpy44VbaAJhhEJprHdq3wbqYLVM/ro831rYy11Y1RhK2O+KcrTOqAEGwuIg4jFk4tsPZl1JvDtjDubgkjCpikFaIlN4Ul61Jib9XWSgqinQ==" Version="1.1" RfcProvCertif="TLE011122SC2" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /></cfdi:Complemento>
+</cfdi:Comprobante>

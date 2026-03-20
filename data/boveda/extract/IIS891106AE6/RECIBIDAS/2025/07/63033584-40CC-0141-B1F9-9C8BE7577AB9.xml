@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/EstadoDeCuentaCombustible12 http://www.sat.gob.mx/sitio_internet/cfd/EstadoDeCuentaCombustible/ecc12.xsd" Version="4.0" Serie="TCGE" Folio="000003919645" FormaPago="03" Moneda="MXN" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="11520" Fecha="2025-07-31T10:16:35" SubTotal="463.80" Total="538.00" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" NoCertificado="00001000000715026062" Certificado="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" xmlns:ecc12="http://www.sat.gob.mx/EstadoDeCuentaCombustible12" Sello="XrnfX7ri39hD6dZz4fhaRGZulLHjobxqIpglDHl6L7xyoKYu8GMc+upjGwzfl/tLTDOIC8N/6g3Vk2QxP8VkpOLXtiwAbfVdzBshF2wI695jMojWSgPZj0UL2mUWi6vkH7LqZECM8XrP/OKGeZyweuFygHBfsSXCoPb833b3oiisOfsBBHHZcyJOCMjwdPSkODT2Oco+yvJ0QfuBUODe4Wq5GiC3KAKsF8pa73L5KW9FXe//J9cRy7jo8NNNPZYPOBV5dPLTf77WGdt410S+YW4SQikEWRisfm7K15/Iv7P5bxvXoQYuvzdzMmihxkcLTUT1p1RUdnCRk+D7lkeM3Q==">
+  <cfdi:Emisor Rfc="ASE930924SS7" Nombre="EDENRED MEXICO" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="84141602" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="COMISION SOBRE PEDIDOS" ObjetoImp="02" Cantidad="1.00" ValorUnitario="463.800000" Importe="463.80">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" Base="463.75" TasaOCuota="0.160000" Importe="74.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="74.20">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" Base="463.75" TasaOCuota="0.160000" Importe="74.20" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <ecc12:EstadoDeCuentaCombustible Version="1.2" TipoOperacion="Tarjeta" NumeroDeCuenta="00103044822001" SubTotal="12447.46" Total="14383.00">
+      <ecc12:Conceptos>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183025" Rfc="NPU900530EZ2" ClaveEstacion="03478" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="495883000" Fecha="2025-07-02T10:17:10" Cantidad="48.11" ValorUnitario="19.794" Importe="952.29">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="147.99" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183025" Rfc="NPU900530EZ2" ClaveEstacion="03478" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="497367203" Fecha="2025-07-11T13:21:23" Cantidad="17.51" ValorUnitario="19.794" Importe="346.59">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="53.86" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="NPU900530EZ2" ClaveEstacion="03478" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="497842440" Fecha="2025-07-15T10:00:34" Cantidad="40.01" ValorUnitario="19.794" Importe="791.96">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="123.07" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="CGA010307N18" ClaveEstacion="09296" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="496292628" Fecha="2025-07-04T11:57:28" Cantidad="28.72" ValorUnitario="20.760" Importe="596.23">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="92.76" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="CGA010307N18" ClaveEstacion="09296" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="498399734" Fecha="2025-07-18T13:52:30" Cantidad="27.57" ValorUnitario="20.760" Importe="572.35">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="89.05" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="RATX681027I98" ClaveEstacion="06829" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="496142296" Fecha="2025-07-03T11:29:11" Cantidad="42.86" ValorUnitario="20.613" Importe="883.47">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="137.46" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="RATX681027I98" ClaveEstacion="06829" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="496628798" Fecha="2025-07-07T17:49:16" Cantidad="47.60" ValorUnitario="20.613" Importe="981.18">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="152.65" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183025" Rfc="RATX681027I98" ClaveEstacion="06829" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="497725606" Fecha="2025-07-14T15:59:25" Cantidad="51.25" ValorUnitario="20.613" Importe="1056.42">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="164.36" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="RATX681027I98" ClaveEstacion="06829" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="498922329" Fecha="2025-07-22T09:00:50" Cantidad="25.13" ValorUnitario="20.656" Importe="519.09">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="80.76" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="RATX681027I98" ClaveEstacion="06829" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="499308589" Fecha="2025-07-24T10:41:14" Cantidad="46.12" ValorUnitario="20.656" Importe="952.65">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="148.23" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183025" Rfc="RATX681027I98" ClaveEstacion="06829" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="500229575" Fecha="2025-07-30T09:35:28" Cantidad="39.88" ValorUnitario="20.656" Importe="823.76">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="128.18" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="CPS091109246" ClaveEstacion="12343" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="496044548" Fecha="2025-07-03T20:22:43" Cantidad="14.21" ValorUnitario="19.794" Importe="281.27">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="43.71" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="CPS091109246" ClaveEstacion="12343" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="497107168" Fecha="2025-07-10T19:29:06" Cantidad="45.88" ValorUnitario="19.794" Importe="908.15">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="141.13" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="CPS091109246" ClaveEstacion="12343" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="498063424" Fecha="2025-07-16T21:49:24" Cantidad="49.10" ValorUnitario="19.794" Importe="971.89">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="151.03" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="CPS091109246" ClaveEstacion="12343" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="498216981" Fecha="2025-07-17T20:11:00" Cantidad="16.20" ValorUnitario="19.794" Importe="320.66">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="49.83" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="CPS091109246" ClaveEstacion="12343" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="499730103" Fecha="2025-07-27T12:38:02" Cantidad="28.45" ValorUnitario="19.794" Importe="563.14">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="87.51" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+        <ecc12:ConceptoEstadoDeCuentaCombustible Identificador="6363180029183041" Rfc="CPS091109246" ClaveEstacion="12343" TipoCombustible="1" Unidad="01" NombreCombustible="Magna" FolioOperacion="500003999" Fecha="2025-07-29T07:15:45" Cantidad="46.80" ValorUnitario="19.794" Importe="926.36">
+          <ecc12:Traslados>
+            <ecc12:Traslado Impuesto="IVA" TasaOCuota="0.160000" Importe="143.96" />
+          </ecc12:Traslados>
+        </ecc12:ConceptoEstadoDeCuentaCombustible>
+      </ecc12:Conceptos>
+    </ecc12:EstadoDeCuentaCombustible>
+  <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="63033584-40CC-0141-B1F9-9C8BE7577AB9" FechaTimbrado="2025-08-01T10:49:56" RfcProvCertif="SCD110105654" SelloCFD="XrnfX7ri39hD6dZz4fhaRGZulLHjobxqIpglDHl6L7xyoKYu8GMc+upjGwzfl/tLTDOIC8N/6g3Vk2QxP8VkpOLXtiwAbfVdzBshF2wI695jMojWSgPZj0UL2mUWi6vkH7LqZECM8XrP/OKGeZyweuFygHBfsSXCoPb833b3oiisOfsBBHHZcyJOCMjwdPSkODT2Oco+yvJ0QfuBUODe4Wq5GiC3KAKsF8pa73L5KW9FXe//J9cRy7jo8NNNPZYPOBV5dPLTf77WGdt410S+YW4SQikEWRisfm7K15/Iv7P5bxvXoQYuvzdzMmihxkcLTUT1p1RUdnCRk+D7lkeM3Q==" NoCertificadoSAT="00001000000702501858" SelloSAT="MX63x2XXiv2AvVzPZ4RmL32JmVVu/xzmuEL1bvWTILUbgvVnLq4rTi7mDveswTQdSJoQK0PxD8+VKFqqioi5epBWXaA9pF5/T4PhSNwDZzQdAUsQGaDixVEOaAoOkShv8k6K6Zc8IMREg+6Z2VPK7bKDanCkxRO2Y/kOvOmDnKfHadhEiwbySAWiTa/lGDq1Qplu6DuMNoa4LZ6knWkyJIweVlJGhmAlVydfYVRbAHtWeN2voIUTGvTzTvoVCI4lq3cw5hnQupkLwwUdfmyvmO5qhCyT/wAQN5VT1o4hT5J47DneP0URq353Jq4VOZ6b4AeAzOTi2aa1fM0QjS3I9Q==" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="R" Folio="138" Fecha="2025-08-11T21:47:01" Sello="aGinXc070Z6ewAl4SSkKRL8eDqqQhL0u6+v46xDDnofVOUukKAumR6cGg2C2+fAqPczqxkWQuUtf/AaJiViA+hkcoa9viTyCe5M7aj2OSr81KqUtTvpCjGeVHOLKN7VAS8aqEKd1Asn3tmpUgHhrCETqJf/JfLEVH5GpNQs12xcpGCtyPdn2AHtbhy66kLd76wmnLfHQZdGOcS4dnMjQaILnv6YPTlTmjqGZ0ifTxWCGFffLzSe7vL6+/JtDx6QNKZslM5j3222r333qshMjpWNjS3dLo1Yz3eWUFObouwmnXDqD3DhtimBl+eYNf4zpOYTPil877HUTmYjb6CqjLA==" FormaPago="03" NoCertificado="00001000000514450863" Certificado="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" SubTotal="3325.00" Moneda="MXN" Total="3815.43" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72490" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="AARA6701096N6" Nombre="ARTURO ALCANTAR ROMERO" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="44103105" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CARTUCHO DE TINTA BROTHER AMARILLO 1500 PAG AL 5%" ValorUnitario="620" Importe="620.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="620.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="99.200000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="620.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="7.750000" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103105" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CARTUCHO DE TINTA BROTHER CIAN 1500 PAG AL 5%" ValorUnitario="620" Importe="620.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="620.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="99.200000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="620.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="7.750000" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103105" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CARTUCHO DE TINTA BROTHER NEGRO ALTO RENDIMIENTO" ValorUnitario="890" Importe="890.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="890.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="142.400000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="890.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="11.125000" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103100" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BOTELLA DE TINTA CANON PFI-050" ValorUnitario="1195" Importe="1195.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1195.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="191.200000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1195.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="14.937500" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="532.00" TotalImpuestosRetenidos="41.57">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="41.57" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="3325.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="532.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="6B3C1F70-FBB1-46A7-8238-A9461D22DDD0" FechaTimbrado="2025-08-11T21:47:45" RfcProvCertif="SAT970701NN3" SelloCFD="aGinXc070Z6ewAl4SSkKRL8eDqqQhL0u6+v46xDDnofVOUukKAumR6cGg2C2+fAqPczqxkWQuUtf/AaJiViA+hkcoa9viTyCe5M7aj2OSr81KqUtTvpCjGeVHOLKN7VAS8aqEKd1Asn3tmpUgHhrCETqJf/JfLEVH5GpNQs12xcpGCtyPdn2AHtbhy66kLd76wmnLfHQZdGOcS4dnMjQaILnv6YPTlTmjqGZ0ifTxWCGFffLzSe7vL6+/JtDx6QNKZslM5j3222r333qshMjpWNjS3dLo1Yz3eWUFObouwmnXDqD3DhtimBl+eYNf4zpOYTPil877HUTmYjb6CqjLA==" NoCertificadoSAT="00001000000705250068" SelloSAT="G5OWtyoglRaUdXXzmEPVQEvKUfuFmDF8qs/GYtq273NNL8pbYLFMMOmkiGvmYRzmKohbSPSd0CVnnLW6K2Y3wZrK2Ny8Oefw/cICazt41GnntjzcJOVlF0LN+1cNx1z3MamEgL79wPn5ymGAaNtTnaSv8wHVTatC0dF1jGWCKA6f8uV9pGfeipVflKpL2j+saNWhQiQYAV/Uz3tnQ1vUvMaD00mzqA+yZuFHU8MQcTpKhSRR6qbUjkYSwPNrTiyElMK8ehUm1s8X95UGWfXNnCDg8M6kdKM2GP96NgbTOhkcbfKCzGuw78B86PDSOcTnfJ/5zHPM9DPqvvlyxdVgng==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="CREDITO" Descuento="176.64" Exportacion="01" Fecha="2025-08-30T10:43:50" Folio="592060" FormaPago="99" LugarExpedicion="72000" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000712122357" Sello="JN7x7iJC/7LswGaHQEfd41KTHCFybUZhAcouYgtEf+h7o+QCnJn+eBykjqA07e5NPIE/GJgTlCCLTYwGVzGfG8t2Bsay2qdTG/t5uewMSb05wCQwNLsAiX8I3BkfZ5IT+lChlHMNH7kfsn4AB7/pi17+KRVypDvkSb4hw6vjWfCpBYkC1eWlqEYFxqPLqzIOxEmtIqPCpj5HU24eTiLwYvLyOu3VaKcO5w9MlTQZBPsT+9mcSNaWFPqCBcC7KgfK9/X7FDIFNU2w4bntHNvk+Z/sXhO8KQGu5Ehfm7kf8JHJgAr4B0IWknyvo3DBK1A23DK92G25cORSC/byizmDUw==" Serie="FPP" SubTotal="7065.66" TipoDeComprobante="I" Total="7991.26" Version="4.0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+  <cfdi:Emisor Nombre="TONY TIENDAS" RegimenFiscal="601" Rfc="TTI961202IM1" />
+  <cfdi:Receptor DomicilioFiscalReceptor="72420" Nombre="PAPELERIA NOFER" RegimenFiscalReceptor="626" Rfc="PNO9901289A7" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="12" ClaveProdServ="13101900" ClaveUnidad="H87" Descripcion="FOAMY MOLDEABLE 50G MORADO" Descuento="3.450000" Importe="138.240000" NoIdentificacion="06630115" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="11.520000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="134.790000" Importe="21.566400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="12" ClaveProdServ="13101900" ClaveUnidad="H87" Descripcion="FOAMY MOLDEABLE 50G AZUL REY" Descuento="3.450000" Importe="138.240000" NoIdentificacion="06630108" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="11.520000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="134.790000" Importe="21.566400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="12" ClaveProdServ="13101900" ClaveUnidad="H87" Descripcion="FOAMY MOLDEABLE 50G NEGRO" Descuento="3.450000" Importe="138.240000" NoIdentificacion="06630117" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="11.520000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="134.790000" Importe="21.566400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="12" ClaveProdServ="13101900" ClaveUnidad="H87" Descripcion="FOAMY MOLDEABLE 50G ROSA MEXICANO" Descuento="3.450000" Importe="138.240000" NoIdentificacion="06630119" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="11.520000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="134.790000" Importe="21.566400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="6" ClaveProdServ="44121708" ClaveUnidad="H87" Descripcion="MARCADOR P/PIZARRON GRSO AZL C/6 DIDACTIC" Descuento="15.530000" Importe="621.120000" NoIdentificacion="08350112" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="103.520000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="605.590000" Importe="96.894400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="3" ClaveProdServ="44121708" ClaveUnidad="H87" Descripcion="MARCADOR P/PIZARRON GRSO RJO C/6 DIDACTIC" Descuento="7.760000" Importe="310.560000" NoIdentificacion="08350114" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="103.520000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="302.800000" Importe="48.448000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="18" ClaveProdServ="31201622" ClaveUnidad="H87" Descripcion="PEGAMENTO PEGATODO TBO 125ML UHU" Descuento="36.620000" Importe="1464.660000" NoIdentificacion="05120004" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="81.370000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1428.040000" Importe="228.486400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="18" ClaveProdServ="31201622" ClaveUnidad="H87" Descripcion="PEGAMENTO PEGATODO TBO 35ML UHU" Descuento="18.270000" Importe="730.620000" NoIdentificacion="05120003" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="40.590000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="712.350000" Importe="113.976000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="12" ClaveProdServ="31201600" ClaveUnidad="H87" Descripcion="PEGAMENTO BLANCO 850 1KG RESISTOL" Descuento="37.700000" Importe="1507.800000" NoIdentificacion="06420020" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="125.650000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1470.100000" Importe="235.216000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="6" ClaveProdServ="60121503" ClaveUnidad="H87" Descripcion="MARCADOR P/COL DELG LAVABLE BOL/24 NORMA" Descuento="9.890000" Importe="395.400000" NoIdentificacion="07980303" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="65.900000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="385.510000" Importe="61.681600" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="12" ClaveProdServ="13101900" ClaveUnidad="H87" Descripcion="FOAMY MOLDEABLE 50G VERDE LIMON" Descuento="3.460000" Importe="138.240000" NoIdentificacion="06630123" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="11.520000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="134.780000" Importe="21.564800" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="18" ClaveProdServ="31201600" ClaveUnidad="H87" Descripcion="PEGAMENTO BLANCO 850 110G RESISTOL" Descuento="11.010000" Importe="440.460000" NoIdentificacion="06420017" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="24.470000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="429.450000" Importe="68.712000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="12" ClaveProdServ="31201600" ClaveUnidad="H87" Descripcion="PEGAMENTO BLANCO 850 500G RESISTOL" Descuento="22.600000" Importe="903.840000" NoIdentificacion="06420019" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="75.320000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="881.240000" Importe="140.998400" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1102.24">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="6889.02" Importe="1102.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="0A903B04-3237-4ECD-9724-DF905E8D3C1D" SelloCFD="JN7x7iJC/7LswGaHQEfd41KTHCFybUZhAcouYgtEf+h7o+QCnJn+eBykjqA07e5NPIE/GJgTlCCLTYwGVzGfG8t2Bsay2qdTG/t5uewMSb05wCQwNLsAiX8I3BkfZ5IT+lChlHMNH7kfsn4AB7/pi17+KRVypDvkSb4hw6vjWfCpBYkC1eWlqEYFxqPLqzIOxEmtIqPCpj5HU24eTiLwYvLyOu3VaKcO5w9MlTQZBPsT+9mcSNaWFPqCBcC7KgfK9/X7FDIFNU2w4bntHNvk+Z/sXhO8KQGu5Ehfm7kf8JHJgAr4B0IWknyvo3DBK1A23DK92G25cORSC/byizmDUw==" NoCertificadoSAT="00001000000717964008" FechaTimbrado="2025-08-30T13:11:44" SelloSAT="JpbocqIYnVVqMSzh2LuiwLRFlsMb357EZ0czkXpAo40KJm9TCEUwAE0/njUGl1oNJY6dDSOW+tA6iLK/ThIXDOg1/DjuONZiJqtvdsouYBdvTqKI2M8h2/wyULTnugFxCj0O6mISHDn052kdMVLJahvnDG5DAvdet7iFO6642RXNQlFY+NBf50xFLPl0R72ToyLJqiZF3Cc4y+6YY+B4fToVBW+hukTEEflIGQlB+pPh/WFovh3d98t8Udbuw+gTcyxGjq+Da6KfQvb5fjcQj9mwaMvWIFZN3s32QbYHpuzQoYUbHeBRtE6I2VxKleVh9Z9wnqJAbhLpEXW35yUulA==" RfcProvCertif="SIF0403229F9" /></cfdi:Complemento></cfdi:Comprobante>

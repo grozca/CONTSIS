@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="G" Folio="33468" Fecha="2025-07-24T18:52:45" Sello="gECV0wD73XZ6aAcNaCrIqo9HomLVE9wGOuZoSMzD6v5bUdneU8Zbk+bFLoMj9GwDXoaoTd6AsTUS/tL3W13EnpyuY4by59JGBiiib1yhtin60cxQqyT/nsUQrDjFfTgMdBYDQg6FKSgWMCEnSnLC3XBlwoDfjGvcTDD6GhYi5qLqzjUcsoFXZ5pVwQ20ncUe1Apwe2XTm5RJ/qnRc5MHMa+w7o7vgJGLc0ohkjJallentxQJDnQCRKQjtKSoB0ysN0hjWFLL7J9jgHcQ6l6sOQJjxFvfxivVbUJ2AiHShB/L5Z0PbbX5EDFuskzpDXYaJj//cePUWZE8rSw3uoNAEg==" FormaPago="03" NoCertificado="00001000000512142846" Certificado="MIIF8zCCA9ugAwIBAgIUMDAwMDEwMDAwMDA1MTIxNDI4NDYwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMjAzMzAxNjM2NTJaFw0yNjAzMzAxNjM2NTJaMIHBMSEwHwYDVQQDExhQQVBFTEVSSUEgTk9GRVIgU0EgREUgQ1YxITAfBgNVBCkTGFBBUEVMRVJJQSBOT0ZFUiBTQSBERSBDVjEhMB8GA1UEChMYUEFQRUxFUklBIE5PRkVSIFNBIERFIENWMSUwIwYDVQQtExxQTk85OTAxMjg5QTcgLyBURUxNNTMwMTA4VjVBMR4wHAYDVQQFExUgLyBURUxNNTMwMTA4SFBMTE5HMDUxDzANBgNVBAsTBlVOSURBRDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMk/ImkDzaJXohWTO5JXH1LjDbyEVK6gRLS03odb+mQqbXhnHYoBFFgiMaDrPKbVPnKU9hKRyybHVrOvaDOuFfUnDMbcfze39moOxv4jW57BZsYyYuRCVNN8KJNt8mTKiv+CWjNIcfL0ba23Qp4pUyQyYJW7e12QnXq66cJWZ7jI3S2mRuPwQJajX48lkUom8DdWXEqObf/Cf9pTHUmYq4Mb7BFfom5hJ6//CsV4eYWYZvbcKRqesIIMlXpoihKCtNDiyAPVYV8bO+CScGJuUZhZM91WyG3UeXIwxhnCGyedUFam0b0XuK/fwQNP1NLY9Nnm5BgMNy+B80z31VERaJ0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAGdL6hUPyIzJlWgs5Ql7xMtwFtraQLuIhR8Am+fylpfNVsAf9FzMeo6c2Krj7qWKjoRON63A68GLKtpaZpaMqAA0N1wfkpt/ceZn59ffhaWLyOtOqdDNYnvfb2WzFLfy43pNMvQRy58JtXWmnquTeLSLNEHJwHdWfxgSYzvboFprFOorHTievVZ5f4TOajUJJ2DL50xBu2i0PnuAmGXwJs5+7KqhjdnmMOuXimUva/TN74V0OGd4yIfMZl8e+odCjRX0zrLHgWGJPWjsBt6/Yau4yGz0tV2yVx5PGTXlRLyuW+yiX6rJ8tvFgUIq/miswCbZGPKA41+KZJOed64lY6ZB7AEG+XBehOtLn+vtETeZwrXWmB5sKKeHMgTJWA5fgUrK3OkyOxSfqbVC9Z9e/O9g52ZY1Xxbg+yQ9oq+eGYPul0cDrUw1ontYG5qYVXcd0iofUBwLb9h5Zh+jTeEaaDCwxfOMUXI/sm4EQpGdErJae48d3AmvSaL7FdBP6qShCT9cs9nJsSXmnbeTsT+HJDO0yfmXlqlmTB1dFoLJv0q42QilYX5QEy/MkR2tkv/XGstw6mVvbC4J/1mleKG12OWX+zE4yj8aCdy5TnXghI2ayF31b99P9NBs2LtiBippfw1pwJUKnVTUP+fn9NEeqpXWbg61VbMSMcod4lMfpDx" CondicionesDePago="CONTADO" SubTotal="4103.60" Moneda="MXN" Total="4760.18" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="PAG170127AF0" Nombre="PAGARSU" DomicilioFiscalReceptor="72150" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052807404" Cantidad="48" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PERMANENTE ARTLINE EK-041T D/P NEGRO XZ.." ValorUnitario="17.00" Importe="816.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="816.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="130.56" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052807435" Cantidad="24" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PERMANENTE ARTLINE EK-041T D/P VERDE XZ.." ValorUnitario="17.00" Importe="408.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="408.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="65.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052807411" Cantidad="36" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PERMANENTE ARTLINE EK-041T D/P AZUL XZ.." ValorUnitario="17.00" Importe="612.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="612.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="97.92" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052819483" Cantidad="17" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PERMANENTE ARTLINE EK-109 AZUL XZ.." ValorUnitario="13.44" Importe="228.48" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="228.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="36.5568" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052819490" Cantidad="16" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PERMANENTE ARTLINE EK-109 VERDE XZ.." ValorUnitario="13.44" Importe="215.04" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="215.04" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="34.4064" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052819469" Cantidad="14" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PERMANENTE ARTLINE EK-109 NEGRO XZ.." ValorUnitario="13.44" Importe="188.16" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="188.16" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.1056" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052836169" Cantidad="2" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="MARCADOR P/PIZ ARTLINE EK-159 AZUL C/12 XZ.." ValorUnitario="204.49" Importe="408.98" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="408.98" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="65.4368" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052836145" Cantidad="2" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="MARCADOR P/PIZ ARTLINE EK-159 NEGRO C/12 XZ.." ValorUnitario="204.49" Importe="408.98" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="408.98" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="65.4368" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052836183" Cantidad="2" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="MARCADOR P/PIZ ARTLINE EK-159 ROJO C/12 XZ.." ValorUnitario="204.49" Importe="408.98" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="408.98" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="65.4368" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121500" NoIdentificacion="4974052836206" Cantidad="2" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="MARCADOR P/PIZ ARTLINE EK-159 VERDE C/12 XZ.." ValorUnitario="204.49" Importe="408.98" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="408.98" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="65.4368" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="656.58">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="4103.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="656.58" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="0F999BAA-E4C5-2F44-874D-49FE6CD4CEB4" FechaTimbrado="2025-07-24T18:51:53" RfcProvCertif="SCD110105654" SelloCFD="gECV0wD73XZ6aAcNaCrIqo9HomLVE9wGOuZoSMzD6v5bUdneU8Zbk+bFLoMj9GwDXoaoTd6AsTUS/tL3W13EnpyuY4by59JGBiiib1yhtin60cxQqyT/nsUQrDjFfTgMdBYDQg6FKSgWMCEnSnLC3XBlwoDfjGvcTDD6GhYi5qLqzjUcsoFXZ5pVwQ20ncUe1Apwe2XTm5RJ/qnRc5MHMa+w7o7vgJGLc0ohkjJallentxQJDnQCRKQjtKSoB0ysN0hjWFLL7J9jgHcQ6l6sOQJjxFvfxivVbUJ2AiHShB/L5Z0PbbX5EDFuskzpDXYaJj//cePUWZE8rSw3uoNAEg==" NoCertificadoSAT="00001000000702501858" SelloSAT="hcA/MRXcxZGcXws7/Swx9Tq26ro2CcyHvXPUP2LBvWZGrcwKc0NAkMXyYfk5cZLrg2g8odTARjBEASU+LZFkXb7JXMEGrDvwWxP9fyX7TFP1/KKd3d1Km2eq2DZ0NY4az0p12qBS2kQvhnqUJjLzCbNs++X56nK6XYZyT3GwchBIIVytC7vHDgoeBYbPO/Y/XEkJck+SYavkRBvsXARRyzXWDQc615jMRMhE6er+fMawPslDyjyW+YCcd26Clz1AnVX58s6DWQB1LvJOk4GB8f+UA1JBewNbCVLr1GqhfL2qXapV474FMr0lhToSBEEW2lt1LkIqqKbcGVE6OgE/mw==" />
+</cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="RA" Folio="240993" Fecha="2025-08-08T15:15:37" Sello="fjjwBYjiEkZwjPdnVv4MSlNPjE1EKdjJe/ZJkLO6cR7Mj5X47rcJq8HHd0d7UbD++CrbsYEgmqNgOWYahWIu09G67fIA6dxp/uszWATnN9PCpAioK/8/7kIIq260ZscAkDjiTWLkaGOnOVGM2s9LoF5cASRTkSjfkw/z1d6e68V8o1e3LcN3AIHYPwZ+7UHiOi4Y3QzYeppisZ9DEBFpzbdDUTaGSlIBmoxVx40g2pDCAZiJRjtDGl+FgA3p7f8oQgiY/+ImaXHKsWCzqf/8yB5zmrpDlylwoN3Jj6qCXIst36FVdzm7i1FqltckJ8q90ogJAlwkKmMLdLvVX2LQcA==" FormaPago="03" NoCertificado="00001000000714152671" Certificado="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" CondicionesDePago="Contado" SubTotal="2305.00" Descuento="461.00" Moneda="MXN" Total="2139.04" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="27250">
+  <cfdi:Emisor Rfc="APC860429U75" Nombre="APLICACIONES Y PROYECTOS COMPUTACIONALES" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="81112500" NoIdentificacion="RSBAB" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="Servicio de Bancos Microsip (1 usuario)" ValorUnitario="415.00" Importe="415.00" Descuento="83.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="332.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="53.12" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81112500" NoIdentificacion="RSINB" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="Servicio de Inventarios Microsip (1 usuario)" ValorUnitario="205.00" Importe="205.00" Descuento="41.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="164.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81112500" NoIdentificacion="RSCCB" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="Servicio de Cuentas por cobrar Microsip (1 usuario)" ValorUnitario="205.00" Importe="205.00" Descuento="41.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="164.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81112500" NoIdentificacion="RSVERP" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="Servicio de Ventas Microsip (5 usuarios)" ValorUnitario="685.00" Importe="685.00" Descuento="137.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="548.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="87.68" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81112500" NoIdentificacion="RSCPB" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="Servicio de Cuentas por pagar Microsip (1 usuario)" ValorUnitario="205.00" Importe="205.00" Descuento="41.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="164.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81112500" NoIdentificacion="RSCMB" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="Servicio de Compras Microsip (1 usuario)" ValorUnitario="245.00" Importe="245.00" Descuento="49.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="196.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="31.36" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="81112500" NoIdentificacion="RSPVB" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="Servicio de Punto de venta Microsip (1 usuario)" ValorUnitario="345.00" Importe="345.00" Descuento="69.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="276.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44.16" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="295.04">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="1844.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="295.04" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="4C12AB2F-A702-E54C-8F81-ED5896F2E041" FechaTimbrado="2025-08-08T15:15:38" RfcProvCertif="SCD110105654" SelloCFD="fjjwBYjiEkZwjPdnVv4MSlNPjE1EKdjJe/ZJkLO6cR7Mj5X47rcJq8HHd0d7UbD++CrbsYEgmqNgOWYahWIu09G67fIA6dxp/uszWATnN9PCpAioK/8/7kIIq260ZscAkDjiTWLkaGOnOVGM2s9LoF5cASRTkSjfkw/z1d6e68V8o1e3LcN3AIHYPwZ+7UHiOi4Y3QzYeppisZ9DEBFpzbdDUTaGSlIBmoxVx40g2pDCAZiJRjtDGl+FgA3p7f8oQgiY/+ImaXHKsWCzqf/8yB5zmrpDlylwoN3Jj6qCXIst36FVdzm7i1FqltckJ8q90ogJAlwkKmMLdLvVX2LQcA==" NoCertificadoSAT="00001000000702501858" SelloSAT="HBf+f75CGc+SuxmYHBcpIwkHm+LB90I3jSsL+oo6TOd76CKxOP98KTi2pWzRUim+DiM/yf603at2cTZ4tSygUwkO+RTY5gUENivkvngTzuVF+YXN1BVh8ngi9VbOklvaiYb4VpD0K8gXHF7+yYrEKZd3XXHFNXggDP1X9mNftDER2aryNFRdAiYSkRHAL95AG1bxFGZO1NWOfcPlrNUNcbe0hWFxgDeWewfEf5QF2YYw7ICZV9m6+T+GPwUUrhdhOUGh1OGiRORlxVWfdxD8NLxw5NQ9m3merJkajChYP5ZKjoFOvRbLp21xBxc/T034ssc7Y9UZqN+qQ09cMjwmbg==" />
+</cfdi:Complemento></cfdi:Comprobante>

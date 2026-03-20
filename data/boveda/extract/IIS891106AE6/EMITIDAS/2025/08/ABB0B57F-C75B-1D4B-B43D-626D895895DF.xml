@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cce20="http://www.sat.gob.mx/ComercioExterior20" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/ComercioExterior20 http://www.sat.gob.mx/sitio_internet/cfd/ComercioExterior20/ComercioExterior20.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="2693" Fecha="2025-08-28T17:05:40" Sello="h/oMTQCYc+Uona1Js9OPPVVexpBibfsqDthJuXWfOhsLrMY8xuBaQqjfPg/iUF+uxLxRg7e9swFOJBxBvvjKU5EL7bH3FF0NpwYmYAaeK8nezqXnAvNMKfrP+5utjjFBxG3KLIkp5rfRrN3P5+gr1p0GIJfUSlifoinTI1C2/hHzcWId5pzu9ePIrKBPC4rCXXPlPmSQRe3KYqfE8tvZbyj85CQjXEY7jNjPZmHySAh/DYsPWWhf/tTVIStxDeG/w/xqii6U/X7eyYCGSNHzqhfcp3IuuNkdym76P0vuIiWZvAU+tR1wsaunhWvCCSuNsj/y8hm4fvPXgYe4d6l/rQ==" FormaPago="99" NoCertificado="00001000000718080169" Certificado="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" CondicionesDePago="30 DIAS" SubTotal="7920.00" Moneda="USD" TipoCambio="18.6912" Total="7920.00" TipoDeComprobante="I" Exportacion="02" MetodoPago="PPD" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="XEXX010101000" Nombre="TENARIS RODS USA INC" DomicilioFiscalReceptor="72470" ResidenciaFiscal="USA" NumRegIdTrib="371713270" RegimenFiscalReceptor="616" UsoCFDI="S01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35027648." Cantidad="20" ClaveUnidad="XKI" Unidad="Juego" Descripcion="BRONZE SEAL FOR 7/8&quot; INJECTION MOLD (8 MITADES) POS.2 02.MA.506.11856&#xA;ITEM 00001" ValorUnitario="198.00" Importe="3960.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3960.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35027649." Cantidad="20" ClaveUnidad="XKI" Unidad="Juego" Descripcion="BRONZE SEAL FOR 3/4&quot; INJECTION MOLD&#xA;ITEM 00002" ValorUnitario="198.00" Importe="3960.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3960.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="7920.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <cce20:ComercioExterior Version="2.0" ClaveDePedimento="A1" CertificadoOrigen="0" Incoterm="FCA" TipoCambioUSD="18.6843" TotalUSD="7920.00">
+      <cce20:Emisor>
+        <cce20:Domicilio Calle="AV TECALI" NumeroExterior="6371" Colonia="0304" Localidad="03" Municipio="114" Estado="PUE" Pais="MEX" CodigoPostal="72470" />
+      </cce20:Emisor>
+      <cce20:Receptor NumRegIdTrib="371713270">
+        <cce20:Domicilio Calle="CENTRAL RODS USA INC" Colonia="2200 WEST LOOP SOUTH STE 800" Localidad="TEXAS, USA" Municipio="HOUSTON" Estado="TX" Pais="USA" CodigoPostal="77027" />
+      </cce20:Receptor>
+      <cce20:Destinatario NumRegIdTrib="371713270" Nombre="TRUS MIDLAND">
+        <cce20:Domicilio Calle="2418 N COUNTRY ROAD" NumeroExterior="1119" Colonia="79706-4950 MIDLAND" Localidad="TEXAS, USD" Municipio="HOUSTON" Estado="TX" Pais="USA" CodigoPostal="79706" />
+      </cce20:Destinatario>
+      <cce20:Mercancias>
+        <cce20:Mercancia NoIdentificacion="35027648." FraccionArancelaria="7419809999" CantidadAduana="10.5" UnidadAduana="01" ValorUnitarioAduana="377.142857" ValorDolares="3960.00" />
+        <cce20:Mercancia NoIdentificacion="35027649." FraccionArancelaria="7419809999" CantidadAduana="11.2" UnidadAduana="01" ValorUnitarioAduana="353.571429" ValorDolares="3960.00" />
+      </cce20:Mercancias>
+    </cce20:ComercioExterior>
+  <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="ABB0B57F-C75B-1D4B-B43D-626D895895DF" FechaTimbrado="2025-08-28T17:19:04" RfcProvCertif="SCD110105654" SelloCFD="h/oMTQCYc+Uona1Js9OPPVVexpBibfsqDthJuXWfOhsLrMY8xuBaQqjfPg/iUF+uxLxRg7e9swFOJBxBvvjKU5EL7bH3FF0NpwYmYAaeK8nezqXnAvNMKfrP+5utjjFBxG3KLIkp5rfRrN3P5+gr1p0GIJfUSlifoinTI1C2/hHzcWId5pzu9ePIrKBPC4rCXXPlPmSQRe3KYqfE8tvZbyj85CQjXEY7jNjPZmHySAh/DYsPWWhf/tTVIStxDeG/w/xqii6U/X7eyYCGSNHzqhfcp3IuuNkdym76P0vuIiWZvAU+tR1wsaunhWvCCSuNsj/y8hm4fvPXgYe4d6l/rQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="laSUPx5j6lAnGfZ357TpAewPUzICRofW8gi1LOW6n4gEiiy7zO9+mKaa2VqSxnf/E4btr7HLG5E68rjjjWFEFclzYFSmT1kcCv1jEsczdka66Nw07uI2Ve0wTzoRzf7UBf8UxRCK3NonCAqFUZqwUBLOh0wu9GAy9mfIVbssntZrxswREirnkrlva2z9Npr5gtdt+XZUNQDobXHULxaMB+F4a4hN0NH+fTOUkIELSFL1CCFUQYWG+JBejBRRkKwQwDzOK5aC4WGuXYQ8j+DjzxVR4q37A6pQn9XAcYJdXyLx+CvzEXe3bSfu27BmIhg132MI0Rqqu1EGmcvQvwwj0w==" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

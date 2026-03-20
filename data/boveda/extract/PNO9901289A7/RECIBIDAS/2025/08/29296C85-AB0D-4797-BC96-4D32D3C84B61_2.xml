@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="PB" Folio="318020" Fecha="2025-08-18T09:14:37" FormaPago="99" SubTotal="1363.05" Moneda="MXN" Total="1581.14" Sello="GF7G73BZFjxEMj0R/m1hkwKiZ4M9ZNFUrQ8G5N+8IBoBh9Ul/KcZfhxL7rs+10E7YlCPX1TkPPpMwhr247zB1HmAz9sdVIP/P63XNKyjP6wrDOoNLKP2IKCqiTWLoMgNeYv+NJcqafeCy6eo3VNdRfsje9r+7z+m0IHAambBvsVwPVyVOF0jM/Zte5mmZtmm8sD4hrPGLQq/nvZ62BZEW1vL0LMxYqYrQWrr5STjRxaTqZDDwKmG5TCqioOUYB6xtpdigb0QZM2/x9RcblUgAh/GYz7lkzIt0YWpXAg+6dJyALNYq69d1p9gI2cCAIGW50fdhVaI/a5TtogT2qmLFg==" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72000" Certificado="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" NoCertificado="00001000000509398294"><cfdi:Emisor Rfc="ENO8910131AA" Nombre="EXEL DEL NORTE" RegimenFiscal="601" />
+<cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+<cfdi:Conceptos>
+<cfdi:Concepto ClaveProdServ="44121700" NoIdentificacion="68235" Cantidad="24" ClaveUnidad="XPK" Unidad="XPK" Descripcion="PQTE, BOLIGRAFO PAPERMATE KILOMETRICO 1.0MM COLORES SURTIDOS C/10" ValorUnitario="38.46" Importe="923.08" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="923.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="147.69" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="44121615" NoIdentificacion="401" Cantidad="2" ClaveUnidad="H87" Unidad="H87" Descripcion="PZA, ENGRAPADORA PILOT 401 GOLPE CROMADA TIRA COMPLETA" ValorUnitario="180.24" Importe="360.48" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="360.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="57.68" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="44121708" NoIdentificacion="830-4" Cantidad="1" ClaveUnidad="XPK" Unidad="XPK" Descripcion="PQTE, Marcador Magistral Aluminio Pizarrón Blanco Colores Surtidos C/4 Pzas" ValorUnitario="79.49" Importe="79.49" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="79.49" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.72" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="218.09">
+<cfdi:Traslados>
+<cfdi:Traslado Base="1363.05" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="218.09" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="29296C85-AB0D-4797-BC96-4D32D3C84B61" FechaTimbrado="2025-08-18T09:16:11" RfcProvCertif="SFE0807172W8" SelloCFD="GF7G73BZFjxEMj0R/m1hkwKiZ4M9ZNFUrQ8G5N+8IBoBh9Ul/KcZfhxL7rs+10E7YlCPX1TkPPpMwhr247zB1HmAz9sdVIP/P63XNKyjP6wrDOoNLKP2IKCqiTWLoMgNeYv+NJcqafeCy6eo3VNdRfsje9r+7z+m0IHAambBvsVwPVyVOF0jM/Zte5mmZtmm8sD4hrPGLQq/nvZ62BZEW1vL0LMxYqYrQWrr5STjRxaTqZDDwKmG5TCqioOUYB6xtpdigb0QZM2/x9RcblUgAh/GYz7lkzIt0YWpXAg+6dJyALNYq69d1p9gI2cCAIGW50fdhVaI/a5TtogT2qmLFg==" NoCertificadoSAT="00001000000710052019" SelloSAT="bzQ1r5jiH3HL9qQ2m+nBDB1UdpRmL2zeN1lo0s7CaijVr3uNEeadPDNyyBoZTFeCRXTEbYSY4yoQW3vwY7uVyHBXC15mOq/SUBpftdbAyz+hUIKl81ZeyhmrDwlYpPKLO5axXiPQLTbpRlgD5IV5Z7AQGNXqTZbHl8G5IcC/Qycefi3sA6ToywBm1GJSAvO585twTG6x+0diy+S3iuQ9g6QRQk5C8QU26zzbUZxap1BdKAV6lTgqZ+qm/luc5+tGtwAkHEWoirf32FVShW/dfbaxaZOODznwrb1dfrAXBVe1zhizfeYnPYyWKr2vqbCgWMaUiZRTD0RBT1mgxdFBYw==" /></cfdi:Complemento></cfdi:Comprobante>

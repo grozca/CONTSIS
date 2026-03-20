@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="F" Folio="292762" Fecha="2025-08-27T19:09:04" Sello="JP09A5W1V3lAv654K92IcIgKAwjOGHf1rf1zvUxiVZBF4DjbSAAVbdAZK2AaJygzC000YZYlUejuj8LUSn3er8dVzYqeW1k+jwjOfhEtPb4J8ykUqTzCQg8rDKsDR0kYOvJ5C1w4HynlQtrSDJUauNDa5x8I1dyg+L0BJtx2YgSqhylsm9LMa3UuUYOL26KByiDGZG7Zl1SGxzSV2Oj1bCB70UsXYh/EnkEzGRRer5iN5t2IJcJhSQtSKiuNXE/vofs10i7QJIIO+jSPRuH9ElPFGP7rWPjaK8DiTe62y0sQQVNiB3I23mW1M81bDq6Ub0/H7uHgtIx3nCrasaq+Eg==" FormaPago="03" NoCertificado="00001000000710958839" Certificado="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" SubTotal="2242.39" Descuento="224.24" Moneda="MXN" TipoCambio="1" Total="2341.05" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72029" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+    <cfdi:Emisor Rfc="SPA86011021A" Nombre="SUPER PAPELERA" RegimenFiscal="601" />
+    <cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto ClaveProdServ="30266403" NoIdentificacion="469081061" Cantidad="30.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY LAMINA 95X70CMS NG VERDE BOSQUE  PASCUA" ValorUnitario="18.2300" Importe="546.9000" Descuento="54.6900" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="492.2100" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="78.7536" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121535" NoIdentificacion="1130200001" Cantidad="1.00" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="GOMA FACTIS C/20 S20 CMFS20  FACTIS" ValorUnitario="145.5300" Importe="145.5300" Descuento="14.5530" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="130.9770" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20.9563" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="44121800" NoIdentificacion="18602070" Cantidad="5.00" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="GOMA MIGASOFT C/20 108511  MAPED" ValorUnitario="110.1600" Importe="550.8000" Descuento="55.0800" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="495.7200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="79.3152" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60105704" NoIdentificacion="09302073" Cantidad="24.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="LAPIZ ADHESIVO PRITT PS 22GRS  PRITT" ValorUnitario="21.5100" Importe="516.2400" Descuento="51.6240" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="464.6160" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="74.3386" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="44121600" NoIdentificacion="46802020" Cantidad="4.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TAPETE PARA CORTE MEDIANO A3  PASCUA" ValorUnitario="120.7300" Importe="482.9200" Descuento="48.2920" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="434.6280" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="69.5405" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="322.90">
+        <cfdi:Traslados>
+            <cfdi:Traslado Base="2018.15" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="322.90" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="96BB7882-83AB-11F0-B985-090B3E06A2EB" FechaTimbrado="2025-08-27T19:09:07" SelloCFD="JP09A5W1V3lAv654K92IcIgKAwjOGHf1rf1zvUxiVZBF4DjbSAAVbdAZK2AaJygzC000YZYlUejuj8LUSn3er8dVzYqeW1k+jwjOfhEtPb4J8ykUqTzCQg8rDKsDR0kYOvJ5C1w4HynlQtrSDJUauNDa5x8I1dyg+L0BJtx2YgSqhylsm9LMa3UuUYOL26KByiDGZG7Zl1SGxzSV2Oj1bCB70UsXYh/EnkEzGRRer5iN5t2IJcJhSQtSKiuNXE/vofs10i7QJIIO+jSPRuH9ElPFGP7rWPjaK8DiTe62y0sQQVNiB3I23mW1M81bDq6Ub0/H7uHgtIx3nCrasaq+Eg==" NoCertificadoSAT="00001000000700047508" SelloSAT="b2Tase0v8L1eZ+UzTNpro09xplSSfyNVTqMtyDJ8vrVm2kX2MyXSy+YHPtHS/4Kwo/qASCCvzO5N/Io9tXOrq8zk7sDJfthQs4hkThq2mrBUnAu4wcIgapuqAwav/xr8tKJ+0SYYMZXnQYSpYs1d1H+epY0+MdIReWUMNG+CgQCfhuWxRi3JELU3pRGtixnXlZ2suipSZeg8un9hx0P476kMQvmW0uPO7tbIlLEzbNKdkrtvYfH0f3E4p7tbcnLRdqQyoAb5AYLlhumfQmkVOR5RqxxN5nnBF7Pmz25DsPQlCBfAiKIvQkpkhSfyZPU63cw0I+vrQpLvPf2RZCMtqg==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

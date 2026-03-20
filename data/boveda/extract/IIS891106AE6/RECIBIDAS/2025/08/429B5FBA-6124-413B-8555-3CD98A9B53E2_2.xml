@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="2647" Folio="2692" Fecha="2025-08-31T16:07:28" Exportacion="01" Sello="ZCdemQTVJBd4N5ASrijtJkQA7o2cDvrVlk5TEwvxMlYNkMegcOfJrNqC+DjND0BAqpUzVbLX0mUdrN5i5D3NUXypgFZBclNVjrXw9XWwNrhc/h0fptd2SFbN8rJTbzt7YWEzYs54+tSO+YpyEHSUAKTQe+mLBvJVOUycin3jDM8TqmVq5SnPqhXXQE3EaGly8aQuealX3OoWpzo5hCBscoTYQJbHbIfqjAOHNxH+dVxUVOiFcFL+Qo4oF4sEgCk4uOGOd8ddUlN4mEVkmpCtSvwSj/yN41P7ncHvUl0N8U0v/leVmwlICQR+j+Vl4pVaqalYvbX63JRGBJ3I+1wfRg==" FormaPago="01" NoCertificado="00001000000710874176" Certificado="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" SubTotal="91.38" Descuento="5.17" Moneda="MXN" TipoCambio="1" Total="100.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="72090">
+  <cfdi:Emisor Nombre="7-ELEVEN MEXICO" Rfc="SEM980701STA" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" UsoCFDI="G03" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50161815" Cantidad="1.00" ClaveUnidad="H87" Descripcion="BUBBALO ROLL MORA 56.7 G" ValorUnitario="37.931034" Importe="37.931034" Descuento="0.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="37.931034" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.068966" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202306" Cantidad="2.00" ClaveUnidad="XPK" Descripcion="COCA COLA ORIGINAL 600ML" ValorUnitario="18.533276" Importe="37.066552" Descuento="5.170000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.896552" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.103448" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202306" Cantidad="1.00" ClaveUnidad="XPK" Descripcion="SIDRAL REFR DIETA 600ML" ValorUnitario="16.37931" Importe="16.37931" Descuento="0.00000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="16.37931" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.62069" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="13.79">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Base="86.21" Importe="13.79" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="429b5fba-6124-413b-8555-3cd98a9b53e2" FechaTimbrado="2025-08-31T16:07:29" RfcProvCertif="AUR100128NN3" SelloSAT="M12wZsmaBn3NWs+OsVmevy9RAIuxcquVSXM5yuk5DKWHcUUDTG4LhAbqXf8UiuFfH7UIaPRpgxDIZzxt8+124INpEoLCKWXkP8ErsguXNZ3953cmZ7/VPYhtynEsuAqFRwgyu1pRcZoZA4XvsdcbC29wav8W7hZc7GdKaYYu+q4Id4fbJld3sqbW/f6IdmlgNWbxw1drJB0EP8rONt++FeB4JSQ7Vwjgc8T9AkcedJLipgsS7dLHCthghG7lxRRqN7JvOE+jyHLoJxUpCopNFuOIk0gvpRRBNpF7vHSN8pAHQi5hOVBwyOJYmFhvumPciTsOLlHJbvy6U6eGJvbKxw==" SelloCFD="ZCdemQTVJBd4N5ASrijtJkQA7o2cDvrVlk5TEwvxMlYNkMegcOfJrNqC+DjND0BAqpUzVbLX0mUdrN5i5D3NUXypgFZBclNVjrXw9XWwNrhc/h0fptd2SFbN8rJTbzt7YWEzYs54+tSO+YpyEHSUAKTQe+mLBvJVOUycin3jDM8TqmVq5SnPqhXXQE3EaGly8aQuealX3OoWpzo5hCBscoTYQJbHbIfqjAOHNxH+dVxUVOiFcFL+Qo4oF4sEgCk4uOGOd8ddUlN4mEVkmpCtSvwSj/yN41P7ncHvUl0N8U0v/leVmwlICQR+j+Vl4pVaqalYvbX63JRGBJ3I+1wfRg==" NoCertificadoSAT="00001000000710611637" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

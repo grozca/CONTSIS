@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pago20="http://www.sat.gob.mx/Pagos20" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/Pagos20 http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos20.xsd" Version="4.0" Fecha="2025-07-30T18:49:36" NoCertificado="00001000000709605441" Certificado="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" SubTotal="0" Moneda="XXX" Total="0" TipoDeComprobante="P" Exportacion="01" LugarExpedicion="72490" Folio="178" Serie="M" Sello="iANLFGXpQyC+7kc4SA8kyKN+p9YCReIzxvjCNOTgcxgSYtW0i24c4bG6qvPPtjvykeaQ0DwHyIqzacoiARhH+4X/9mM0z3X1lAKS4O8E+Pu+Bvf7uXApm6dIWp+n8AXjHW9CLu74s8vWUHHnRi4EKlv57KcQjGAY70Be/XgA9gkAjzr3eLsBTTuyDdafwuZWZ1SzkM66VqSG8T0ZBbAFr89tpB+otBWC+NUjs2jsLayzjYV3PDxEfbXQ5036eA8w8bHdsJ9rBJzG6tTKVk1u3aTs7HOq+dIo5BFejf+XRJU80AqBMj88bciylI+x0eQTWk8tG6MydGfT0OVxsU6tUw==">
+	<cfdi:Emisor Rfc="COLG760809DD4" Nombre="MARIA GUADALUPE COLIN LOPEZ" RegimenFiscal="626" />
+	<cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="CP01" />
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="84111506" Cantidad="1" ClaveUnidad="ACT" Descripcion="Pago" ValorUnitario="0" ObjetoImp="01" Importe="0" />
+	</cfdi:Conceptos>
+	<cfdi:Complemento>
+		<pago20:Pagos Version="2.0">
+			<pago20:Totales TotalTrasladosBaseIVA16="4000" TotalTrasladosImpuestoIVA16="640" TotalRetencionesISR="50" MontoTotalPagos="4590" />
+			<pago20:Pago FechaPago="2025-07-25T14:41:30" FormaDePagoP="03" MonedaP="MXN" TipoCambioP="1" Monto="4590.00" RfcEmisorCtaOrd="BBA830831LJ2" CtaOrdenante="012650004491811802" RfcEmisorCtaBen="BSM970519DU8" CtaBeneficiario="60581136981">
+				<pago20:DoctoRelacionado ImpSaldoAnt="4590.00" EquivalenciaDR="1" ImpPagado="4590.00" ImpSaldoInsoluto="0.00" NumParcialidad="1" ObjetoImpDR="02" MonedaDR="MXN" IdDocumento="E8939FB9-70E3-494F-9B37-3B9554BE552E" Folio="178" Serie="M">
+					<pago20:ImpuestosDR>
+						<pago20:RetencionesDR>
+							<pago20:RetencionDR BaseDR="4000" ImpuestoDR="001" TipoFactorDR="Tasa" TasaOCuotaDR="0.012500" ImporteDR="50" />
+						</pago20:RetencionesDR>
+						<pago20:TrasladosDR>
+							<pago20:TrasladoDR BaseDR="4000" ImpuestoDR="002" TipoFactorDR="Tasa" TasaOCuotaDR="0.160000" ImporteDR="640" />
+						</pago20:TrasladosDR>
+					</pago20:ImpuestosDR>
+				</pago20:DoctoRelacionado>
+				<pago20:ImpuestosP>
+					<pago20:RetencionesP>
+						<pago20:RetencionP ImpuestoP="001" ImporteP="50" />
+					</pago20:RetencionesP>
+					<pago20:TrasladosP>
+						<pago20:TrasladoP ImpuestoP="002" TipoFactorP="Tasa" TasaOCuotaP="0.160000" ImporteP="640" BaseP="4000" />
+					</pago20:TrasladosP>
+				</pago20:ImpuestosP>
+			</pago20:Pago>
+		</pago20:Pagos>
+		<tfd:TimbreFiscalDigital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" RfcProvCertif="CCF1011111K9" SelloSAT="BXoEzR3jFijxE//YajmYB6gN6td1IVBeB6y1BdAic8rvpNNMAkl60BUu59hpwvHAq693Khw5FK2BkJdYRl+EK+4VZz+ZM/v2Vj52r/S9WMuCNyGPnze+7xEI2zvwTMsU++KPgWXPYU8i1S4PehrTzWiNKA4mFaAKplwkYsD9Wt+SjzFVhP5d1akW99KpT11ZdWYMQR5+ys40HjW3SlKg3DP+fyMawPnHxPjk4n18AuLQysskU0ziX3HasHXmm4FNDIs9hqMmMd41Td05IfYDhZdRdp3jWUsN1yoJFZhJKFk39AOb5N4pU15KbpyyWqcYfQfRfMQ4Fsh7PDksUyf3XA==" NoCertificadoSAT="00001000000716931633" FechaTimbrado="2025-07-30T18:55:08" UUID="D3AE0819-5322-415E-91FF-47A68793FF24" SelloCFD="iANLFGXpQyC+7kc4SA8kyKN+p9YCReIzxvjCNOTgcxgSYtW0i24c4bG6qvPPtjvykeaQ0DwHyIqzacoiARhH+4X/9mM0z3X1lAKS4O8E+Pu+Bvf7uXApm6dIWp+n8AXjHW9CLu74s8vWUHHnRi4EKlv57KcQjGAY70Be/XgA9gkAjzr3eLsBTTuyDdafwuZWZ1SzkM66VqSG8T0ZBbAFr89tpB+otBWC+NUjs2jsLayzjYV3PDxEfbXQ5036eA8w8bHdsJ9rBJzG6tTKVk1u3aTs7HOq+dIo5BFejf+XRJU80AqBMj88bciylI+x0eQTWk8tG6MydGfT0OVxsU6tUw==" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+	</cfdi:Complemento>
+</cfdi:Comprobante>

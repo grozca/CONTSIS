@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="10VCZ" Folio="3238539250730215105099" Fecha="2025-07-30T14:51:05" Exportacion="01" Sello="hZMqaa4+XT8PGZQdVVBlyqg+HjCFkh45fYdH0VamLgbZQtjQ1AhEjc02mWOQXzzQznT6J7VPO4BW+z8ZGHJbi7cVSCFdPeFI4ArcUjl5Op4XJ0LKeLuB0fX3pu5lWdlFuzR+5Lv9Tx26Zq1UQ9EMvdPqYmnAa4xM8lhgBVV6lcft49DvfVmurtcs9IshMdki9A4GnK9z5vCCVQiVoK0zx7prWaVwR3Y07AVY1VTjPpcHE34ned7mjK1OU/b0S4pSN6IGMzw8/9hc52b4aARWnFFso+yYdYn/LmexDwwCW9CekJPoh6hTFtLcScqO35chZu0ajuM6lDer9Bpqfapoow==" FormaPago="01" NoCertificado="00001000000713776116" Certificado="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" SubTotal="63.28" Moneda="MXN" Total="67.00" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="91687">
+  <cfdi:Emisor Nombre="CADENA COMERCIAL OXXO" Rfc="CCO8605231N4" RegimenFiscal="623" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" UsoCFDI="G03" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50201708" NoIdentificacion="55258" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="12OZ AMERICANO REGULAR" ValorUnitario="23.275862" Importe="23.275862" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202301" NoIdentificacion="758104007516" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="AGUA NATURAL BONAFONT 500 ML BOTELLA" ValorUnitario="10.00" Importe="10.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202304" NoIdentificacion="7501013105780" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="JUMEX 0% 960ML MANZANA" ValorUnitario="30.00" Importe="30.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="30.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="3.72">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Base="23.28" Importe="3.72" />
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Base="40.00" Importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="88566f44-eb0d-444d-931a-1fda644ce55f" FechaTimbrado="2025-07-30T15:51:05" RfcProvCertif="AUR100128NN3" SelloSAT="jyFkY3jK8UBcK8W/lRzetpX1BPS1AAHF738Dz1n3ScYVn1kjwy3cXCfC5sgI1rED4bCBDBdXYLdyxa6z0GDYeiaHlFniri/imKyZi/5Zo0wx9KKIgd1wj4OT/lTwOpbiwg9hZpuiLkXTij6RVVpLfuRjvkY2+e2OrQR9Y41TGTgdgeu6ROyzr56EVhgmdnwL2esIGdSuFhkaAvZneFCDZ79PpZ0DLmIe/r2f4br33dcX4d6BjOpNbIcKv9M4mz2XV4hnAMEoteme7M3pyzPAbEIguoiqjKYWLXjzf1QEHgVrH63PPRLlFE57DaG5o8nQ/yBnQBC/r+oORSwd7/3egA==" SelloCFD="hZMqaa4+XT8PGZQdVVBlyqg+HjCFkh45fYdH0VamLgbZQtjQ1AhEjc02mWOQXzzQznT6J7VPO4BW+z8ZGHJbi7cVSCFdPeFI4ArcUjl5Op4XJ0LKeLuB0fX3pu5lWdlFuzR+5Lv9Tx26Zq1UQ9EMvdPqYmnAa4xM8lhgBVV6lcft49DvfVmurtcs9IshMdki9A4GnK9z5vCCVQiVoK0zx7prWaVwR3Y07AVY1VTjPpcHE34ned7mjK1OU/b0S4pSN6IGMzw8/9hc52b4aARWnFFso+yYdYn/LmexDwwCW9CekJPoh6hTFtLcScqO35chZu0ajuM6lDer9Bpqfapoow==" NoCertificadoSAT="00001000000710611637" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

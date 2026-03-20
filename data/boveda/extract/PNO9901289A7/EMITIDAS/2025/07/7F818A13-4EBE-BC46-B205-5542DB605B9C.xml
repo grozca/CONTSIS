@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="G" Folio="33396" Fecha="2025-07-17T14:29:40" Sello="wULtWlkaJsVzCu3fSnranUhPIYpsoViLrQZKpyotTMAtJCPyQMHNSHwHU/T1GxZcXIXs7CAuzbXFvRROqQGCsO/7JSgp4yPEZbk57yDMJBXkDVh0vPnu4W6ivCf5r8TaumJRz51UQkDxFV3vY1e01RgT9TXXMbabKtDMKpJv/se90EUHCSMrYrgrWCZ/rDVt6p2VOdXREqNyWIt+/YajyosuoBdqX/6Smon78mNhgUvEC/MoKqHc3fDUjefWcaqN/fQGXNc3gIcIiq1crKBPDC64WivlvYD8PIBH96S1uXNxdvCDIH+C2jhmn9KK1BJJHMamsHiYydyKOR91E9L7/A==" FormaPago="28" NoCertificado="00001000000512142846" Certificado="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" CondicionesDePago="CONTADO" SubTotal="125.86" Moneda="MXN" Total="146.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="FCP0007269J5" Nombre="FUNDACION COMUNITARIA PUEBLA" DomicilioFiscalReceptor="72530" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="60121100" NoIdentificacion="100293" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PAPEL CAPLE 71X125 1 CARA 12PTS XZ.." ValorUnitario="12.93" Importe="12.93" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12.93" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.0688" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111519" NoIdentificacion="100084" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PAPEL ILUSTRACION NEGRO 1/4 XZ.." ValorUnitario="48.275" Importe="48.28" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="48.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.7248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="11151700" NoIdentificacion="100539" Cantidad="10" ClaveUnidad="XRO" Unidad="ROLLO" Descripcion="HILO CERA PLATA/ORO" ValorUnitario="2.5862" Importe="25.86" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.1376" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121100" NoIdentificacion="100130" Cantidad="3" ClaveUnidad="MTR" Unidad="METRO" Descripcion="PAPEL METALUSTRE COLS MT XZ." ValorUnitario="12.931" Importe="38.79" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="38.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.2064" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="20.14">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="125.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="20.14" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="7F818A13-4EBE-BC46-B205-5542DB605B9C" FechaTimbrado="2025-07-17T14:29:24" RfcProvCertif="SCD110105654" SelloCFD="wULtWlkaJsVzCu3fSnranUhPIYpsoViLrQZKpyotTMAtJCPyQMHNSHwHU/T1GxZcXIXs7CAuzbXFvRROqQGCsO/7JSgp4yPEZbk57yDMJBXkDVh0vPnu4W6ivCf5r8TaumJRz51UQkDxFV3vY1e01RgT9TXXMbabKtDMKpJv/se90EUHCSMrYrgrWCZ/rDVt6p2VOdXREqNyWIt+/YajyosuoBdqX/6Smon78mNhgUvEC/MoKqHc3fDUjefWcaqN/fQGXNc3gIcIiq1crKBPDC64WivlvYD8PIBH96S1uXNxdvCDIH+C2jhmn9KK1BJJHMamsHiYydyKOR91E9L7/A==" NoCertificadoSAT="00001000000702501858" SelloSAT="e5V9qOhTdtQlC7kHGTOG2LL8NFZDhLGYpJW6rcnEvndcm2Qz0YGUGEikmWi87FJ8RVO0igQaOKetgBhFKHmDjigcOESXgaofPW2wjJR75KJ1XqAW+Mgn+Mw7pSUvf5Wo/tMpVwzRV49kP9Bf1IWFAO34/eV1QzPYQ4bT0661cOSYRrhJ/CDVVdDvG+m0jy2TZi5Q1y32VZDMEkGi1VparVKsruMS3wVWUyuEdyVwJUQrh7uLwHdAutBg7BuJWnXdr40ENYbXbB7ABjGqe9lepXYZv/2/R7TanPnyviCV9tJz/F5274NfC8Wj1Wx2haaQx7CbtzZkfiKrI28xYzDf7A==" />
+</cfdi:Complemento></cfdi:Comprobante>

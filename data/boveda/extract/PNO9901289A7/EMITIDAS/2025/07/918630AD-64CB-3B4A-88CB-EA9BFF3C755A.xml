@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="G" Folio="33483" Fecha="2025-07-25T09:15:07" Sello="vxO34fXcSolHR4xBUg2eHWFCWK698nxy8wIYwJceBieTByMa5y7uS6009uI1qJaW0K1J3YTzooq5v8BCYc5PsOZIwPnbfnIX1zrT4ImIMEdqcrxPqx0fJY3MEPdAi4E4ivaHSnsGGEm4I0Ku17OFpzZ7K3/uvpH79AuwMreVTENGb4+wKgNdfUD5oHNB/DMmooUFOEc3PtiIERXJxBkchboNoL5wcTVaREVyaFfduwDXoE4HtCcYuC4IoRj2DA0vW3GRXB2xwcjtgiei/XnXUR7xfZlrjJN6ge2oyVe1BN3dEC2hy1MtyD4yqysvqhkjUjuj/zCajdMDoGspnIU5eQ==" FormaPago="99" NoCertificado="00001000000512142846" Certificado="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" CondicionesDePago="30 DIAS" SubTotal="23112.20" Moneda="MXN" Total="26810.15" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="ITA840625SP5" Nombre="LA ITALIANA" DomicilioFiscalReceptor="72089" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="14111808" NoIdentificacion="602760001237" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="LIBRO F/I ESTRELLA FLORETE RAYADO 96HJS XZ.." ValorUnitario="193.79" Importe="3875.80" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3875.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="620.128" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="8022" Cantidad="300" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="REGISTRADOR T/C LUX MEDIO XZ.." ValorUnitario="26.70" Importe="8010.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8010.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1281.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31201500" NoIdentificacion="7502008430351" Cantidad="30" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CINTA MASKING DEVEK PMS104B 48X50M PZA XZ.." ValorUnitario="30.66" Importe="919.80" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="919.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="147.168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="1110-100-07" Cantidad="30" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARPETA VINIL T/C KYMA PANORAMA &quot;O&quot; 2&quot; BLANCA XZ.." ValorUnitario="44.33" Importe="1329.90" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1329.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="212.784" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="441220" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="REGISTRADOR T/MEMORANDUM KYMA VERDE JASP XZ.." ValorUnitario="27.30" Importe="546.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="546.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="87.36" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44111515" NoIdentificacion="1110-100-03" Cantidad="150" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ARCHIVO MUERTO KYMA PLASTICO T/C 35X30X25 XZ.." ValorUnitario="42.11" Importe="6316.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6316.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1010.64" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122100" NoIdentificacion="7502212171132" Cantidad="20" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="CLIP JUMBO MAE CSJ C/100 XZ.." ValorUnitario="18.53" Importe="370.60" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="370.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="59.296" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122100" NoIdentificacion="1110-100-20" Cantidad="20" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="CLIP STANDARD A-INK PS-2 No. 2 C/100 XZ.." ValorUnitario="5.53" Importe="110.60" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="110.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.696" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122011" NoIdentificacion="1110-100-73" Cantidad="1000" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOLDER T/C KYMA FOLKY-TC CREMA PZA XZ.." ValorUnitario="1.31" Importe="1310.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1310.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="209.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121627" NoIdentificacion="1110-100-29" Cantidad="50" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCATEXTO JOCAR AMARILLO PZA XZ.." ValorUnitario="6.46" Importe="323.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="323.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="51.68" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="3697.95">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="23112.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3697.95" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="918630AD-64CB-3B4A-88CB-EA9BFF3C755A" FechaTimbrado="2025-07-25T09:14:32" RfcProvCertif="SCD110105654" SelloCFD="vxO34fXcSolHR4xBUg2eHWFCWK698nxy8wIYwJceBieTByMa5y7uS6009uI1qJaW0K1J3YTzooq5v8BCYc5PsOZIwPnbfnIX1zrT4ImIMEdqcrxPqx0fJY3MEPdAi4E4ivaHSnsGGEm4I0Ku17OFpzZ7K3/uvpH79AuwMreVTENGb4+wKgNdfUD5oHNB/DMmooUFOEc3PtiIERXJxBkchboNoL5wcTVaREVyaFfduwDXoE4HtCcYuC4IoRj2DA0vW3GRXB2xwcjtgiei/XnXUR7xfZlrjJN6ge2oyVe1BN3dEC2hy1MtyD4yqysvqhkjUjuj/zCajdMDoGspnIU5eQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="OvlX2HUOSvznGGXQ062bqigtQRlbvgiGhSZu/95Yi+DT9Awc2iy4hqXceZFAxDAsmHfdApZqRpEhkZfSi0IZ+H3YlWLGEiFnX4LmiKKJfJDtXCrpmxhiTXZ7eWN4CJxUfdHdhSZCajN4QO9X8UEgrhioOSqGacIanqXxooZEwkbHiwisBs8z7DYNHCoCSWp6lN5cRLgOqU4N3S8gnLqIWhE1RcldhUiwfDCRRfN6V0g9YbiwA4WFk3ZZyGHv146E561QpuGPy5kNbaJC95h+YbKLmrezOhZK9hXFCzjsLGIqZnaxLpEVrRDZaWeS1l6PmvT6Im0fUoNjvwL6L77xew==" />
+</cfdi:Complemento></cfdi:Comprobante>

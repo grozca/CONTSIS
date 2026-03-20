@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="B" Folio="6974" Fecha="2025-07-09T10:05:25" Sello="G7QY7ihsG+vhCBXBMBAs2DEUGrjIltQ6UdtTYrSoOgi2J6abqPZVgzgCi1HF4VG2uO97AAtNNeWrWyauhMGvEyHzeK6NO70Wem0Pc4vL5iaT9zSLPXcmGbM426vZjnh/+CDrZ05KsoNbAQAeEVoDJ17XC9orYHJs2bVc2IlE+MjGnDjx9Ei2vx5q91WzPzhWHv8XgOXcnIMDbyYqbKP2ZyMqKYKqGdZabRoj3lvOJ8GAYtpkdOIkhrA95xq4uN9C7COlXjXklgk3VZpfQE3Wt3uWymgmJ9jqABFh2O2ZDngOJEI+96ksW2ygAMHNfvTAosDYz0Ioakjo+DmQYTB4TA==" FormaPago="99" NoCertificado="00001000000509455276" Certificado="MIIF/zCCA+egAwIBAgIUMDAwMDEwMDAwMDA1MDk0NTUyNzYwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMTEwMTYxODI0MjJaFw0yNTEwMTYxODI0MjJaMIHNMSUwIwYDVQQDExxJTlNFUlRPT0wgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQpExxJTlNFUlRPT0wgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQKExxJTlNFUlRPT0wgREUgTUVYSUNPIFNBIERFIENWMSUwIwYDVQQtExxJTUUwNTA3MTU3UDYgLyBST0dKNTYwMzE4Mlc0MR4wHAYDVQQFExUgLyBST0dKNTYwMzE4SEpDRE5TMDIxDzANBgNVBAsTBlVOSURBRDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIUGQjxfmyaKrZAvsxKfsSh2xl1zDMk/ZiGMCpI2mSymxHfv46+moc9MDpZ9D1lFjzxD4snMtIb1kLYtF8toqqH7DmviE3B7B/cSRNY4yzKvPBOY+XaloUaZJBFhsQn6rrVE2r9LCTS9oGEp3G1VuQlcaGFbetID6vzjukrw7TiwGHrRo8eLs5iTz1x7WAOzWCm3Z7Y3VlxRYoSvhT5/cICYK8lTVfXMQ5B5pZ6pDFxfPw/y6GeS7OZiC5NC+Q6Trsu7F31TQtCwjuOV20ab96IP9l9+vw29nH2DD0WBC6y192wk4E2I8nOYm0iM7qMVNsxNn//X+gy1cVn1AaZDBI8CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBACVJ94J8xbH1xscjpT12EUdL4ODbdnqs6wZeqh8+bhxDMYBD4dIhiSvnSLl8C/Di9T8upv8426le9RHMoLkjKMwxxpOQCiJodlydRo5g5+MUD6kZ1OEtwctfYBZVbx45gh174LtLW9GVO56rUrIIGy4ZrfiWJSYCV3JLSlfWsD8UIifl+eYPPIYP6KXJAUNUKpFwhRJ7p78izJ90iHLPcTtSMJYCiUu/qdQ5/Matc23wSNAbDDTxJeU8gKSvaUuzRrrQqC0MIUh3hdVn2wySypGoNSpQn8sNxptVa7k25vaDmh+2+LJBlT2lzAn/7KaaapxXhPcVNKJPYD0Dm0UH6EMGx9lkgzPYj5iDDMT2u3FjvjQEISUJTn22OmWS54zdymAiIvCdCuYsH8XC7h8Z79+Wuy81qyHCOKzbHALUhAy12/KKfD7+/jX/p8cH+YjZ8Df6jVzcG2YkKA3e85kQkH3uvO4D75KIZFPgy39RKLfeocWmut5GJ2fIG0zqP7C/JJT6A23HX4xyWJRL5oLvvbdIvVaYQRhCN6xIVRu+ZrjzyQ77vQko0Ny6id6AsFcvDcSNcdKuVCMYxOPcIHS3R5z1NjnnV003ZvMfIgljXWl0CYj1RFAcFgFQexRkUZLe87dsaZAlma+RLI3XIkkBG0S/s6w/1uu1jesfjO5dqQw3" CondicionesDePago="Credito 30" SubTotal="726.10" Moneda="USD" TipoCambio="18.714" Total="842.28" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="54090">
+  <cfdi:Emisor Rfc="IME0507157P6" Nombre="INSERTOOL DE MEXICO" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="23242107" NoIdentificacion="6818048" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="3QP-TNGA160408 BX380 INSERTO TUNGALOY" ValorUnitario="77.00" Importe="77.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="77.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="23242108" NoIdentificacion="6808095" Cantidad="10" ClaveUnidad="H87" Unidad="PZA" Descripcion="(H00000352) TNGA 332 (160408)  LX11 INSERTO TUNGALOY" ValorUnitario="14.20" Importe="142.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="142.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="22.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="23291601" NoIdentificacion="6905419" Cantidad="10" ClaveUnidad="H87" Unidad="PZA" Descripcion="LNMU0303UER-MJ AH8015 INSERTO TUNGALOY" ValorUnitario="16.20" Importe="162.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="162.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="25.92" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="23242107" NoIdentificacion="6859407" Cantidad="10" ClaveUnidad="H87" Unidad="PZA" Descripcion="VNMG 331 (160404) HMM AH905 INSERTO TUNGALOY" ValorUnitario="16.05" Importe="160.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="160.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="25.68" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="23291601" NoIdentificacion="6758744" Cantidad="10" ClaveUnidad="H87" Unidad="PZA" Descripcion="ONMU0507ANEN MJ AH120 INSERTO TUNGALOY" ValorUnitario="18.46" Importe="184.60" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="184.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.536" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="116.18">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="726.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="116.18" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="815AF2CA-F565-4049-A75D-61392F8A427B" FechaTimbrado="2025-07-09T10:14:40" RfcProvCertif="SCD110105654" SelloCFD="G7QY7ihsG+vhCBXBMBAs2DEUGrjIltQ6UdtTYrSoOgi2J6abqPZVgzgCi1HF4VG2uO97AAtNNeWrWyauhMGvEyHzeK6NO70Wem0Pc4vL5iaT9zSLPXcmGbM426vZjnh/+CDrZ05KsoNbAQAeEVoDJ17XC9orYHJs2bVc2IlE+MjGnDjx9Ei2vx5q91WzPzhWHv8XgOXcnIMDbyYqbKP2ZyMqKYKqGdZabRoj3lvOJ8GAYtpkdOIkhrA95xq4uN9C7COlXjXklgk3VZpfQE3Wt3uWymgmJ9jqABFh2O2ZDngOJEI+96ksW2ygAMHNfvTAosDYz0Ioakjo+DmQYTB4TA==" NoCertificadoSAT="00001000000702501858" SelloSAT="SJ4EEuXhiYmaJfH26T3eblGll5w4LtMyvRyfQ9One3zdichjE85TtmKHMjQI0Hwy8RKIN91LM24DT6QWfi0psQnsAqKntzFaIJ+NeVffrqjx43VommO9NEuevKz8aBAcp+aJn5TiZ/wEI+DgNmt7YMdgMvUblyzQX5fWFRTechpfQT/uqfEE8VCWIWJJjhjg7zq827QRIOBP9ajaoYr+JNeOG4/jJWUS1YBHC3KMA5sxCplyNZk4YS6frkFtaTpltwHYL2mwK5biIdt8amFzOD5l6i2nO9hTUvg73VDAYL+pHWuo/DI9hT8euxEEuCQ6iMu0Nfgp7Nmlznv+BpUiqQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

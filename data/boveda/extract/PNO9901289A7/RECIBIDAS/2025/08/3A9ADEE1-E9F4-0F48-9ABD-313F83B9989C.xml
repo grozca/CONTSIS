@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="A" Folio="51804" Fecha="2025-08-30T09:19:00" Sello="MgaQW1gDopdPDOEqhK+gkP6N7Hxr+uXNRcmWAW+SJiM95kQqBiiTrRC6WZLcVUqJBNAU+WZk9SKU8RMNkhkeqlRg1d3Hvf6UbPKxDHJLCP44SREmGXA6PjlCPhgyXZvPnVgRz8dIvlSYkLHCp9IzbIyT/WbPmNdokHD8hxFF3u5MLMs6o31e8EGMX+t4O0Vm04lDp1nhxH/ubvK7a7K2Jl2Zjr6FCEyjO/E9WlJi3jA5gwWJUaK+V3e1zWZrp3EufoW65CrGSaskTYoboX8L7rz1bo2feGioHho7Gb2CaJg1jJ0RTyWDAMniMDLV5nlDjx2PTe8ga6D9gqCdzsJonA==" FormaPago="01" NoCertificado="00001000000714381841" Certificado="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" SubTotal="1522.70" Moneda="MXN" Total="1766.33" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="SLE0804026R5" Nombre="SILTECSA LIMPIEZA Y EQUIPOS" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="14111704" NoIdentificacion="HB19318" Cantidad="3" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="DALIA HD180 C/12 HIGIÉNICO EN BOBINA" ValorUnitario="300.96" Importe="902.88" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="902.88" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="144.4608" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111704" NoIdentificacion="HB19325" Cantidad="1" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="DALIA HD250 C/12 HIGIÉNICO EN BOBINA" ValorUnitario="412.93" Importe="412.93" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="412.93" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="66.0688" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111703" NoIdentificacion="92231" Cantidad="1" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="SANITAS TOALLA HOJA DOBLE 20/100 2000 SERVICIOS POR CAJA" ValorUnitario="206.89" Importe="206.89" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="206.89" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.1024" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="243.63">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="1522.70" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="243.63" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="3A9ADEE1-E9F4-0F48-9ABD-313F83B9989C" FechaTimbrado="2025-08-30T09:19:02" RfcProvCertif="SCD110105654" SelloCFD="MgaQW1gDopdPDOEqhK+gkP6N7Hxr+uXNRcmWAW+SJiM95kQqBiiTrRC6WZLcVUqJBNAU+WZk9SKU8RMNkhkeqlRg1d3Hvf6UbPKxDHJLCP44SREmGXA6PjlCPhgyXZvPnVgRz8dIvlSYkLHCp9IzbIyT/WbPmNdokHD8hxFF3u5MLMs6o31e8EGMX+t4O0Vm04lDp1nhxH/ubvK7a7K2Jl2Zjr6FCEyjO/E9WlJi3jA5gwWJUaK+V3e1zWZrp3EufoW65CrGSaskTYoboX8L7rz1bo2feGioHho7Gb2CaJg1jJ0RTyWDAMniMDLV5nlDjx2PTe8ga6D9gqCdzsJonA==" NoCertificadoSAT="00001000000702501858" SelloSAT="Yu22PN/QNszBDn53c71qRiSf3N3LWmXqnl58Yv0t/Kb924RnZefh3EtQygM+BhJoAH5VRCa5KtWe731zsFHn6eXOBOvG5wm5kJcl1wRhKE1lzbrbpTy3kYZiro1WXqn20/yz2ZKR7YlJbdCLAjXQ3U7Egw8rwSqDVNtWnEWumazies6iGbqSfWfMy2/1emkiCa1DEM0t45iyiJKUHdRSorPW26gAQOOVarNRYqCI3QDtFnfepyERO2uvqXWIGg/xVZ6RjAp9fuxZX6y5UzYXUd+H8/AOzz9tYVAuvs2PpTbvDwvuPiJqX4KEfesKcM2cya1CW8BdjkmFC2ENi8d+WQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

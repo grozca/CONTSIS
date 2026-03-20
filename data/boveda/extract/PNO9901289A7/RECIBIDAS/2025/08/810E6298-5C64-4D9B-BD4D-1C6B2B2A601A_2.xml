@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" Exportacion="01" Fecha="2025-08-29T12:22:40" Folio="500" FormaPago="03" LugarExpedicion="72000" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000711047265" Sello="AXHzuFY/s+Bx99tHFPDgmF4b07qUMC0E8fQjB+5pyCRuJ4+5BytJ3SKGMm+VKf08sG8kD7UcuYbOwZWy+KWqFlavC4TW24gXip0PXdg93axUAWyRt0jk7YX+Z91ahOUZ/oK2DkAKREjNq6UCUVwz+zRoZgGlQ2pbuEYZPP5tcu3lHF/WxkKtWUMVs5L+uuwUEPfNArp12AfAnPM47aDxMPMtg7DupCQv5WIbrv9BAkDIBi08066LIsu3yB+shaWTPUnvtSSIOEU/xLh7ZWrKrIGWf5w6QqFxMArayi6as3bcZAdlQfwO8v6kiAPaPCz2QE2bpsQPX1jD/51C32bokQ==" Serie="A" SubTotal="411.00" TipoDeComprobante="I" Total="476.76" Version="4.0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+  <cfdi:Emisor Nombre="JUGUETERIA CAMPANITA" RegimenFiscal="601" Rfc="JCA24032591A" />
+  <cfdi:Receptor DomicilioFiscalReceptor="72420" Nombre="PAPELERIA NOFER" RegimenFiscalReceptor="626" Rfc="PNO9901289A7" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="14.00" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="MAQUETA" Importe="308.00" NoIdentificacion="CAT-AS010" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="22.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="308.00" Importe="49.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2.00" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="MAQUETA" Importe="70.00" NoIdentificacion="CAT-AS033" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="35.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="70.00" Importe="11.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2.00" ClaveProdServ="60141000" ClaveUnidad="H87" Descripcion="FIGURAS QUE REPRESENTAN ANIMALES" Importe="30.00" NoIdentificacion="JB69895" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="15.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="30.00" Importe="4.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="14111601" ClaveUnidad="H87" Descripcion="BOLSA DE REGALO" Importe="3.00" NoIdentificacion="BD00087" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="3.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3.00" Importe="0.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="65.76">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="411.00" Importe="65.76" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="810E6298-5C64-4D9B-BD4D-1C6B2B2A601A" SelloCFD="AXHzuFY/s+Bx99tHFPDgmF4b07qUMC0E8fQjB+5pyCRuJ4+5BytJ3SKGMm+VKf08sG8kD7UcuYbOwZWy+KWqFlavC4TW24gXip0PXdg93axUAWyRt0jk7YX+Z91ahOUZ/oK2DkAKREjNq6UCUVwz+zRoZgGlQ2pbuEYZPP5tcu3lHF/WxkKtWUMVs5L+uuwUEPfNArp12AfAnPM47aDxMPMtg7DupCQv5WIbrv9BAkDIBi08066LIsu3yB+shaWTPUnvtSSIOEU/xLh7ZWrKrIGWf5w6QqFxMArayi6as3bcZAdlQfwO8v6kiAPaPCz2QE2bpsQPX1jD/51C32bokQ==" NoCertificadoSAT="00001000000717964008" FechaTimbrado="2025-08-29T12:26:08" SelloSAT="kl2vltFYqYR8ABj6p51F0/N/q/pMZGTjf6uvcQG4OfK1JiEv70tzmQ4WNJf4KXtKmL0iVg/jdsMN1pKfZvJxtMeJ89ypmkhytnc6yE1Vm5/M0+o0tgr/bgBYcXB5i99rDCQl5pqdj6fMtLc+3Vw0dAPeKJtA+6B8Gcc3c1+3rX2/HhPnFchJllWDdkzrXvuAM71KjXumYvEp1T+n868w1ak9Gm/PJA5qtUJ+km6IS0oh4ciBvdbD7VLlha4p3hXxRW74i8YDgcMtU34TDJVxIR2hgjYGCMyi601tjYhDNd0fqFajTYbi5/Of7dLFLpUJz9aQqgMNff7hDkDkFMuodg==" RfcProvCertif="SIF0403229F9" /></cfdi:Complemento>
+</cfdi:Comprobante>

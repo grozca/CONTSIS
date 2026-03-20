@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="M" Folio="10754" Fecha="2025-07-05T12:36:01" Sello="NJOctU1erVMirPFJi8nplzvP45Kii/tpvMo/f25AYqmPbD43US4lGF2CzyvSLPfpvPO9vH31GhmdYk5m07SRH0jr1covOdPBh0vdc5hnx2T69X4ZvlMmO3MNa3WggzLkpMZlyffjc80jeCvuf0N5U1rN3/UnTcO0qjyBOAYUiBq1nNq1Rb2RDI9RY8aVlKpbTuRX6qtaaLTjpuI0VZsjcI1a77Nx/uF4iVDin5+uGd4uvOZFQxMNNKTWXn/lBfwo4etvxUeYQDDqcf4znwiBQ1k9Sn5EwQVdphxMHuKMu1RO55NGfx3OEONFELnDokQ3zH0BuOKHdRR7IUgVoDUb9g==" FormaPago="99" NoCertificado="00001000000512142846" Certificado="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" SubTotal="602.58" Moneda="MXN" Total="698.99" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="XAXX010101000" Nombre="PUBLICO GENERAL" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="616" UsoCFDI="S01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="60121226" NoIdentificacion="7502237308681" Cantidad="4" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINCEL OLEO MAE PELO CERDO PLANO POP6-08 XZ.." ValorUnitario="13.7931" Importe="55.17" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="55.17" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.8272" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211508" NoIdentificacion="7501230030148" Cantidad="2" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA POLITEC 250ML COLORES XZ.." ValorUnitario="85.3448" Importe="170.69" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="170.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.3104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111514" NoIdentificacion="7506129400606" Cantidad="2" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CUADERNO DE DIBUJO SCRIBE 4591 C/20HJS XZ.." ValorUnitario="50.00" Importe="100.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="100.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121221" NoIdentificacion="7501015202661" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ACUARELA PELIKAN JUNIOR C/12 PASTILLAS XZ.." ValorUnitario="70.6897" Importe="70.69" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="70.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.3104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121700" NoIdentificacion="3154148296003" Cantidad="1" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="LAPICES COLORES TRIANG DUO MAPED C/12 XZ.." ValorUnitario="96.5517" Importe="96.55" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="96.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.448" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60124317" NoIdentificacion="100388" Cantidad="3" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MASA MOLDEABLE PLAY DOOH COLORES CH XZ.." ValorUnitario="27.5862" Importe="82.76" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="82.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="11151703" NoIdentificacion="100097" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ESTAMBRE V/COLORES XZ.." ValorUnitario="26.7241" Importe="26.72" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="26.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.2752" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="96.41">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="602.58" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="96.41" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="FE79C49D-D47F-E04A-9180-8853FF3A641F" FechaTimbrado="2025-07-05T12:34:39" RfcProvCertif="SCD110105654" SelloCFD="NJOctU1erVMirPFJi8nplzvP45Kii/tpvMo/f25AYqmPbD43US4lGF2CzyvSLPfpvPO9vH31GhmdYk5m07SRH0jr1covOdPBh0vdc5hnx2T69X4ZvlMmO3MNa3WggzLkpMZlyffjc80jeCvuf0N5U1rN3/UnTcO0qjyBOAYUiBq1nNq1Rb2RDI9RY8aVlKpbTuRX6qtaaLTjpuI0VZsjcI1a77Nx/uF4iVDin5+uGd4uvOZFQxMNNKTWXn/lBfwo4etvxUeYQDDqcf4znwiBQ1k9Sn5EwQVdphxMHuKMu1RO55NGfx3OEONFELnDokQ3zH0BuOKHdRR7IUgVoDUb9g==" NoCertificadoSAT="00001000000702501858" SelloSAT="GlGb/3/CnufiORJieOoDtQGZOxj8adTZpRAHbwtIQg1aNzGzX4KZ+QIjfCRAn/oryL1PFEfijkL+0rI4G6+RQGUdQqsuXlSBYTAznw1ZZ5+3DYIbWNtsIDnHM0a3W19qD9us7yNH4huFegCJnxM0JdqzzRcZu6u7IctXdumkxuIg31/ZpFiiftt3qap/rbJ9StHuMMl3mFRQTcQxgGa1rI0vQGY1QpEg75Rl6g14HJXfWn/8nlD6itUtafqS/4ZtBqhWOC/AG3vUyq4kXlrhWK65nP1WJMeTu/dWdnkL69lkVmZBn257l20Aiva5lC41NlfibJZxFXkibtC+uSvNaA==" />
+</cfdi:Complemento></cfdi:Comprobante>

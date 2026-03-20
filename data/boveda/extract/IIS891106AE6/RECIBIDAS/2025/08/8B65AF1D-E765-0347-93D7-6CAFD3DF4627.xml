@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" TipoDeComprobante="I" Serie="TAN" Exportacion="01" FormaPago="28" MetodoPago="PUE" LugarExpedicion="91687" Moneda="MXN" SubTotal="78.00" Total="78.00" Folio="20437" Fecha="2025-08-31T16:09:53" NoCertificado="00001000000707367592" Certificado="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" Sello="TFJ7gRco7S6gan4Rd80gjNl7Y+XOUIqaQrSLHOYQUbtFrRmKf4JgbLr351LJFpi3oaoekm93W4YKIL3DYIAupxNeHzbO/lbJdh4rj3/EccH22kurK3vglOXBfBwwfWfGHGfkdILuHqbRukfYP3mIyU7KLolRszGQ49MYYA2lIp7klmbW/KTwUiX89tvbKKymsKiu17ESQvszs9yzzUf9E84aX15LDHhNFJM9nQtnhWeD1qtJU7fYk61KFB9IxNuq1KiccDbI5hFzPTjK0bMbLIOf5+bhaI+6OfQcSErG5bW0xlmzODbAvA0oQbfmQNWjXT2csB/9+vMV3VRrmmOAkw==">
+  <cfdi:Emisor Rfc="SSV980817PL1" Nombre="SUPER SMART DE VERACRUZ" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" UsoCFDI="G03" RegimenFiscalReceptor="601" DomicilioFiscalReceptor="72470" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ValorUnitario="20.00" NoIdentificacion="23140" Cantidad="1.00" ClaveProdServ="50131701" ClaveUnidad="H87" Descripcion="BENEGASTRO 240GRS" Unidad="PZA" ObjetoImp="02" Importe="20.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ValorUnitario="39.00" NoIdentificacion="22402" Cantidad="1.00" ClaveProdServ="50202309" ClaveUnidad="H87" Descripcion="ELECTROLIT SABOR UVA 625 ML." Unidad="PZA" ObjetoImp="02" Importe="39.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="39.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ValorUnitario="19.00" NoIdentificacion="21245" Cantidad="1.00" ClaveProdServ="50202301" ClaveUnidad="H87" Descripcion="AGUA EPURA 1LT" Unidad="PZA" ObjetoImp="02" Importe="19.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" Base="78.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="8B65AF1D-E765-0347-93D7-6CAFD3DF4627" FechaTimbrado="2025-08-31T16:09:53" RfcProvCertif="SCD110105654" SelloCFD="TFJ7gRco7S6gan4Rd80gjNl7Y+XOUIqaQrSLHOYQUbtFrRmKf4JgbLr351LJFpi3oaoekm93W4YKIL3DYIAupxNeHzbO/lbJdh4rj3/EccH22kurK3vglOXBfBwwfWfGHGfkdILuHqbRukfYP3mIyU7KLolRszGQ49MYYA2lIp7klmbW/KTwUiX89tvbKKymsKiu17ESQvszs9yzzUf9E84aX15LDHhNFJM9nQtnhWeD1qtJU7fYk61KFB9IxNuq1KiccDbI5hFzPTjK0bMbLIOf5+bhaI+6OfQcSErG5bW0xlmzODbAvA0oQbfmQNWjXT2csB/9+vMV3VRrmmOAkw==" NoCertificadoSAT="00001000000702501858" SelloSAT="bwh2FSGPH3lj9Y8+ZCrAd2RFkzwgSn7kkdRkFpFNOgv8dJABloSKiDux7wYSIda+jm8obyt1S/LFMh8CERAhycY1a6uBzCryHujOdOXftd7458e0yw73J8PnbkJOxVr4xDyEITmieJnb00ZWaZN2539uYEhkxOL/iFIfmwbvIMfFVAjGLCMp1r/+PMj6e129xCQbuNcTYxBhTElQ1+DWMXVLlzIZMXV7xR7uqtc/VnJPb1/YFKBdVRHlQpf7Xyxwt6n6jiBYHZ1/s8PVkHVn3MQ31U6IBI1y8Vkif8QCLhkbu+IUBGkTJWBRX5HHzHCSGem2QCBor2v701Q7eG42AQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

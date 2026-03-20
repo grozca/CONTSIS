@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="G" Folio="33320" Fecha="2025-07-04T17:04:24" Sello="Ndvrtg+vBoIj68Cp428ApR9UsyQd4Ci9qWgSi31Y5jr9owJpk347ESmdkcMz25sRKm5iAUl40jWRAPIfSlsZF0z85JgCLLfv13mJTLe6ltZBtonyGV0qdNTtnlsksDEJuph0GtXPPuGGceM+o8w9X6weH4FykArwoqdjF4bHNRlIN+xjAkIAA0U2+CqdkC4RTSQ3TiW+OFLJg+5W+d36YHzm391s8uaExlI/geBZGrhrAPd3+GcjirarFQEPSLXovsc3SH4RN4kjeETK1x5jA44+l3PCExLONHg98IDHq9DK1j33YsSlP8N8AGjwZRI2n4w2V+rxCS/kKyuKky4rrg==" FormaPago="99" NoCertificado="00001000000512142846" Certificado="MIIF8zCCA9ugAwIBAgIUMDAwMDEwMDAwMDA1MTIxNDI4NDYwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMjAzMzAxNjM2NTJaFw0yNjAzMzAxNjM2NTJaMIHBMSEwHwYDVQQDExhQQVBFTEVSSUEgTk9GRVIgU0EgREUgQ1YxITAfBgNVBCkTGFBBUEVMRVJJQSBOT0ZFUiBTQSBERSBDVjEhMB8GA1UEChMYUEFQRUxFUklBIE5PRkVSIFNBIERFIENWMSUwIwYDVQQtExxQTk85OTAxMjg5QTcgLyBURUxNNTMwMTA4VjVBMR4wHAYDVQQFExUgLyBURUxNNTMwMTA4SFBMTE5HMDUxDzANBgNVBAsTBlVOSURBRDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMk/ImkDzaJXohWTO5JXH1LjDbyEVK6gRLS03odb+mQqbXhnHYoBFFgiMaDrPKbVPnKU9hKRyybHVrOvaDOuFfUnDMbcfze39moOxv4jW57BZsYyYuRCVNN8KJNt8mTKiv+CWjNIcfL0ba23Qp4pUyQyYJW7e12QnXq66cJWZ7jI3S2mRuPwQJajX48lkUom8DdWXEqObf/Cf9pTHUmYq4Mb7BFfom5hJ6//CsV4eYWYZvbcKRqesIIMlXpoihKCtNDiyAPVYV8bO+CScGJuUZhZM91WyG3UeXIwxhnCGyedUFam0b0XuK/fwQNP1NLY9Nnm5BgMNy+B80z31VERaJ0CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAGdL6hUPyIzJlWgs5Ql7xMtwFtraQLuIhR8Am+fylpfNVsAf9FzMeo6c2Krj7qWKjoRON63A68GLKtpaZpaMqAA0N1wfkpt/ceZn59ffhaWLyOtOqdDNYnvfb2WzFLfy43pNMvQRy58JtXWmnquTeLSLNEHJwHdWfxgSYzvboFprFOorHTievVZ5f4TOajUJJ2DL50xBu2i0PnuAmGXwJs5+7KqhjdnmMOuXimUva/TN74V0OGd4yIfMZl8e+odCjRX0zrLHgWGJPWjsBt6/Yau4yGz0tV2yVx5PGTXlRLyuW+yiX6rJ8tvFgUIq/miswCbZGPKA41+KZJOed64lY6ZB7AEG+XBehOtLn+vtETeZwrXWmB5sKKeHMgTJWA5fgUrK3OkyOxSfqbVC9Z9e/O9g52ZY1Xxbg+yQ9oq+eGYPul0cDrUw1ontYG5qYVXcd0iofUBwLb9h5Zh+jTeEaaDCwxfOMUXI/sm4EQpGdErJae48d3AmvSaL7FdBP6qShCT9cs9nJsSXmnbeTsT+HJDO0yfmXlqlmTB1dFoLJv0q42QilYX5QEy/MkR2tkv/XGstw6mVvbC4J/1mleKG12OWX+zE4yj8aCdy5TnXghI2ayF31b99P9NBs2LtiBippfw1pwJUKnVTUP+fn9NEeqpXWbg61VbMSMcod4lMfpDx" CondicionesDePago="120 DIAS" SubTotal="4746.63" Moneda="MXN" Total="5506.09" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="AHM160921IU5" Nombre="ADIENT MEXICO AUTOMOTRIZ" DomicilioFiscalReceptor="66260" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="14121808" NoIdentificacion="14121808" Cantidad="1" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="PAPEL ALUMINIO XZ.." ValorUnitario="56.98" Importe="56.98" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="56.98" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.1168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111514" NoIdentificacion="7502270053692" Cantidad="4" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="BLOCK ROTAFOLIO KYMA 61X80CM C-7MM C/25 HJS XZ.." ValorUnitario="225.00" Importe="900.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="900.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="144.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121249" NoIdentificacion="60121249" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ROTAFOLIO ALFRA C/RUEDAS 90X70 MOD.4496 E2 XZ.." ValorUnitario="3789.65" Importe="3789.65" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3789.65" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="606.344" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="759.46">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="4746.63" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="759.46" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="15E7A32D-3133-A646-9B37-587802C1066F" FechaTimbrado="2025-07-04T17:03:18" RfcProvCertif="SCD110105654" SelloCFD="Ndvrtg+vBoIj68Cp428ApR9UsyQd4Ci9qWgSi31Y5jr9owJpk347ESmdkcMz25sRKm5iAUl40jWRAPIfSlsZF0z85JgCLLfv13mJTLe6ltZBtonyGV0qdNTtnlsksDEJuph0GtXPPuGGceM+o8w9X6weH4FykArwoqdjF4bHNRlIN+xjAkIAA0U2+CqdkC4RTSQ3TiW+OFLJg+5W+d36YHzm391s8uaExlI/geBZGrhrAPd3+GcjirarFQEPSLXovsc3SH4RN4kjeETK1x5jA44+l3PCExLONHg98IDHq9DK1j33YsSlP8N8AGjwZRI2n4w2V+rxCS/kKyuKky4rrg==" NoCertificadoSAT="00001000000702501858" SelloSAT="qtHjYWUqUqo2yIjigflIpATM1Uok2N9Wvq+/nTyFFgirh2MpqQLmTS4qSPs3UHnzQ7xGsixda6m1OZPVKiu1C0IBh9aTCeemy/C7sop6a0ZtmyNf0xrjP1ZvKPJviEbuR62ytcsUbKi8mXAeul6h/g3argzS+LryuvONKje4SIlTdt3Zv7OqZuGbX0PwQ9RJ13SK9uKDz5Wux0A1VEw/Udy5f60IA7RR1Mwny2199kaKR1SS4ZtYZuAuDeA2dFlaAnkzFd0QAtYdkJH4adESKa4HOtj4BYg8GGO4sy8MEG+w4RpkdFUMfJY8HVBXqr97WgzSXw/FhaIJMVTn0ZJPOw==" />
+</cfdi:Complemento></cfdi:Comprobante>

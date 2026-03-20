@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="A" Folio="10313" Fecha="2025-07-23T14:35:52" Sello="M9AvKTCoEj3HPzwSh+FlLE5GK6LpMIEykrArkCZ7LEoa/kOeynLxilxIYluKEhSMJwKv3lcvxzV9Dkh0NqLDWL9Uxg+VLbfpgkFrp8LonhbglXYKIx3hE0f3Os1xCE3oMX/DmGqOCxqtFNIa9BfgEMdiclRUgI/N+6AjtsCa7Ydf6PS2JvF5zIcRCNpI7xdV0ZstOiP0q0BJiS9FCg96w94bNWVYKkzWQYPUx+nykV5mX12kXmDRrUx4T5M0q1jcfGjQgW7Mo2JE1gJV9GM5EBeHp34ZgEKLjhe7Q8pmJErIbAtWKDsFVDF+IogRCQVLibnh+szb1QONOw9GTsvPwQ==" FormaPago="01" NoCertificado="00001000000711764137" Certificado="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" CondicionesDePago="Contado" SubTotal="310.34" Moneda="MXN" TipoCambio="1" Total="360.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72470">
+  <cfdi:Emisor Nombre="JULIAN SALVADOR PEREZ CUEVAS" Rfc="PECJ6001079W3" RegimenFiscal="612" />
+  <cfdi:Receptor UsoCFDI="G03" RegimenFiscalReceptor="601" DomicilioFiscalReceptor="72470" Nombre="IBAYRO INDUSTRIAL S DE R L MI" Rfc="IIS891106AE6" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31171504" NoIdentificacion="4/5U0407625-NSB" Cantidad="2.000000" ClaveUnidad="H87" Unidad="PZA" Descripcion="BALERO DOBLE DEL VENTO-POLO (14-20) GOL-SAVEIRO (09-20) C/ABS" ValorUnitario="137.931035" Importe="275.862069" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado TasaOCuota="0.160000" Base="275.862069" Importe="44.137931" Impuesto="002" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101700" NoIdentificacion="0/TOALLA" Cantidad="1.000000" ClaveUnidad="H87" Unidad="PZA" Descripcion="TOALLA MICROFIBRA" ValorUnitario="17.241379" Importe="17.241379" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado TasaOCuota="0.160000" Base="17.241379" Importe="2.758621" Impuesto="002" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="15121500" NoIdentificacion="0/PINO-003" Cantidad="1.000000" ClaveUnidad="H87" Unidad="PZA" Descripcion="AROMATIZANTE AUTO NUEVO AZUL" ValorUnitario="17.241379" Importe="17.241379" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado TasaOCuota="0.160000" Base="17.241379" Importe="2.758621" Impuesto="002" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="49.66">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Base="310.34" Importe="49.66" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="B7DE95FF-41BD-4869-A77A-1A31C5303F49" FechaTimbrado="2025-07-23T14:36:17" RfcProvCertif="SFE0807172W8" SelloCFD="M9AvKTCoEj3HPzwSh+FlLE5GK6LpMIEykrArkCZ7LEoa/kOeynLxilxIYluKEhSMJwKv3lcvxzV9Dkh0NqLDWL9Uxg+VLbfpgkFrp8LonhbglXYKIx3hE0f3Os1xCE3oMX/DmGqOCxqtFNIa9BfgEMdiclRUgI/N+6AjtsCa7Ydf6PS2JvF5zIcRCNpI7xdV0ZstOiP0q0BJiS9FCg96w94bNWVYKkzWQYPUx+nykV5mX12kXmDRrUx4T5M0q1jcfGjQgW7Mo2JE1gJV9GM5EBeHp34ZgEKLjhe7Q8pmJErIbAtWKDsFVDF+IogRCQVLibnh+szb1QONOw9GTsvPwQ==" NoCertificadoSAT="00001000000710052019" SelloSAT="OCYnmwcb8Mtj5Sqm0rIKcjvU97xrs1mUxyavQqdhvh8wzNxM+3p2jy9xKZ1Q8vilQVTAqvcy9OLUf7FNpYi76oNceyOBUCK0bLmmnC9HNm8vEWcGVbbURE0vmbnJhW7vYU4aQSTIMpgVvZ+D1Jy5jSO4snZ0cgfsY21e24b4t3eNUWAd0s88B8k2CeicWfKIMTfv0klh3eqSKI8Hndsd4/EERjWOnPg27xPqgHKkqJFiRsgrti6O3OX5fgbWkL6j6uC34epDyd5qssPU3bvwk1vkre9dmNPUBpKUCRcqbjZnns1Hr0xPLIyyF4Wo0BKqlFjiOT4BxEMoK+JQUl2amA==" /></cfdi:Complemento></cfdi:Comprobante>

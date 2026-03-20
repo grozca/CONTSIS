@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="F" Folio="290650" Fecha="2025-07-22T14:57:42" Sello="OYGYeF8sSyd0E2ubJpSWe2O/DgxhFn6TfQHpBe+Wf4imBxJaO8BOncYy2dAsvuQDw/1v11wnpsZ5DnSRzjrv2DQ3xa3xuyrAc+6TTN6llA2kSTlSvYPot7mjtUZ0pbm0yKccpPtPi0Z6yxETDdyaZzp5rgCBso97c0+sfG8FY8mvXX2mwIOhXQ2CPWUmseJ28r5Jq6f4UiktHs0L7Dy+NKFyFC7Hz2txo1REueECDQoZBBQEGx0MsA1xBfc56FQ/YfvD2jAf5bz71K1bnRyI1vjoG1rg3vZmaJrFSdgDjyy6sVb5sYduMhniagjm2VPqp7ziUgzFLr0Ko9q+OfHxYw==" FormaPago="03" NoCertificado="00001000000710958839" Certificado="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" SubTotal="4381.24" Descuento="438.12" Moneda="MXN" TipoCambio="1" Total="4574.02" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72029" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+    <cfdi:Emisor Rfc="SPA86011021A" Nombre="SUPER PAPELERA" RegimenFiscal="601" />
+    <cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto ClaveProdServ="44121707" NoIdentificacion="265010024" Cantidad="48.00" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="COLORES NORMA C/12 547072  NORMA" ValorUnitario="68.6300" Importe="3294.2400" Descuento="329.4240" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="2964.8160" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="474.3706" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121142" NoIdentificacion="1210717" Cantidad="50.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PAPEL ILUSTRACION NEGRO 1/8  JISS" ValorUnitario="10.8000" Importe="540.0000" Descuento="54.0000" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="486.0000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="77.7600" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121142" NoIdentificacion="12107191" Cantidad="50.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PAPEL ILUSTRACION ESCOLAR 1/4  JISS" ValorUnitario="10.9400" Importe="547.0000" Descuento="54.7000" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="492.3000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="78.7680" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="630.90">
+        <cfdi:Traslados>
+            <cfdi:Traslado Base="3943.12" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="630.90" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="8249E7E7-673E-11F0-BE31-C9F8C907518A" FechaTimbrado="2025-07-22T14:57:44" SelloCFD="OYGYeF8sSyd0E2ubJpSWe2O/DgxhFn6TfQHpBe+Wf4imBxJaO8BOncYy2dAsvuQDw/1v11wnpsZ5DnSRzjrv2DQ3xa3xuyrAc+6TTN6llA2kSTlSvYPot7mjtUZ0pbm0yKccpPtPi0Z6yxETDdyaZzp5rgCBso97c0+sfG8FY8mvXX2mwIOhXQ2CPWUmseJ28r5Jq6f4UiktHs0L7Dy+NKFyFC7Hz2txo1REueECDQoZBBQEGx0MsA1xBfc56FQ/YfvD2jAf5bz71K1bnRyI1vjoG1rg3vZmaJrFSdgDjyy6sVb5sYduMhniagjm2VPqp7ziUgzFLr0Ko9q+OfHxYw==" NoCertificadoSAT="00001000000700047508" SelloSAT="HRK4dGr6TifN6/bM+OSM43cT9/PUAx/YM36B2haAAzBr20sr+iJn2kSVhVaxdiuX9IZr7ai6BVYf1/pgQ7Ph+rqh0XUQOwJLHYPucwdFr2iQY+FsgBDLXc8WOt5UUvuGcSZgS2mFDo2b1hPpSABr9b0XZNloJPbmsU40+V3iIbAhZAgRtkBsv0p3n1jcJvLwLIfahTd7dAvN5qeHpnrcrpSmy9OSyUzQcTMIHQiLr1v+HHNNVfgh7mTiu7sVnuDiYGDdQzHRfBwqLbDp2SxDvbl9qfKxqFhjbDvkNI2w38ATu0Cs7q6lP/OkQtuCX2UXZXAU4nDEV64BX94d4IBkZw==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

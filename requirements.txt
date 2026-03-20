@@ -1,0 +1,6 @@
+satcfdi>=4.0.0
+python-dotenv>=1.0.1
+rich>=13.7.1
+pandas>=2.2.0
+openpyxl>=3.1.2
+python-docx>=1.1.0

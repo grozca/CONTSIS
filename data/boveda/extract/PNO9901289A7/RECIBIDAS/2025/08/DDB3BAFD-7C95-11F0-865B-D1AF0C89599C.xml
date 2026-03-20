@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="F" Folio="292051" Fecha="2025-08-18T18:45:56" Sello="LainvoWw4douShrO91MEXhoNkxq4xhUHIN2qtKDxwxzMoyAotJ+gCpqT8I8RCo0dd8sQfh0UBfoHXjLgaKwLo9LCReifazSfzf2BpbGCEgDgeSmVhrh/UCsBpJhP+81bKldXN4eKVixJBeLzH8Pwo9YuaBzfKe/j907g1YVqjxCxLPTGWiwbhHxgoT2rO6rwwzd8CjkVIvHgIVswtyifT5YtpuGHoOUpz+C+gw0UJnHRGb1AFVkEha5OxLs6Fu7j3vOKdpOirNAsGMj9EQa0s969xxUiYdM+09KtveB8m5yBr9DS5MXRQog75f5BTf9RLJNVjU32FTHEdA6l/omyXg==" FormaPago="03" NoCertificado="00001000000710958839" Certificado="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" SubTotal="3180.20" Descuento="318.02" Moneda="MXN" TipoCambio="1" Total="3320.13" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72029" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+    <cfdi:Emisor Rfc="SPA86011021A" Nombre="SUPER PAPELERA" RegimenFiscal="601" />
+    <cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto ClaveProdServ="14111514" NoIdentificacion="3040200575" Cantidad="4.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="BLOCK CARTULINA CARTA 176GRS C/24 SURTIDO  DIEM" ValorUnitario="37.2600" Importe="149.0400" Descuento="14.9040" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="134.1360" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21.4618" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="30266403" NoIdentificacion="469081101" Cantidad="30.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY 4 CARTAS DIAMANTADO ND VERDE LIMON.  PASCUA" ValorUnitario="14.6600" Importe="439.8000" Descuento="43.9800" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="395.8200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="63.3312" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="30266403" NoIdentificacion="469081053" Cantidad="20.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY LAMINA 95X70CMS ND VERDE LIMON  PASCUA" ValorUnitario="18.2300" Importe="364.6000" Descuento="36.4600" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="328.1400" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="52.5024" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="30266403" NoIdentificacion="469081109" Cantidad="30.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY 4 CARTAS DIAMANTADO IRIS BLANCO  PASCUA" ValorUnitario="14.6600" Importe="439.8000" Descuento="43.9800" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="395.8200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="63.3312" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="30266403" NoIdentificacion="469081090" Cantidad="30.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY 4 CARTAS DIAMANTADO AA NEGRO  PASCUA" ValorUnitario="14.6600" Importe="439.8000" Descuento="43.9800" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="395.8200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="63.3312" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="30266403" NoIdentificacion="469081099" Cantidad="20.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY 4 CARTAS DIAMANTADO LB CAFE OBSCURO.  PASCUA" ValorUnitario="14.6600" Importe="293.2000" Descuento="29.3200" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="263.8800" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="42.2208" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="30266403" NoIdentificacion="4690600051" Cantidad="12.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY MOLDEABLE PASCUA SURTIDO C/6 BASICO  PASCUA" ValorUnitario="23.9100" Importe="286.9200" Descuento="28.6920" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="258.2280" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="41.3165" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="343020302" Cantidad="24.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 20ML 302 NEGRO INTENSO  POLITEC" ValorUnitario="7.9900" Importe="191.7600" Descuento="19.1760" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="172.5840" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.6134" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="343020301" Cantidad="24.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 20ML 301 BLANCO TITANIO  POLITEC" ValorUnitario="7.9900" Importe="191.7600" Descuento="19.1760" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="172.5840" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.6134" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="343020307" Cantidad="12.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 20ML 307 LIMON HANZA  POLITEC" ValorUnitario="7.9900" Importe="95.8800" Descuento="9.5880" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="86.2920" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.8067" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="343020304" Cantidad="12.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 20ML 304 SOMBRA CAFE  POLITEC" ValorUnitario="7.9900" Importe="95.8800" Descuento="9.5880" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="86.2920" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.8067" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="343020308" Cantidad="12.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 20ML 308 NARANJA  POLITEC" ValorUnitario="7.9900" Importe="95.8800" Descuento="9.5880" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="86.2920" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.8067" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="60121211" NoIdentificacion="343020312" Cantidad="12.00" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PINTURA ACRILICA MATE 20ML 312 VERDE CLARO  POLITEC" ValorUnitario="7.9900" Importe="95.8800" Descuento="9.5880" ObjetoImp="02">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="86.2920" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.8067" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="457.95">
+        <cfdi:Traslados>
+            <cfdi:Traslado Base="2862.18" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="457.95" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="DDB3BAFD-7C95-11F0-865B-D1AF0C89599C" FechaTimbrado="2025-08-18T18:45:58" SelloCFD="LainvoWw4douShrO91MEXhoNkxq4xhUHIN2qtKDxwxzMoyAotJ+gCpqT8I8RCo0dd8sQfh0UBfoHXjLgaKwLo9LCReifazSfzf2BpbGCEgDgeSmVhrh/UCsBpJhP+81bKldXN4eKVixJBeLzH8Pwo9YuaBzfKe/j907g1YVqjxCxLPTGWiwbhHxgoT2rO6rwwzd8CjkVIvHgIVswtyifT5YtpuGHoOUpz+C+gw0UJnHRGb1AFVkEha5OxLs6Fu7j3vOKdpOirNAsGMj9EQa0s969xxUiYdM+09KtveB8m5yBr9DS5MXRQog75f5BTf9RLJNVjU32FTHEdA6l/omyXg==" NoCertificadoSAT="00001000000700047508" SelloSAT="bq1Vj9q5L8f/juK1OlmObUXuVb7M8JVCzyI8fdIP7VSXsTUfCto04fpYwkcdiTa0kcG5aMA/XnSb1R+RhqSAomCdX0l2C4psxFiA0RXLjagp/ZMhI/CFEqYs990+VFFZVgg/iPekGjQ27xW61ePqA9gIqhqr/KgBmSvKz80ZT66vKPGfuH0l1RDGHbkQayitSEFUfnRYS2SloOBRpgIsVxqVAQxVyojnw08Ty0mt3AhFj5igkz84sBbHOm0SaL9H/YQsspZOQKtmYIlymHheNL6UKjyO6tvO3WsTgTIB0ZyeVPKyCKJWaZ1zgB/TXsXig8Y6cZrqfiIylnPCBNDH/g==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

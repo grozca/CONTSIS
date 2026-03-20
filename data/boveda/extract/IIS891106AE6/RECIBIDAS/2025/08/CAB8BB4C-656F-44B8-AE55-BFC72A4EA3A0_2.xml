@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="credito" Exportacion="01" Fecha="2025-08-26T13:49:33" Folio="101004" FormaPago="99" LugarExpedicion="72410" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000711204826" Sello="jQSm5F2b7AACHSg11vKQAB4wN+monpmpAdPmXRMnLCgpFZ5mgjLcs8KfiblUQOLP3xIuE3/pP0XsPt4wKMO0QKVD6J+TPJNgeqMywQCnE0C4Hgui2WurymmpBYgFnxmTEe93yTQXPY1QcNUYLxQnXfEl+g35/HqRuBxUwPmqp9T6ZeI6Iq2VPo2O0jHCipZFlmTo3NjMdBuOqtlV7FKSXbiCtyezfCNAkWlPF58N/GbvtEgjnI6pLnOmf4QR3LUSbvl21rosDsS//WUop9uevSUMlmHFmpCmOLw5qzMg8EFYiwwt47GZsS8lM2xNLRxDlZBKIjfSU7+sDnb5UJxj5A==" Serie="B" SubTotal="4336.98" TipoCambio="1" TipoDeComprobante="I" Total="5030.90" Version="4.0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd ">
+<cfdi:Emisor Nombre="MACTOOLS" RegimenFiscal="601" Rfc="MAC980121QY7" />
+<cfdi:Receptor DomicilioFiscalReceptor="72470" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscalReceptor="601" Rfc="IIS891106AE6" UsoCFDI="G03" />
+<cfdi:Conceptos>
+<cfdi:Concepto Cantidad="2.000000" ClaveProdServ="27112300" ClaveUnidad="H87" Descripcion="MARCADOR P/METAL PX-20 AMARILL TMX" Importe="209.48" NoIdentificacion="40003" ObjetoImp="02" ValorUnitario="104.740000">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="209.48" Importe="33.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="2.000000" ClaveProdServ="27112300" ClaveUnidad="H87" Descripcion="MARCADOR P/ METAL PX-20 AZUL U TMX" Importe="209.48" NoIdentificacion="40005" ObjetoImp="02" ValorUnitario="104.740000">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="209.48" Importe="33.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="6.000000" ClaveProdServ="27112300" ClaveUnidad="H87" Descripcion="MARCADOR P/ METAL PX-20 ROJO U TMX" Importe="628.44" NoIdentificacion="40002" ObjetoImp="02" ValorUnitario="104.740000">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="628.44" Importe="100.55" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="3.000000" ClaveProdServ="23291700" ClaveUnidad="H87" Descripcion="AVELLANADOR A.V. 1/2 X 3/8 X 9 TMX" Importe="1063.14" NoIdentificacion="5-656-9015" ObjetoImp="02" ValorUnitario="354.380000">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1063.14" Importe="170.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="3.000000" ClaveProdServ="23291700" ClaveUnidad="H87" Descripcion="AVELLANADOR  A.V. 5/8 X 3/8 60 TMX" Importe="1472.64" NoIdentificacion="5-656-6020" ObjetoImp="02" ValorUnitario="490.880000">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="1472.64" Importe="235.62" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1.000000" ClaveProdServ="23291700" ClaveUnidad="H87" Descripcion="AVELLANADOR A.V. 5/8 X 1/2 60º TMX" Importe="490.88" NoIdentificacion="5-660-6030" ObjetoImp="02" ValorUnitario="490.880000">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="490.88" Importe="78.54" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1.000000" ClaveProdServ="26111702" ClaveUnidad="H87" Descripcion="PILA ALCALINA DURACELLÂ® AA  SURTEK" Importe="129.10" NoIdentificacion="111-MN1500X5" ObjetoImp="02" ValorUnitario="129.100000">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="129.10" Importe="20.66" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto Cantidad="1.000000" ClaveProdServ="26111702" ClaveUnidad="H87" Descripcion="PILA ALCALINA DURACELLÂ® AAA" Importe="133.82" NoIdentificacion="111-MN2400X5" ObjetoImp="02" ValorUnitario="133.820000">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado Base="133.82" Importe="21.41" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="693.92">
+	<cfdi:Traslados>
+		<cfdi:Traslado Base="4336.98" Importe="693.92" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+	</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="CAB8BB4C-656F-44B8-AE55-BFC72A4EA3A0" SelloCFD="jQSm5F2b7AACHSg11vKQAB4wN+monpmpAdPmXRMnLCgpFZ5mgjLcs8KfiblUQOLP3xIuE3/pP0XsPt4wKMO0QKVD6J+TPJNgeqMywQCnE0C4Hgui2WurymmpBYgFnxmTEe93yTQXPY1QcNUYLxQnXfEl+g35/HqRuBxUwPmqp9T6ZeI6Iq2VPo2O0jHCipZFlmTo3NjMdBuOqtlV7FKSXbiCtyezfCNAkWlPF58N/GbvtEgjnI6pLnOmf4QR3LUSbvl21rosDsS//WUop9uevSUMlmHFmpCmOLw5qzMg8EFYiwwt47GZsS8lM2xNLRxDlZBKIjfSU7+sDnb5UJxj5A==" NoCertificadoSAT="00001000000717964008" FechaTimbrado="2025-08-26T13:49:50" SelloSAT="HgpcrasRuytyNd5/ws4wkgpZAYhYPtG6MMy7hTJ5tk38mWWFZoFL8Of1PdqAU9s//0ifmTRw+AXGuhpwh0CG7ImVRARrMNN0/P1bx8S/Lrsr/LchBOLwJYleV4In+c92ViBFIHOGxf2fR9EVgbKIDEklsA5wmIpjaY02vYIj0xUMYeJGhlTb5zKzos3bi/sYdOsETZzUII+p1HLEXS2O8Z4mS+656rrKBhccgSi5FkvXVqBcEYKM3PlF0jGqBbes5gwiZCSy5lhSRYjPGCR9rFlRG8mzRDlAlNYjfKgZ8mVq+E5fYSPaps0WdJdu7n69t82NPJrzOYPcyn32o/0J8A==" RfcProvCertif="SIF0403229F9" /></cfdi:Complemento></cfdi:Comprobante>

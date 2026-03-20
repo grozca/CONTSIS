@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:nomina12="http://www.sat.gob.mx/nomina12" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/nomina12 http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina12.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="NOM" Folio="13128" Fecha="2025-07-09T18:10:31" Sello="H3GEU9f1okyhCh0H6/CQmJ4Z2PpBUCcuMgvCX/f5mbpuRu6t8I4sziZkW6D32tjGuKGrSca4lNkW5Ri0HvReARISH6CuMwSVW9FBjSs7NfF9dCPESCmUvH6D4BE6tdrLD82A/bM33bP/rChEfGRyqvEkrfVik95e3Hs/9234FQO+AXrGBs7lhkuTPTU5ZoMCy2ZpevUG9bJFmeGH75EIToVAmmyYjs/6Se5MDW/ee2Zhb3pPHRQFDDtgvNfjcuAKRzqiYma+agRxJJH2VuYoyNNqnR9mDmQEARqKhEhE7+kCRpa9Qk7VUlv0RKVE9Ws1Vhblk++6/6kvQYnn051rnw==" NoCertificado="00001000000508761395" Certificado="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" SubTotal="3107.13" Descuento="1765.65" Moneda="MXN" Total="1341.48" TipoDeComprobante="N" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="VACV851211QS9" Nombre="VICTORINO VALERIO CRUZ" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="605" UsoCFDI="CN01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="84111505" Cantidad="1" ClaveUnidad="ACT" Descripcion="Pago de nómina" ValorUnitario="3107.13" Importe="3107.13" Descuento="1765.65" ObjetoImp="01">
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Complemento>
+    <nomina12:Nomina Version="1.2" TipoNomina="O" FechaPago="2025-06-13" FechaInicialPago="2025-06-09" FechaFinalPago="2025-06-15" NumDiasPagados="7.000" TotalPercepciones="3107.13" TotalDeducciones="1765.65" TotalOtrosPagos="0.00">
+      <nomina12:Emisor RegistroPatronal="E0641551100">
+      </nomina12:Emisor>
+      <nomina12:Receptor Curp="VACV851211HPLLRC05" NumSeguridadSocial="48048545684" FechaInicioRelLaboral="2004-08-02" Antigüedad="P1089W" TipoContrato="01" Sindicalizado="No" TipoJornada="01" TipoRegimen="02" NumEmpleado="75" Departamento="PRODUCCION" Puesto="OPERADOR CNC" RiesgoPuesto="4" PeriodicidadPago="02" CuentaBancaria="002650700969191481" SalarioBaseCotApor="453.81" SalarioDiarioIntegrado="453.81" ClaveEntFed="PUE" />
+      <nomina12:Percepciones TotalSueldos="3107.13" TotalGravado="2999.99" TotalExento="107.14">
+        <nomina12:Percepcion TipoPercepcion="001" Clave="101" Concepto="Sueldo normal" ImporteGravado="2571.42" ImporteExento="0">
+        </nomina12:Percepcion>
+        <nomina12:Percepcion TipoPercepcion="001" Clave="103" Concepto="Vacaciones" ImporteGravado="428.57" ImporteExento="0">
+        </nomina12:Percepcion>
+        <nomina12:Percepcion TipoPercepcion="021" Clave="1pv" Concepto="Prima vacacional" ImporteGravado="0" ImporteExento="107.14">
+        </nomina12:Percepcion>
+      </nomina12:Percepciones>
+      <nomina12:Deducciones TotalOtrasDeducciones="1489.45" TotalImpuestosRetenidos="276.20">
+        <nomina12:Deduccion TipoDeduccion="002" Clave="201" Concepto="ISR" Importe="276.20" />
+        <nomina12:Deduccion TipoDeduccion="001" Clave="202" Concepto="Seguro social" Importe="78.64" />
+        <nomina12:Deduccion TipoDeduccion="010" Clave="2cif" Concepto="Crédito de Infonavit Cuota fija" Importe="810.82" />
+        <nomina12:Deduccion TipoDeduccion="011" Clave="D093" Concepto="CREDITO FONACOT" Importe="599.99" />
+      </nomina12:Deducciones>
+      <nomina12:OtrosPagos>
+        <nomina12:OtroPago TipoOtroPago="002" Clave="107" Concepto="Subsidio para el empleo (efectivamente entregado al trabajador)" Importe="0.00">
+          <nomina12:SubsidioAlEmpleo SubsidioCausado="0" />
+        </nomina12:OtroPago>
+      </nomina12:OtrosPagos>
+    </nomina12:Nomina>
+  <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="74515CDD-C053-E94E-9190-2B98A60666D1" FechaTimbrado="2025-07-09T18:10:33" RfcProvCertif="SCD110105654" SelloCFD="H3GEU9f1okyhCh0H6/CQmJ4Z2PpBUCcuMgvCX/f5mbpuRu6t8I4sziZkW6D32tjGuKGrSca4lNkW5Ri0HvReARISH6CuMwSVW9FBjSs7NfF9dCPESCmUvH6D4BE6tdrLD82A/bM33bP/rChEfGRyqvEkrfVik95e3Hs/9234FQO+AXrGBs7lhkuTPTU5ZoMCy2ZpevUG9bJFmeGH75EIToVAmmyYjs/6Se5MDW/ee2Zhb3pPHRQFDDtgvNfjcuAKRzqiYma+agRxJJH2VuYoyNNqnR9mDmQEARqKhEhE7+kCRpa9Qk7VUlv0RKVE9Ws1Vhblk++6/6kvQYnn051rnw==" NoCertificadoSAT="00001000000702501858" SelloSAT="W69JIJ7kAkZ9wloL7K1MfxxdLCa4888wuZfV4mes4aKYBywutOl3dZiLhxOgABnFUggkcHWdlKxkAi1qB4Fp0QkrF/ICrQS3xpKTXzEW5wtGmEq8O2BpzxIAWj/h0KXqV/9oWz1HxOQkz4qxSCx1xFdeALH+sf8M/DHZtbe0PRohoX8rQPphyxyqgohR3MtWZcNKRuTbrs6jOkObmra7l3/buf5H/FEbOYfP9C8klsAHLZwjV+eMD3fBCFomUcJ9dOBpvHOCwmyc0Sz+9gNw/TB3ARG+Htrhp7GdCnUjsrH733UD70rHlS/RiBdWTY3dPVSV00GpWY/ShUqgd0Y1jw==" />
+</cfdi:Complemento>
+</cfdi:Comprobante>

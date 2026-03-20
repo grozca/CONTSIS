@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="AA" Folio="7790" Fecha="2025-07-08T18:13:03" Sello="bQ9UtQeLw7d1lheyYJG81BX7upFqcBaJWxqRI340jhD2Ge/EeD3iGT82aAFnBd6rBt77ehElL1NQ2cErN5fvU5IeJPslGiPrYcFkc3IF0AVnRlufQm4j+1eS7CvplKpR86VFDufBfmVOJ28Cp+jm2E5moYS2p4EmSz2Av5yFN3/TbvZbcdqTOm0zqkBk1fc9Hz1iQGKxCrZw0VsD+5Ep1MsnoK7HTigPoq9JUpvh1w9U+l3iPBvzzwaszu997OyMQoFZxIUxE1eTGEi/SSBVxbuG1DZYWYTVha5ogHz/N/61S/75QCGA4MhOF3AQMduE7hEJAH70elvClXIx6ZNcYA==" FormaPago="01" NoCertificado="00001000000710048559" Certificado="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" SubTotal="403.46" Descuento="46.56" Moneda="MXN" Total="414.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72000">
+  <cfdi:Emisor Rfc="CIE051025UX9" Nombre="CADENA IMPORTADORA Y EXPORTADORA" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="53102504" NoIdentificacion="CI10269-6" Cantidad="6" ClaveUnidad="H87" Unidad="PAR" Descripcion="GUAN/CADENA GUANTES BLANCOS DE ALGODON #6" ValorUnitario="22.416667" Importe="134.50" Descuento="15.52" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="118.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19.0336" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53102504" NoIdentificacion="CI10269-10" Cantidad="6" ClaveUnidad="H87" Unidad="PAR" Descripcion="GUAN/CADENA GUANTES BLANCOS DE ALGODON #10" ValorUnitario="22.413793" Importe="134.48" Descuento="15.52" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="118.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19.0336" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="53102504" NoIdentificacion="CI10269-12" Cantidad="6" ClaveUnidad="H87" Unidad="PAR" Descripcion="GUAN/CADENA GUANTES BLANCOS DE ALGODON #12" ValorUnitario="22.413793" Importe="134.48" Descuento="15.52" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="118.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19.0336" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="57.10">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="356.88" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="57.10" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="57C84B2E-6DF8-6140-AC15-40FC06CC1999" FechaTimbrado="2025-07-08T18:13:06" RfcProvCertif="SCD110105654" SelloCFD="bQ9UtQeLw7d1lheyYJG81BX7upFqcBaJWxqRI340jhD2Ge/EeD3iGT82aAFnBd6rBt77ehElL1NQ2cErN5fvU5IeJPslGiPrYcFkc3IF0AVnRlufQm4j+1eS7CvplKpR86VFDufBfmVOJ28Cp+jm2E5moYS2p4EmSz2Av5yFN3/TbvZbcdqTOm0zqkBk1fc9Hz1iQGKxCrZw0VsD+5Ep1MsnoK7HTigPoq9JUpvh1w9U+l3iPBvzzwaszu997OyMQoFZxIUxE1eTGEi/SSBVxbuG1DZYWYTVha5ogHz/N/61S/75QCGA4MhOF3AQMduE7hEJAH70elvClXIx6ZNcYA==" NoCertificadoSAT="00001000000702501858" SelloSAT="VI56QuDgicmUV8QUgL/Cj9jMooN5KV3Nsjxc/BrblhrsSzwkeBUJYyEBnKJ3WOJa5G1Jj7cUj1GTrYC006qCM7b9+wDLFZZd8NeesWKJ8o/+PZPF6rVCBVOlSEm+EnfgjOLxB3DHD7k2S6u4mdJVy1KV4YzfGhaHmvJ8/u/ydRymzrTCCqaqZJ8x7ezVtWtC111Wh1tqgMmmKcdJMK/yi79cy3jjCQwZjmGefPS6iH8zh4DQch35s3hpVnN9JhgkzqBr6PeaKIEZGO34495MIrk1FMYjjQsAauE2bvdmganLOY8hhMhDFBKImZy3v7DHPin98X0HANQmDw76rQVG1A==" />
+</cfdi:Complemento></cfdi:Comprobante>

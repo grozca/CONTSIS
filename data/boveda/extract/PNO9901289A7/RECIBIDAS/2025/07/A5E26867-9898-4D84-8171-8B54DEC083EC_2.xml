@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="PB" Folio="316286" Fecha="2025-07-23T11:21:01" FormaPago="99" SubTotal="908.04" Moneda="MXN" Total="1053.33" Sello="svEpI/eRA4iuZUXm/BZ2snAMCM71uHm2PNuOoOE0XuCVW4wIPKqHyDvT0SQYAY1Iq4xGy07bhkvK6C3rWs+xY4DcFEGnUbesNjHa7x0NBGMfuU85lQyDIEBNCFHfTRFxXgY62yoS0vxBFw7+uQv9eGQJZF98OMNGUc7+GgWgRAjhThEKHg7nYnDmKiIke+6Sx1N/2Zq8q/UGg/dNKrMNsImWkOI3/Qq8v1WwSLO6FbiyItynuq+3R54ORSg4zB57x1RrCWKOqAzhWjiIATYifezQsyjVO5fweNaYKsdfmnqxQOSEGlK0PObfCAp2OjZ4ptpQWBeq8RascspYcyGbUg==" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72000" Certificado="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" NoCertificado="00001000000509398294"><cfdi:Emisor Rfc="ENO8910131AA" Nombre="EXEL DEL NORTE" RegimenFiscal="601" />
+<cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+<cfdi:Conceptos>
+<cfdi:Concepto ClaveProdServ="44103100" NoIdentificacion="BT5001C" Cantidad="2" ClaveUnidad="H87" Unidad="H87" Descripcion="PZA, Tinta Brother BT5001C Rendimiento Ultra 5000 Páginas Color Cian" ValorUnitario="109.25" Importe="218.49" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="218.49" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="34.96" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="44103100" NoIdentificacion="BT5001Y" Cantidad="2" ClaveUnidad="H87" Unidad="H87" Descripcion="PZA, Tinta Brother BT5001Y Rendimiento Ultra 5000 Páginas Color Amarillo" ValorUnitario="109.25" Importe="218.49" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="218.49" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="34.96" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="44103100" NoIdentificacion="BT5001M" Cantidad="2" ClaveUnidad="H87" Unidad="H87" Descripcion="PZA, Tinta Brother BT5001M Rendimiento Ultra 5000 Páginas Color Magenta" ValorUnitario="109.25" Importe="218.49" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="218.49" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="34.96" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="44103100" NoIdentificacion="BT6001BK" Cantidad="3" ClaveUnidad="H87" Unidad="H87" Descripcion="PZA, Tinta Brother BT6001BK Rendimiento Ultra 6000 Páginas Color Negro" ValorUnitario="84.19" Importe="252.57" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="252.57" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.41" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="145.29">
+<cfdi:Traslados>
+<cfdi:Traslado Base="908.04" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="145.29" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="A5E26867-9898-4D84-8171-8B54DEC083EC" FechaTimbrado="2025-07-23T11:22:30" RfcProvCertif="SFE0807172W8" SelloCFD="svEpI/eRA4iuZUXm/BZ2snAMCM71uHm2PNuOoOE0XuCVW4wIPKqHyDvT0SQYAY1Iq4xGy07bhkvK6C3rWs+xY4DcFEGnUbesNjHa7x0NBGMfuU85lQyDIEBNCFHfTRFxXgY62yoS0vxBFw7+uQv9eGQJZF98OMNGUc7+GgWgRAjhThEKHg7nYnDmKiIke+6Sx1N/2Zq8q/UGg/dNKrMNsImWkOI3/Qq8v1WwSLO6FbiyItynuq+3R54ORSg4zB57x1RrCWKOqAzhWjiIATYifezQsyjVO5fweNaYKsdfmnqxQOSEGlK0PObfCAp2OjZ4ptpQWBeq8RascspYcyGbUg==" NoCertificadoSAT="00001000000710052019" SelloSAT="gtNg2LvRS0HZBE0FHk2+FeVUZ9HhKZdt7rbqhB1VxGnszcpXH5ywN3nO4ywzNxN+IJR4usCxG4Xpmr68BzdMk55fkPbgF0m+BvvvyKvTxSSutTZVJHBQ2Wd88G4mE5++ufVSTexXgcvo7hmaFHf5VyQMNGxdgsSbl2biZcvjRWiyx/jKfeojSv9GBwbz4sUA+ntsh4qQFAmBCBWjO0qdRxCN9/rMD7fPrfP7o+nRPH7dALCgUurgt6oE3va3IJED3fmgDf0wleSVjjQ9Qpr5ng8SvkChKdY4eUKBr3l2CMLUfgX7Ox1wD8qzZZ+1rikQx/YdpWdhrz14JO/2Pk7vVg==" /></cfdi:Complemento></cfdi:Comprobante>

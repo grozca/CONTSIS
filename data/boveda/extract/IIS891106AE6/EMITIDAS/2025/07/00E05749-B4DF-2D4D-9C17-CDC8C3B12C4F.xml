@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="2649" Fecha="2025-07-21T11:11:29" Sello="V4uts5Eb0fJNoTU8Hg2omHNqWfpe9vfErHVDHXS7RvJxTRtqeu1AxwZqG1CZuvaarfQPdCvBEtIhB49jKUFChevQGXgPRpky3SCyA6euoU81B9rn60W6Nwzmg9/ctmoxbkZi5WGFu+G1cvtSZjxa6yL7xLApPLTzi8pWRRHPRBUgMZT1SQRXx5YavNL+1LvhuzKufBt3xZu5dcr8NDJJOdyvvgwxb5fKWdQsh1heXUAwga/B9ww0pulv24dAKSz4Lcd2GeAxS3FXs0afJ1H8NRCSoPIKleBeZhChpoO9mbgm+//V1mH1YwV/oubHtrVZInD/Lcp8RShb1p8bjI4HJg==" FormaPago="99" NoCertificado="00001000000508761395" Certificado="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" CondicionesDePago="45 DIAS" SubTotal="7158.60" Moneda="USD" TipoCambio="18.72" Total="8303.98" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="TAM520130D49" Nombre="TUBOS DE ACERO DE MEXICO" DomicilioFiscalReceptor="91697" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="36011414" Cantidad="9" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FLECHA T-72508&#xA;ITEM 00002" ValorUnitario="218.25" Importe="1964.25" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1964.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="314.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="36036491" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ZAPATA 2-25209-MO-212 DIAM.TUBO 8 5/8&quot;&#xA;ITEM 00004" ValorUnitario="216.00" Importe="864.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="864.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="138.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="36036492" Cantidad="4" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ZAPATA 2-25209-MO-212 DIAM.TUBO 11&quot;&#xA;ITEM 00005" ValorUnitario="216.00" Importe="864.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="864.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="138.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="36011414" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FLECHA T-72508&#xA;ITEM 00002" ValorUnitario="218.25" Importe="654.75" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="654.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="104.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="36014207" Cantidad="3" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MANGA T-62920&#xA;ITEM 00001" ValorUnitario="462.00" Importe="1386.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1386.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="221.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="36008806" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FLECHA DIBUJO T-72505&#xA;ITEM 00001" ValorUnitario="305.55" Importe="611.10" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="611.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="97.776" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="36077000" Cantidad="7" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ESPACIADOR POS.2 3320-M-SC-160-485&#xA;ITEM 00001" ValorUnitario="36.00" Importe="252.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="252.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="36077002" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIN POS.1 3320-M-SC-160-485&#xA;ITEM 00001" ValorUnitario="69.30" Importe="346.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="346.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="55.44" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="49036573" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BUJE 25MM 3248-A-D2-018 POS. 2&#xA;ITEM 00001" ValorUnitario="108.00" Importe="108.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="108.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="49036583" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BUJE POS.12 3248-A-D2-018&#xA;ITEM 00002" ValorUnitario="108.00" Importe="108.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="108.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1145.38">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="7158.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1145.38" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="00E05749-B4DF-2D4D-9C17-CDC8C3B12C4F" FechaTimbrado="2025-07-21T11:14:22" RfcProvCertif="SCD110105654" SelloCFD="V4uts5Eb0fJNoTU8Hg2omHNqWfpe9vfErHVDHXS7RvJxTRtqeu1AxwZqG1CZuvaarfQPdCvBEtIhB49jKUFChevQGXgPRpky3SCyA6euoU81B9rn60W6Nwzmg9/ctmoxbkZi5WGFu+G1cvtSZjxa6yL7xLApPLTzi8pWRRHPRBUgMZT1SQRXx5YavNL+1LvhuzKufBt3xZu5dcr8NDJJOdyvvgwxb5fKWdQsh1heXUAwga/B9ww0pulv24dAKSz4Lcd2GeAxS3FXs0afJ1H8NRCSoPIKleBeZhChpoO9mbgm+//V1mH1YwV/oubHtrVZInD/Lcp8RShb1p8bjI4HJg==" NoCertificadoSAT="00001000000702501858" SelloSAT="LRr3mFXtJ0ytQ+LGIPxDKYBYdBeKaP3Rmv7auUyXGDaV5Ubf9E0FPztC5V3eG4kqKk3JWjfTEgj8/P5z85+0h02uSsXSB3EkGwSPd8oDttWUgVlHLITdFqLjbML0MdFJX/Qo0bxChL+jLX+MNaCNdTwVsVRp0BRwfz/ZQ3uXANdt5Rx11456eubRTwV/eOxOTJP1k9FegyIWw+I2yGFGRUmRXVSJh7/sbAo6Bihy/CptLGN8HCGYyrLpb2K64VIA09QISjdNWH3cxR1T+QW5/ndN6k874K09SSvdrxaaUtYQpXtLEdYRNbASJ3BTic47HTTq4JF5C25w30SLTOSWzA==" />
+</cfdi:Complemento></cfdi:Comprobante>

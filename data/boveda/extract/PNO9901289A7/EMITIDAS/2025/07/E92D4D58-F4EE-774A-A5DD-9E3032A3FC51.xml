@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="G" Folio="33277" Fecha="2025-07-02T11:41:09" Sello="TxFzwnWdL2UEdUyVka/bRWdpXEhyG3LrmDn+Y8Mh2Q2Hh8FCWhExG3qKjemQOd8UdbiVeXAKi/bVhWY9qGC1lIe4K2rssXi9WWPiigm7wUKFtIeC88WZ1rmdQmSd0X0OpuTJxnCPP2mQEdR0WxEhQOqXEX+CuGm+rXkhtwk2sopFXSUcEU7Y8yYh+vi0FDAwnxqpMD1LIfOiwoM+yxBbjgU1qDvowYyKpPlqNAHADdqW40SbcioSRyMtPZ3rypq4zP2jW7fBfz/Pm02J62RrpjL4VWq0G5O5/dGseXWITxCZsxDaePdhA2guMqmqvoC/kS8S50NyN48CRuYjjL51Iw==" FormaPago="99" NoCertificado="00001000000512142846" Certificado="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" CondicionesDePago="30 DIAS" SubTotal="31356.92" Moneda="MXN" Total="36374.03" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72420">
+  <cfdi:Emisor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="AJE010718ET5" Nombre="AJEMEX" DomicilioFiscalReceptor="74160" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="44121706" NoIdentificacion="4412" Cantidad="10" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="LAPIZ GRAFITO JOCAR HB #2 AMARILLO PZA XZ.." ValorUnitario="1.51" Importe="15.10" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121708" NoIdentificacion="7502307717641" Cantidad="20" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="MARCADOR P/PIZ DUO JUMBO PPPB1 C/4 XZ.." ValorUnitario="29.42" Importe="588.40" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="588.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="94.144" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111823" NoIdentificacion="LFKFRA-192-RAY" Cantidad="8" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="LIBRO F/F KYMA FLORETE RAYADO 192HJS XZ.." ValorUnitario="159.76" Importe="1278.08" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1278.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="204.4928" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="1110-100-07" Cantidad="15" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARPETA VINIL T/C KYMA PANORAMA &quot;O&quot; 2&quot; BLANCA XZ.." ValorUnitario="49.87" Importe="748.05" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="748.05" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="119.688" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="8022" Cantidad="120" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="REGISTRADOR T/C LUX MEDIO XZ.." ValorUnitario="26.94" Importe="3232.80" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3232.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="517.248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121804" NoIdentificacion="441218" Cantidad="6" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="GOMA MIGAJON MAE GM-40MJ PZA XZ.." ValorUnitario="1.90" Importe="11.40" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.824" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121700" NoIdentificacion="100330" Cantidad="4" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PORTAMINAS BIC PLAST TONOS METAL HB#2  0.5MM PZA XZ.." ValorUnitario="6.31" Importe="25.24" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.0384" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44101809" NoIdentificacion="7502285732896" Cantidad="4" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CALCULADORA DE ESCRITORIO JUMBO PCA3 12DIG MED XZ.." ValorUnitario="56.96" Importe="227.84" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="227.84" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="36.4544" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121502" NoIdentificacion="7501811272332" Cantidad="90" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PERMANENTE NEXTEP NE-074 NEGRO PZA XZ.." ValorUnitario="7.81" Importe="702.90" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="702.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="112.464" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122016" NoIdentificacion="7501015191484" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TABLA AGARRAPAPEL T/C DIETRIX MADERA 9148 XZ.." ValorUnitario="16.49" Importe="329.80" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="329.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="52.768" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121615" NoIdentificacion="1110-100-66" Cantidad="10" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ENGRAPADORA NEXTEP NE-104 TIRA COMPLETA XZ.." ValorUnitario="55.02" Importe="550.20" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="550.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="88.032" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121701" NoIdentificacion="PBOE1" Cantidad="300" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="BOLIGRAFO P/M JUMBO PBOE1 NEGRO PZA XZ.." ValorUnitario="1.33" Importe="399.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="399.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="63.84" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121701" NoIdentificacion="PBOE3" Cantidad="60" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="BOLIGRAFO P/M JUMBO PBOE3 ROJO PZA XZ.." ValorUnitario="1.33" Importe="79.80" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="79.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.768" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121701" NoIdentificacion="PBOE2" Cantidad="300" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="BOLIGRAFO P/M JUMBO PBOE2 AZUL PZA XZ.." ValorUnitario="1.33" Importe="399.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="399.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="63.84" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44102000" NoIdentificacion="441020" Cantidad="150" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MICA TERMICA SMART POUCH 5MLS 229X292 T/C PZA XZ.." ValorUnitario="1.38" Importe="207.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="207.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.12" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="1110-100-05" Cantidad="10" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARPETA VINIL T/C KYMA PANORAMA &quot;O&quot; 1&quot; BLANCA XZ.." ValorUnitario="37.53" Importe="375.30" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="375.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.048" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111530" NoIdentificacion="4893055276546" Cantidad="25" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="NOTAS ADHES RIHAN 654-4P 3X3 75X75MM PASTEL C/400 XZ.." ValorUnitario="25.88" Importe="647.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="647.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="103.52" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" NoIdentificacion="7501811271229" Cantidad="10" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="DESENGRAPADOR NEXTEP NE-111 XZ.." ValorUnitario="9.63" Importe="96.30" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="96.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.408" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122002" NoIdentificacion="7502285732742" Cantidad="15" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="MICA PROTECTORA T/C JUMBO PPH1 C/100 XZ.." ValorUnitario="41.97" Importe="629.55" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="629.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="100.728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111514" NoIdentificacion="602760005211" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CUADERNO PROF ESTRELLA D/ARILLO 0521 SEMIRIG C-7 100HJS XZ.." ValorUnitario="49.14" Importe="982.80" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="982.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="157.248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111514" NoIdentificacion="602760005204" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CUADERNO PROF ESTRELLA D/ARILLO 0521 SEMIRIG RAYA 100HJS XZ.." ValorUnitario="49.14" Importe="982.80" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="982.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="157.248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60121502" NoIdentificacion="7201811272301" Cantidad="24" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PERMANENTE NEXTEP P/F NE-070 NEGRO PZA XZ.." ValorUnitario="4.93" Importe="118.32" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="118.32" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="18.9312" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122000" NoIdentificacion="1110-100-06" Cantidad="15" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARPETA VINIL T/C KYMA PANORAMA &quot;O&quot; 3&quot; BLANCA XZ.." ValorUnitario="63.89" Importe="958.35" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="958.35" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="153.336" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" NoIdentificacion="7502212171620" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TIJERA OFICINA MAE MT-6 PLAST XZ.." ValorUnitario="21.68" Importe="433.60" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="433.60" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="69.376" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31201500" NoIdentificacion="7501887511274" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CINTA ADHES TRANSP N-55 18X65M NAVITEK XZ.." ValorUnitario="8.63" Importe="43.15" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="43.15" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.904" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122107" NoIdentificacion="7502285731363" Cantidad="25" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="GRAPA STANDAR JUMBO PGR1 26/6 C/5000 XZ.." ValorUnitario="12.58" Importe="314.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="314.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="50.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111507" NoIdentificacion="7502233375779" Cantidad="240" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="PAPEL BOND T/C ECOLOGICO 75GS C/500 XZ.." ValorUnitario="63.00" Importe="15120.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15120.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2419.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121627" NoIdentificacion="1110-100-29" Cantidad="24" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCATEXTO JOCAR AMARILLO PZA XZ.." ValorUnitario="5.07" Importe="121.68" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="121.68" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19.4688" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31201610" NoIdentificacion="7502237308995" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="LAPIZ ADHES MAE LAM-406 40GR XZ.." ValorUnitario="14.26" Importe="71.30" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="71.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.408" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="41111604" NoIdentificacion="1110-100-64" Cantidad="10" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="REGLA METAL SABONIS 30CM XZ.." ValorUnitario="10.95" Importe="109.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="109.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.52" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121619" NoIdentificacion="SMR24" Cantidad="10" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="SACAPUNTAS METALICO JOCAR RECTANGULAR PZA XZ.." ValorUnitario="2.83" Importe="28.30" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="28.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.528" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44101602" NoIdentificacion="7501987591886" Cantidad="15" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="PERFORADORA 2 ORIF PASCUA G20 PZA XZ.." ValorUnitario="73.26" Importe="1098.90" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1098.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="175.824" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44111506" NoIdentificacion="7501811271236" Cantidad="5" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="AGARRAPAPEL NEXTEP NE-153 19MM 3/4&quot; P/40HJS C/12 XZ.." ValorUnitario="7.42" Importe="37.10" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="37.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.936" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121800" NoIdentificacion="1110-100-22" Cantidad="20" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CORRECTOR ROLLER A-INK CCI-8BL 5X8MT XZ.." ValorUnitario="14.45" Importe="289.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="289.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103112" NoIdentificacion="010343812598" Cantidad="2" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CINTA EPSON ERC-27 B XZ.." ValorUnitario="52.43" Importe="104.86" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="104.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.7776" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="5017.11">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="31356.92" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5017.11" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="E92D4D58-F4EE-774A-A5DD-9E3032A3FC51" FechaTimbrado="2025-07-02T11:41:16" RfcProvCertif="SCD110105654" SelloCFD="TxFzwnWdL2UEdUyVka/bRWdpXEhyG3LrmDn+Y8Mh2Q2Hh8FCWhExG3qKjemQOd8UdbiVeXAKi/bVhWY9qGC1lIe4K2rssXi9WWPiigm7wUKFtIeC88WZ1rmdQmSd0X0OpuTJxnCPP2mQEdR0WxEhQOqXEX+CuGm+rXkhtwk2sopFXSUcEU7Y8yYh+vi0FDAwnxqpMD1LIfOiwoM+yxBbjgU1qDvowYyKpPlqNAHADdqW40SbcioSRyMtPZ3rypq4zP2jW7fBfz/Pm02J62RrpjL4VWq0G5O5/dGseXWITxCZsxDaePdhA2guMqmqvoC/kS8S50NyN48CRuYjjL51Iw==" NoCertificadoSAT="00001000000702501858" SelloSAT="KMY49dK88PlGQLwlXNF8vgPda/V8bTJkUKiZ/8Nef5P/lAUO4CxsTJgpn1smDmHpHt6QS+cWtlU34ID5yNokIwgyVGX7aO/Mup5b5Y90FMwDWhFkH/AP4t/s2LSjWmVEMpPP2PQtPOLB71NzvzmATv8CC+KWWViRDr1mYnV4mVRQ05mgu/Brbn75vwjPSAEZGBH2/1RUeX1RXFKy9D4lqTPx6wCuzS2o9WngIMGxeA5snffdqNJLAVn15/7tWyvlrz7u/su+sHEJ+M4+d9oC/UEC7e4faI45ygisCNT45UH1ziT+lRpREVB6ZPskLYMeEuRIx3+qZAyW/aZ0HKVdZQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

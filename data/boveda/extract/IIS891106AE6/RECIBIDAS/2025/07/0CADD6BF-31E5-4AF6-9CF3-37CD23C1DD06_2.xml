@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="10PBI" Folio="2341125250731234907224" Fecha="2025-07-31T16:49:07" Exportacion="01" Sello="U0wvDRVgPLh6f5J2jRsdoQ3alwF6MB//ONbPHFDxtzGojHtW8zpBF4StKY/0mW0JsmwWGNAd+mO6oraGwvGnndMv4L3PZEowCoM2RsPUWamJELPNNLjK3U4QDPfpyj+ZvBnfIhHAuTLIYgr22lKH6xelVYl2z56uUiw80Qes+UTKtkPbU1DtwgJg7lYZqs0GCSPClKw13PWndzDh5vQFft6mJS143rVW2JtdQxUUJ+zyd80nuSwvL9i1Em5nyD9yX5hlhu6bDCptNX7lpBubpaXJX+OKWloTI9l9kRLVEgGcG6DHmSEkVERk9eePvT6i1fXat3TEjBaqQup+n+HVRg==" FormaPago="28" NoCertificado="00001000000713776116" Certificado="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" SubTotal="201.89" Moneda="MXN" Total="220.50" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="74300">
+  <cfdi:Emisor Nombre="CADENA COMERCIAL OXXO" Rfc="CCO8605231N4" RegimenFiscal="623" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" UsoCFDI="G03" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50202306" NoIdentificacion="021136010480" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="AGUA MINERAL TOPO CHICO 1.5 LT BOTELLA NO RETORNABLE" ValorUnitario="25.00" Importe="25.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202400" NoIdentificacion="032239052000" Cantidad="2.00" ClaveUnidad="EA" Unidad="EA" Descripcion="NECTAR DE FRUTAS DEL VALLE 413 ML BOTELLA MANGO" ValorUnitario="18.00" Importe="36.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="36.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202311" NoIdentificacion="57520" Cantidad="2.00" ClaveUnidad="EA" Unidad="EA" Descripcion="20OZ KREA CAPUCHINO REGULAR" ValorUnitario="27.586207" Importe="55.172414" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="55.17" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.83" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50181900" NoIdentificacion="7500464333803" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="VUALA SORPRESA CAJETA 60GR" ValorUnitario="18.518519" Importe="18.518519" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="18.52" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.48" />
+          <cfdi:Traslado Base="20.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7502247427181" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="BOTANOTAS CHIDAS PAPAS CON SAL 85 GR" ValorUnitario="20.37037" Importe="20.370370" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20.37" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.63" />
+          <cfdi:Traslado Base="22.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202304" NoIdentificacion="75061685" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="BONAFONT KIDS SABOR UVA 300ML" ValorUnitario="13.50" Importe="13.500000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="757528026042" Cantidad="2.00" ClaveUnidad="EA" Unidad="EA" Descripcion="TAKIS FUEGO BARCEL 80G" ValorUnitario="16.666667" Importe="33.333333" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="33.33" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.67" />
+          <cfdi:Traslado Base="36.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="18.61">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Base="80.17" Importe="12.83" />
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Base="127.50" Importe="0.00" />
+      <cfdi:Traslado Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Base="72.22" Importe="5.78" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="0cadd6bf-31e5-4af6-9cf3-37cd23c1dd06" FechaTimbrado="2025-07-31T17:49:07" RfcProvCertif="AUR100128NN3" SelloSAT="eo3i3LreSNbGcfcsaHHNffw18ZldsdW2yBY1coxWjn/M5xTcG5H0bp16g/SZPrbzGeh8piaC0yE2flYvLyQGBL3PAD+QbOxPaf8wicTkI+fYdjDd+j0tReoOo2Aoxhw8KLa5zif+cbzxsRGA1zbAVZVKbsSrmvy6R/d6acN8J048JXvN/w26Rq4bQXvLsajP3/xz0Zq5luopMffFIx7oHJOfRL22KQKoYyDDGVseNnCNgxBQgRKENHnxzjLFS80xStOofxjniseaO3AeOF5up+WIIOSEJBcNT1+RrQhGBEdRLUAg6qj57EqBdqhbB1NgzxOkAVdu/ohVnJ01A244jA==" SelloCFD="U0wvDRVgPLh6f5J2jRsdoQ3alwF6MB//ONbPHFDxtzGojHtW8zpBF4StKY/0mW0JsmwWGNAd+mO6oraGwvGnndMv4L3PZEowCoM2RsPUWamJELPNNLjK3U4QDPfpyj+ZvBnfIhHAuTLIYgr22lKH6xelVYl2z56uUiw80Qes+UTKtkPbU1DtwgJg7lYZqs0GCSPClKw13PWndzDh5vQFft6mJS143rVW2JtdQxUUJ+zyd80nuSwvL9i1Em5nyD9yX5hlhu6bDCptNX7lpBubpaXJX+OKWloTI9l9kRLVEgGcG6DHmSEkVERk9eePvT6i1fXat3TEjBaqQup+n+HVRg==" NoCertificadoSAT="00001000000710611637" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

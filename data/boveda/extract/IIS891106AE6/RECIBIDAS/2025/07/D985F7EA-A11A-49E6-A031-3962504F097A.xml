@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="R" Folio="134" Fecha="2025-07-15T11:52:07" Sello="ZebbfKtyFS6higN3vHaJoq10M9T9+wCMtU9oXbA8A9GVIsmeLbf+TkA9rNVINKv+QAa6kRekCSlf1cwhg8/fUQZIvirjS3Us0LQOhHfeWLqBJooEZ/oGTvbJRjdilEgYcow5djQRihTWUo+LZg/9lumoqoSB3BmCiYIjtddaAFmH/qA8tyGo4E9IyVkwLhmLZuEx8jv+M/8ULhcnokkvuCSBAw6KKjc1tyuy86V1na08i7Iikv+WQrlbwYf1pe62Lo0gn9QSO0hH0FgXqa+lJhmOwf+SS81CE65EWENSsQeqOppMslOi5UDQNuQPI6eyB7Izhfyflep3sMmVIZqiPQ==" FormaPago="03" NoCertificado="00001000000514450863" Certificado="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" SubTotal="4555.00" Moneda="MXN" Total="5226.85" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72490" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="AARA6701096N6" Nombre="ARTURO ALCANTAR ROMERO" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="14111537" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CINTA DE ETIQUETAS BLANCO SOBRE NEGRO BROTHER DK-2251" ValorUnitario="595" Importe="595.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="595.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="95.200000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="595.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="7.437500" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103105" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CARTUCHO DE TINTA NEGRA BROTHER REND 3000 PAG" ValorUnitario="930" Importe="930.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="930.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="148.800000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="930.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="11.625000" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103105" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CARTUCHO DE TINTA BROTHER MAGENTA 1500 PAG AL 5%" ValorUnitario="615" Importe="615.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="615.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="98.400000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="615.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="7.687500" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103105" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BOTELLA DE TINTA NEGRA CANON PARA PLOTTER TC-20" ValorUnitario="1215" Importe="1215.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1215.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="194.400000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1215.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="15.187500" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103100" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CARTUCHO DE MANTENIMIENTO MC-32INK PARA PLOTTER TC-20" ValorUnitario="1200" Importe="1200.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1200.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="192.000000" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1200.000000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="15.000000" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="728.80" TotalImpuestosRetenidos="56.95">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="56.95" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="4555.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="728.80" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="D985F7EA-A11A-49E6-A031-3962504F097A" FechaTimbrado="2025-07-15T11:52:26" RfcProvCertif="SAT970701NN3" SelloCFD="ZebbfKtyFS6higN3vHaJoq10M9T9+wCMtU9oXbA8A9GVIsmeLbf+TkA9rNVINKv+QAa6kRekCSlf1cwhg8/fUQZIvirjS3Us0LQOhHfeWLqBJooEZ/oGTvbJRjdilEgYcow5djQRihTWUo+LZg/9lumoqoSB3BmCiYIjtddaAFmH/qA8tyGo4E9IyVkwLhmLZuEx8jv+M/8ULhcnokkvuCSBAw6KKjc1tyuy86V1na08i7Iikv+WQrlbwYf1pe62Lo0gn9QSO0hH0FgXqa+lJhmOwf+SS81CE65EWENSsQeqOppMslOi5UDQNuQPI6eyB7Izhfyflep3sMmVIZqiPQ==" NoCertificadoSAT="00001000000705250068" SelloSAT="gL9KSNvpfifFzm5SUzfQdJ39ViaSx2fiPCUCgwzTrnlcJkzhM9BRJ+pwB7L72onKRk1vd3EHMSmy/kyeelnjrbjVaDmC+rwngkGz7+EzhS5jgUVeRQhUQhL5ImTwAr6RK5Od0IcgPVO9ucuWuV6ug4pT6gebTdtQatquDed0AXFvB6REuAQKe23OZ8K0FvnfuMMtckspWaLIMv5FIzu8Y2Nx3Nb0eqqBByCNijqLsn3lZwdpqJwwfRRJREfnrAoqPb1vHkTi1C26s0WyFxpLQT91rhNQy3nhqS6MBKRcf6GKRPGWdBXmD1vhM6SCkrwaMbYF1GP1Ak/K6FDSjk35Lw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

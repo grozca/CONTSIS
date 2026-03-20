@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="2657" Fecha="2025-07-29T07:23:24" Sello="c+9awizluvMjyj2s2hncmOiHF9tzw0BInFclVWw3OCZ9N7ZU6UvSBqKwej0bZuFrU+ATgBF0Ipus8qWKiyI+IDVBB90Le7OgBAT6i3pm8KaBsq3J1HIgzVc7yO+IChezx6uOEuQh7STooRgVZj0FWWBvJJRhTSp/3vC1PrY/a9EWNutcKQpvZ16UBZd6v0Z73zXHLpZsRhWjrssr+lkEH8tn4Jc8DTq9QgTyDh8W13RSvtQble33LP4+9mUQ95wPTmc8AhWrnzCmEBq4csrjYsb2brK/NRgeoL80yDI/DlaiRYgO/0JrSCtIHWsRbxXnVENB60XBTeyQtpD5RN9o5A==" FormaPago="99" NoCertificado="00001000000508761395" Certificado="MIIGAjCCA+qgAwIBAgIUMDAwMDEwMDAwMDA1MDg3NjEzOTUwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMTA4MjUyMzQyMTBaFw0yNTA4MjUyMzQyMTBaMIHQMSYwJAYDVQQDEx1JQkFZUk8gSU5EVVNUUklBTCBTIERFIFIgTCBNSTEmMCQGA1UEKRMdSUJBWVJPIElORFVTVFJJQUwgUyBERSBSIEwgTUkxJjAkBgNVBAoTHUlCQVlSTyBJTkRVU1RSSUFMIFMgREUgUiBMIE1JMSUwIwYDVQQtExxJSVM4OTExMDZBRTYgLyBJQUNKNzMwNjAyUzgzMR4wHAYDVQQFExUgLyBJQUNKNzMwNjAySFBMQlJOMDgxDzANBgNVBAsTBlVOSURBRDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK8pl/oUeyEJU3dkQuyF3IvlvpABNnKVjNcOSa5yEW8X0kqj/g9HMndTVuC/i3FUaBuh5ZZ9KI9S6SoUmjVxBDF/ug3ZTixDNRnqx4hGaHmyK2wKdli2IySlJE3A1tuCqTzVBUY8vrsHmsA7SMohP+Xo2Q2OcSeplAVQRJRQk4MvmHKuv9v86Ia5eh1TfV0QvL4fsq4YByD1o7UkvrV34XjJjjx1+8zImnh6nAJl1aunDD4WulR4zCXRDPg/9Bwu/C3+vmYEDt08kxH0/6D1d61g4Q3G0jT5C/BDII0tsjlig8d7dgJvN9nkjdq4tToguC46hlMKaICQHCiULu0a/6kCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAHWiEyyY+4DCIf1FEOgTZxYwYZpVAKsySHBPnK3YsaBJz5UD6efA7kN9pEVxqiA9L9QWgxqYVE5yaYO1DgwI7jj4Yxppx9kWY7PTIbpBjmMnz1B57YaZNq4r+KiIF4fuGBga03l69G98jji5uTLJZMh5Mh9df/daVjz/8tqRvzaH9AfVl3/QOe4ucFZXsnwHqPkamCkfczrdk5x+D90EQjqbR/nZXvrSXBs3H5BVEpS27T0ADl5/Jj2ikwUEEsvS0HrORwnQ8xP0b0oTTfBiW8DLtvqbX3SurgETE3xK+lTLy8KVyCX2JGE/zMWWPHCHOEn0t7UmUOg1jhQAbwz1+tvT8N3Brt4xtD3JYxSDAZNS9sXSbYxdHz5j0EoET4TrZWxpY4xene002JrH0tAxFol1GNa+KSeyWARapFCWbQC5OhA7Q9FxCduz8bC3jsC/rELodTmJg3EOn8icE1CplVseLNIEUf4SLZxvSFS0tcG2LDa+CLVF273TkTd7rbWEtCQYfdoyhOWf4numWfvZN+CnnIQnpBKe76dDE98TYzPZ/thHX4daVCx/+Ep/ZnE3w3BbI0mrCAvbIQ07iEOLyrTy+/3Z6970EEgIRDcM2U4NcJvZapIf9nSFspFSlaMYx5R0Ac/LDKNMVMfk75zwhbv/hBLG6yb3uB3l3PNR7T7M" CondicionesDePago="30 DIAS" SubTotal="23599.00" Moneda="USD" TipoCambio="18.7267" Total="27374.84" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="TAM520130D49" Nombre="TUBOS DE ACERO DE MEXICO" DomicilioFiscalReceptor="91697" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026663" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 3/4&quot; 4TA OP POS.2 01.MA.501.12032&#xA;ITEM 00008" ValorUnitario="799.00" Importe="799.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="799.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="127.84" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026668" Cantidad="2" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 3/4&quot; 6TA OP COMPLEMENTO POS.3   01.MA.501.12034&#xA;ITEM 00010" ValorUnitario="471.00" Importe="942.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="942.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="150.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026651" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 7/8&quot; 5TA OP COMPLEMENTO POS.3  01.MA.501.12039&#xA;ITEM 00005" ValorUnitario="471.00" Importe="471.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="471.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="75.36" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026634" Cantidad="2" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; 2DA OP POS.2 01.MA.501.12042&#xA;ITEM 00001" ValorUnitario="496.00" Importe="992.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="992.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="158.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026638" Cantidad="2" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; 1RA OP POS.2 01.MA.501.12041&#xA;ITEM 00002" ValorUnitario="496.00" Importe="992.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="992.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="158.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026643" Cantidad="2" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; 6TA OP POS.2 01.MA.501.12046&#xA;ITEM 00003" ValorUnitario="1060.00" Importe="2120.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2120.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="339.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026644" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 7/8&quot; 5TA OP POS.2  01.MA.501.12039&#xA;ITEM 00004" ValorUnitario="740.00" Importe="740.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="740.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="118.40" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026645" Cantidad="2" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; 4TA OP POS.2 01.MA.501.12044&#xA;ITEM 00005" ValorUnitario="967.00" Importe="1934.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1934.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="309.44" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026648" Cantidad="2" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; 6TA OP COMPLEMENTO POS.3 01.MA.501.12046&#xA;ITEM 00007" ValorUnitario="479.00" Importe="958.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="958.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="153.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026649" Cantidad="2" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 7/8&quot; 2DA OP POS.2 01.MA.501.12036&#xA;ITEM 00008" ValorUnitario="488.00" Importe="976.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="976.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="156.16" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026656" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 1&quot; 3RA OP POS.2 01.MA.501.12043&#xA;ITEM 00009" ValorUnitario="496.00" Importe="496.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="496.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="79.36" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026658" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON 7/8&quot; 5TA OP POS.1   01.MA.501.12039&#xA;ITEM 00010" ValorUnitario="219.00" Importe="438.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="438.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="70.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35027211" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON 1&quot; 5TA OP POS.4 01.MA.501.12073&#xA;ITEM 00012" ValorUnitario="286.00" Importe="572.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="572.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="91.52" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026608" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 7/8&quot; 3RA OP POS.2  01.MA.501.12037&#xA;ITEM 00014" ValorUnitario="740.00" Importe="740.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="740.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="118.40" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026632" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON 7/8&quot; 4TA OP POS.1   01.MA.501.12038&#xA;ITEM 00015" ValorUnitario="281.00" Importe="281.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="281.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="44.96" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026639" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 7/8&quot; 1RA OP POS.2 01.MA.501.12035&#xA;ITEM 00016" ValorUnitario="488.00" Importe="488.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="488.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="78.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35026651" Cantidad="1" ClaveUnidad="XKI" Unidad="Juego" Descripcion="JUEGO DE MATRIZ 7/8&quot; 5TA OP COMPLEMENTO POS.3  01.MA.501.12039&#xA;ITEM 00017" ValorUnitario="471.00" Importe="471.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="471.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="75.36" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030038" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 1&quot; 3RA OP. POS.1 01.MA.501.12308&#xA;ITEM 00001" ValorUnitario="792.00" Importe="792.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="792.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="126.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030040" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 1&quot; 4TA OP. POS.1 01.MA.501.12309&#xA;ITEM 00002" ValorUnitario="513.00" Importe="513.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="513.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="82.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030042" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 1&quot; 2DA OP. POS.1 01.MA.501.12307&#xA;ITEM 00003" ValorUnitario="837.00" Importe="1674.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1674.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="267.84" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030041" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 1&quot; 1RA OP.POS.1 01.MA.501.12306&#xA;ITEM 00004" ValorUnitario="819.00" Importe="1638.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1638.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="262.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030048" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 7/8&quot; 3RA OP. POS.1 01.MA.501.12312&#xA;ITEM 00007" ValorUnitario="585.00" Importe="585.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="585.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="93.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030044" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 3/4&quot; 2DA OP. POS.1 01.MA.501.12314&#xA;ITEM 00002" ValorUnitario="918.00" Importe="918.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="918.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="146.88" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030045" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 3/4&quot; 3RA OP. POS.1 01.MA.501.12315&#xA;ITEM 00003" ValorUnitario="819.00" Importe="819.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="819.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="131.04" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030046" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 3/4&quot; 1RA OP. POS.1 01.MA.501.12313&#xA;ITEM 00004" ValorUnitario="936.00" Importe="936.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="936.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="149.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030047" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 3/4&quot; 4TA OP. POS.1 01.MA.501.12316&#xA;ITEM 00005" ValorUnitario="522.00" Importe="522.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="522.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="83.52" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="35030038" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PUNZON ROSCADO 1&quot; 3RA OP. POS.1 01.MA.501.12308&#xA;ITEM 00006" ValorUnitario="792.00" Importe="792.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="792.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="126.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="3775.84">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="23599.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3775.84" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="89E0001E-A94C-B442-96F9-A450EA1D0D1B" FechaTimbrado="2025-07-29T07:24:58" RfcProvCertif="SCD110105654" SelloCFD="c+9awizluvMjyj2s2hncmOiHF9tzw0BInFclVWw3OCZ9N7ZU6UvSBqKwej0bZuFrU+ATgBF0Ipus8qWKiyI+IDVBB90Le7OgBAT6i3pm8KaBsq3J1HIgzVc7yO+IChezx6uOEuQh7STooRgVZj0FWWBvJJRhTSp/3vC1PrY/a9EWNutcKQpvZ16UBZd6v0Z73zXHLpZsRhWjrssr+lkEH8tn4Jc8DTq9QgTyDh8W13RSvtQble33LP4+9mUQ95wPTmc8AhWrnzCmEBq4csrjYsb2brK/NRgeoL80yDI/DlaiRYgO/0JrSCtIHWsRbxXnVENB60XBTeyQtpD5RN9o5A==" NoCertificadoSAT="00001000000702501858" SelloSAT="VyP4TDJ8pteuzsTW5GmWOL5gcGoBK6mIc4V9ObwDauWO7I1p2LmyqgCVT4w2QMAexu4qfASUSL5r5sRtTIE6OAVIU1hSrlb77wMzrdZP3NkTBy9DMilMl5CsaFc0z0V17A6aOsqEkG/udlJdFacsUvC4blvoVXKwo7jBJkRfSHOXz5xtqg+CvPEoNECWBFp0fYVSeY24WGEoAU95qW3fGHw1de0m5pEuqkK8grshdCuOwsKlQMtuO6OztWiedolOcMuDfy2pQxtAFVF+RNjg5t7DQOX4Yk5cYr0tS9H3QSUoe77f1BgaZiDU/N+Pu8MMG9BKhugLDIrWGxgKgxJueA==" />
+</cfdi:Complemento></cfdi:Comprobante>

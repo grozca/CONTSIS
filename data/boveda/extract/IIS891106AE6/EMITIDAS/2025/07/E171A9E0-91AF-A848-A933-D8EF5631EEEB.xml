@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="2630" Fecha="2025-07-02T09:24:20" Sello="EiYiIJr8fuGFg1/ukOxyW77RskXpWfLYLHnJ0mCqciRpUlaOrhAAHaytt8k+4JNriw1aJ0V91ANDiDo8jJwB4Z8FO1J3jVAcEq/84D5wrzMsdhizUsjyMi39qMpsr6/n05b67TutQCRoI8501qtUJX2Rwiw6Gu8n39C09VZo/Z688+253LAirxyi7VwH5JNfUVCS9ntXt9j6arLsqaK8f6br+erTS2ndEysZzKACIaIfYAeekdgNPSfM1RG+Rffk7dTq+ncR76b6DipJNCror7/ab916122oT2brOeQiaSPnqaVP7UVmN0F/NW9xcqsjN2ZYaya4h1kaj8EnilBmLQ==" FormaPago="99" NoCertificado="00001000000508761395" Certificado="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" CondicionesDePago="60 DIAS" SubTotal="7974.00" Moneda="USD" TipoCambio="18.765" Total="9249.84" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="TMM931217S20" Nombre="THYSSENKRUPP METALURGICA DE MEXICO" DomicilioFiscalReceptor="72620" RegimenFiscalReceptor="601" UsoCFDI="I05" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="510081253780314" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CALZA HTA 23 POS 03 _ 65 MM REB 12°&#xA;ITEM 10" ValorUnitario="585.00" Importe="1170.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1170.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="187.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="510081253780315" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CALZA HTA 23 POS 03 _ 70 MM REB 13°&#xA;ITEM 20" ValorUnitario="630.00" Importe="1260.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1260.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="201.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="510081253780316" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CALZA HTA 23 POS 03 _ 75 MM REB 14°&#xA;ITEM 30" ValorUnitario="630.00" Importe="1260.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1260.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="201.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="510081253780317" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CALZA HTA 23 POS 03 _ 80 MM REB 15°&#xA;ITEM 40" ValorUnitario="630.00" Importe="1260.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1260.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="201.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="510081253780318" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CALZA HTA 23 POS 03 _ 85 MM REB 16°&#xA;ITEM 50" ValorUnitario="756.00" Importe="1512.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1512.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="241.92" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="510081253780319" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CALZA HTA 23 POS 03 _ 90 MM REB 17°&#xA;ITEM 60" ValorUnitario="756.00" Importe="1512.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1512.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="241.92" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1275.84">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="7974.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1275.84" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="E171A9E0-91AF-A848-A933-D8EF5631EEEB" FechaTimbrado="2025-07-02T09:29:32" RfcProvCertif="SCD110105654" SelloCFD="EiYiIJr8fuGFg1/ukOxyW77RskXpWfLYLHnJ0mCqciRpUlaOrhAAHaytt8k+4JNriw1aJ0V91ANDiDo8jJwB4Z8FO1J3jVAcEq/84D5wrzMsdhizUsjyMi39qMpsr6/n05b67TutQCRoI8501qtUJX2Rwiw6Gu8n39C09VZo/Z688+253LAirxyi7VwH5JNfUVCS9ntXt9j6arLsqaK8f6br+erTS2ndEysZzKACIaIfYAeekdgNPSfM1RG+Rffk7dTq+ncR76b6DipJNCror7/ab916122oT2brOeQiaSPnqaVP7UVmN0F/NW9xcqsjN2ZYaya4h1kaj8EnilBmLQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="e90Ei9z0fnIL2JPeqtytwi0etjr7Cdgnt/6Bj1m566sQWwsyK3OXFQ2VEfxdDlUvPaPO7JACM+1ZcdLrdCpoHA8OlSCdEtYe7vRp9coDQqK6kBK9wkKNRC67GZ7PTK3qYcbQY/T1l+oGn4DEKydAPuZaZ/2z7r0nezhy64exj0GfFg6UGl2G4DYJv6x0ZgOPtX65DWWD+Gg6A5hJuXcoSEXrvLJMveUx+F/+xHyyq7q/wHCS44/CFKTfpB2eXHRSE2K/BlShOnnmOnfH0qiedlJTEP7hd5l9iJKehX6VoDDFbFwx3ZtkUtcN+jzqn3KTNcE+XcSqNyc6eGI8LOWt0w==" />
+</cfdi:Complemento></cfdi:Comprobante>

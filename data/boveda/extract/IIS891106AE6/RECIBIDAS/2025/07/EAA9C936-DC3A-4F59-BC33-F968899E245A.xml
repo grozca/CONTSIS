@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="10PBI" Folio="2311524250725041218460" Fecha="2025-07-24T21:12:18" Exportacion="01" Sello="HG0B3dCzf4i/4AovGvOt4iXBMM2RtKS18ju9SxypKyIibXBvwJVZX1CHiTxeBK5fB7RBDVuPs8veB8zSIS3LTqbLJkGL5d40o1FMkqcwIKHYLwA89Q8xDHDCdgL+vv8/aUVSNbjS+tXwBT6MZzgH8TisWptqHZha+/l7dLCJJ0wKKcECIgISK1W0jn7m4qMDZPVuTJBKz4T0qj2fp+vUJ8VFd0HWj/1KBPLJueWwOXtMVu+a3Pq5fqXUWgcxNhKrLxogZZ9+7PCHZcOL69qvMrctxPwxCuMNmM6mm7gNi9PpGvkyhoH3DHptDVaBunNyoup/74x3+shNF2GCklS9PQ==" FormaPago="28" NoCertificado="00001000000713776116" Certificado="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" SubTotal="117.70" Moneda="MXN" Total="128.50" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="72490">
+  <cfdi:Emisor Nombre="CADENA COMERCIAL OXXO" Rfc="CCO8605231N4" RegimenFiscal="623" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" UsoCFDI="G03" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50181900" NoIdentificacion="75002275" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="PASTELITO CHOCO ROLES MARINELA 80 GR BOLSA CHOCOLATE Y PINA" ValorUnitario="25.462963" Importe="25.462963" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+          <cfdi:Traslado Base="25.46" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.04" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50181900" NoIdentificacion="7501030420842" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="MANTECADAS CHISPAS DE CHOCOLATE BIMBO 127GR" ValorUnitario="25.00" Importe="25.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+          <cfdi:Traslado Base="25.00" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192303" NoIdentificacion="7501130900411" Cantidad="2.00" ClaveUnidad="EA" Unidad="EA" Descripcion="PALETA HOLANDA CHEMISSE PINA COCO 65 ML" ValorUnitario="25.00" Importe="50.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="54.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+          <cfdi:Traslado Base="50.00" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="4.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="80141628" NoIdentificacion="101554926" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="Servicio de distribuidores de comisión" ValorUnitario="17.241379" Importe="17.241379" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="10.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Base="108.50" Importe="0.00" />
+      <cfdi:Traslado Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Base="100.46" Importe="8.04" />
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Base="17.24" Importe="2.76" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="eaa9c936-dc3a-4f59-bc33-f968899e245a" FechaTimbrado="2025-07-24T22:12:19" RfcProvCertif="AUR100128NN3" SelloSAT="NC9KlGsSmnyrzMrLLe0a9D6/+x9EjqACKA/ux5KXhIUe6Y49swAZx/Xf2DxTXNBhjHc8RAGahGGexhtTiq0l0xfQKn3eJzYFpsnrhmbGtt8Pc5xtkYmY2lAAZgeS2BUaALCB5/QOI3f9gPMl6oRlj7IOmY1O+Jyvgj6/ALvs/kaNLVTanX0KDYXazXN2xKPlB+d8E6+ZMl1aevJmGvHRzqHmQ0XMdAocw9ESptoNWfwzoQs9j6BXsLCPAC1w8MlIUXCPtMu1UIHlQ5e2VOVVSJDlN7ASRqlE6NBu2nyJur/WlzCQFKfhRviTXvltkjB73f4F4GQr4wkU50/aM8ZVJw==" SelloCFD="HG0B3dCzf4i/4AovGvOt4iXBMM2RtKS18ju9SxypKyIibXBvwJVZX1CHiTxeBK5fB7RBDVuPs8veB8zSIS3LTqbLJkGL5d40o1FMkqcwIKHYLwA89Q8xDHDCdgL+vv8/aUVSNbjS+tXwBT6MZzgH8TisWptqHZha+/l7dLCJJ0wKKcECIgISK1W0jn7m4qMDZPVuTJBKz4T0qj2fp+vUJ8VFd0HWj/1KBPLJueWwOXtMVu+a3Pq5fqXUWgcxNhKrLxogZZ9+7PCHZcOL69qvMrctxPwxCuMNmM6mm7gNi9PpGvkyhoH3DHptDVaBunNyoup/74x3+shNF2GCklS9PQ==" NoCertificadoSAT="00001000000710611637" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

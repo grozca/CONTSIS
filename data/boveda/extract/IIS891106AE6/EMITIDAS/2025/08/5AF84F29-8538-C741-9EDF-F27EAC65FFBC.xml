@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="F" Folio="2683" Fecha="2025-08-14T11:31:12" Sello="Bu9E8ZWrWWcGKQ86i8CS+A2UNW0TIfmplPAZtGkn7jZM8S+Jh93fs8IA8T2ohVM95M7loJYI2LCtweIov2VVpJW+2j6T+T6910aCk7M0pjyksSaWlINQ+D1s0lgm4q4dSgFDMERSQxLqx3o6QQObRzkeiT0JdYwKB70l45MebDVLl50KImGLtrKDm8sY2Clukxz2ZVBadD3p66ZiGKYmCqW+plIa14fSc4IFE6D9M7yRNiWafCZxPRMb2fqAP0a1f3aAixr+OHIwQ9WgKXjVH3nBdzQcKaT76/p47Tv7yK3ItkeXjFxv+qQ5QTpMNsjsJAuv6LhYxHguEuO0kiBSPw==" FormaPago="99" NoCertificado="00001000000508761395" Certificado="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" CondicionesDePago="30 DIAS" SubTotal="40473.00" Moneda="MXN" Total="46948.68" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="TME840710TR4" Nombre="TERNIUM MEXICO" DomicilioFiscalReceptor="66450" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="71028548" Cantidad="5" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TENSOR PERNO   HPU-3004-02-036&#xA;ITEM 00001" ValorUnitario="3492.00" Importe="17460.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="17460.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2793.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="71310838" Cantidad="13" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO FUSIBLE HPU-3011-30-021 MCA A&#xA;ITEM 00001" ValorUnitario="873.00" Importe="11349.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11349.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1815.84" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31391700" NoIdentificacion="71310839" Cantidad="12" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PERNO FUSIBLE POS.A HPU-3012-87-008&#xA;ITEM 00001" ValorUnitario="972.00" Importe="11664.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11664.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1866.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="6475.68">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="40473.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6475.68" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="5AF84F29-8538-C741-9EDF-F27EAC65FFBC" FechaTimbrado="2025-08-14T12:15:56" RfcProvCertif="SCD110105654" SelloCFD="Bu9E8ZWrWWcGKQ86i8CS+A2UNW0TIfmplPAZtGkn7jZM8S+Jh93fs8IA8T2ohVM95M7loJYI2LCtweIov2VVpJW+2j6T+T6910aCk7M0pjyksSaWlINQ+D1s0lgm4q4dSgFDMERSQxLqx3o6QQObRzkeiT0JdYwKB70l45MebDVLl50KImGLtrKDm8sY2Clukxz2ZVBadD3p66ZiGKYmCqW+plIa14fSc4IFE6D9M7yRNiWafCZxPRMb2fqAP0a1f3aAixr+OHIwQ9WgKXjVH3nBdzQcKaT76/p47Tv7yK3ItkeXjFxv+qQ5QTpMNsjsJAuv6LhYxHguEuO0kiBSPw==" NoCertificadoSAT="00001000000702501858" SelloSAT="ji3Tg5CPTiBj2ehvH1e2gSKOhumtw9w4dHzKDAAepYlD7nD4+YSMymtY+ncxurn5g8/J3N+EpL6tVEkFfCJsXkqv9KThoDFelK7UFR5R/pvr4yLqI7hEpahTyhDXPwLGsq1e8qclRm5rGyaFAy7HdyMmbHVpZBu3tK/8ldPwq/QV4KB1dV7MJJFP9zrYsu4Yx3aV6G/aMoxVSx7wyv31R3/zXty8S+yLCN7K1BO8xkMJWeOnWX9IlzJwpWvFlA+vrz7onNKdWFvzDeJP4RqGa9mA5fxvwk8XMS3c47fMUWiBRz8sFfSe+7cFbWWNbQ9eeX5UIX8jx5Rs92F6cFKVyQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

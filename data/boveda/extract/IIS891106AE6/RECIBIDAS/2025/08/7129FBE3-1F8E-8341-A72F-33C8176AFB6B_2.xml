@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="B" Folio="86" Fecha="2025-08-31T22:37:57" Sello="c6XqtEvTIc9XWgQL81tF1OA8gI2rkbfYT9nToRTuOLBV2CvurMCTmwlaUjLXWQs3OlBPJ4uwj16nvhYYAx5qG3CV3+d0RYIzj1ePXSq1EVAN7fRZetsCs2PFiVMmjclOa/NrlZfoh2VcUypTSKNIAIPlm9rrsBrGpSyt3/Qb/+8xu0Y3V2NHCoBEyI1JXJ8I7GwOVQs5qJ93H7xcKLlPVsfA+RPUXw1cmBm3PEaAN6LvR15v0Ng0NE1/wLesCBkDRFBpf645GyHcyRJW3RquPcNxiC8oDceXEVcKI9eG0N76xf4wm28Hk6DzJtIew/XLF45j62RDUi3PSEnx2wJQCQ==" FormaPago="03" NoCertificado="00001000000703020136" Certificado="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" CondicionesDePago="TRANSFERENCIA ELECTRONICA" SubTotal="57000.00" Moneda="MXN" Total="66120.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72470">
+  <cfdi:Emisor Rfc="ICA181219NQ3" Nombre="INDUSTRIAL CARIBA" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="IIS891106AE6" Nombre="IBAYRO INDUSTRIAL S DE R L MI" DomicilioFiscalReceptor="72470" RegimenFiscalReceptor="601" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="73152100" NoIdentificacion="RTAMAQIND10000" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="RENTA DE MAQUINARIA INDUSTRIAL&#xA;MINIMIL 2 APM20180204 M19826 SERIE 1147172&#xA;RENTA JULIO 2024" ValorUnitario="9000.00" Importe="9000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1440.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="73152100" NoIdentificacion="RTAMAQIND10000" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="RENTA DE MAQUINARIA INDUSTRIAL&#xA;MINIMILL 2 APM20180203 M19950 SEIRE 1149763&#xA;RENTA JULIO 2024" ValorUnitario="9000.00" Importe="9000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1440.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="73152100" NoIdentificacion="RTAMAQIND10000" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="RENTA DE MAQUINARIA INDUSTRIAL&#xA;MAQ VF2 SERIE 1140242   RENTA JULIO  2024" ValorUnitario="13000.00" Importe="13000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2080.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="73152100" NoIdentificacion="RTAMAQIND10000" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="RENTA DE MAQUINARIA INDUSTRIAL&#xA;MAQ VF2 SERIE 1119486   RENTA JULIO 2024" ValorUnitario="13000.00" Importe="13000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="13000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2080.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25101604" NoIdentificacion="RTAEQTRAN10000" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="RENTA DE EQUIPO DE TRANSPORTE&#xA;RENTA DE CAMIONETA SAVEIRO SERIE 9BWKB45U7HP092643  MES JULIO 2024" ValorUnitario="6000.00" Importe="6000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="960.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25101604" NoIdentificacion="RTAEQTRAN10000" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="RENTA DE EQUIPO DE TRANSPORTE&#xA;RENTA DE AUTOMOVIL, KIA RIO 1.6L S PACK A/T SEDAN NACIONAL 2022, SERIE 3KPA34AC5NE446641 MES JULIO&#xA; 2024" ValorUnitario="7000.00" Importe="7000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1120.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="9120.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="57000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9120.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="7129FBE3-1F8E-8341-A72F-33C8176AFB6B" FechaTimbrado="2025-08-31T22:39:18" RfcProvCertif="SCD110105654" SelloCFD="c6XqtEvTIc9XWgQL81tF1OA8gI2rkbfYT9nToRTuOLBV2CvurMCTmwlaUjLXWQs3OlBPJ4uwj16nvhYYAx5qG3CV3+d0RYIzj1ePXSq1EVAN7fRZetsCs2PFiVMmjclOa/NrlZfoh2VcUypTSKNIAIPlm9rrsBrGpSyt3/Qb/+8xu0Y3V2NHCoBEyI1JXJ8I7GwOVQs5qJ93H7xcKLlPVsfA+RPUXw1cmBm3PEaAN6LvR15v0Ng0NE1/wLesCBkDRFBpf645GyHcyRJW3RquPcNxiC8oDceXEVcKI9eG0N76xf4wm28Hk6DzJtIew/XLF45j62RDUi3PSEnx2wJQCQ==" NoCertificadoSAT="00001000000702501858" SelloSAT="fDEtwqyk+FGZjimwBwDxJMiz3hHjbPhjxEHCm67dRO1sdowvJVC34RiDAtMXW2yn1KZkMueW9sC8SLQ2wfFwlwbUb4t11KMM8vfYnggsd6ixaSEccSUY6DAb2pKjIxriwcqIZvlPP5gNrx/MYK+6ZDLBMxtJD+1UcUxUWWm2vBZKlJaVeDu7QFNzg2bsdB/DdXIR0yLpc5tufxJLNB1sROjQ7O6xgaKBWPrucHRhmR6PzDQgWEZpPDld7BFQbEAI2jwcScETa8vcCcwiD2b53sCLiqyNOWnDnxYIFvaUNZ2qm6bdJjD9ysUlqnAB3FonfI0TxjajbMR8Hv1mNcaLMQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

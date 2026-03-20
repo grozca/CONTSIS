@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="PB" Folio="318944" Fecha="2025-08-28T09:33:29" FormaPago="99" SubTotal="4977.40" Moneda="MXN" Total="5773.79" Sello="2GVStvy1plYMzJ64SDCgWwSmgtaLUguxsrAsrJmZv5FrL0aq/6MpyV+EJ6dYCrGlgBdhoOInQM03Xxb13UgqRapvCHCAtnTPD1h4sIxwouJXIJp5hd3tPoQscNurf5KjrlM041lz+CSeFsaysR7CTFLYnbf34ub7fAEmbJqL4OZwDuXE3eUmQNuWg1iyaPuXHD+tKxs0fCiBYeQsvG7KDmr4MJkAyupO++5kPLuOnKgXc9tKeUvtoCRMRiylfH4R2nblr7YMtSBfUcDRnkcW/itmS14G2XYR2NZP2rilu/YtfLaSeZLGJQyfXX3QcWO1o5cghJWq79fk5WtGZUQryQ==" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="72000" Certificado="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" NoCertificado="00001000000509398294"><cfdi:Emisor Rfc="ENO8910131AA" Nombre="EXEL DEL NORTE" RegimenFiscal="601" />
+<cfdi:Receptor Rfc="PNO9901289A7" Nombre="PAPELERIA NOFER" DomicilioFiscalReceptor="72420" RegimenFiscalReceptor="626" UsoCFDI="G01" />
+<cfdi:Conceptos>
+<cfdi:Concepto ClaveProdServ="14111525" NoIdentificacion="5295" Cantidad="4" ClaveUnidad="XBX" Unidad="XBX" Descripcion="CAJA, Papel Cortado Scribe Tree Free Oficio 100% Reciclado 93% Blancura 75gr Caja C/5000 Hojas" ValorUnitario="842.15" Importe="3368.62" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="3368.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="538.98" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="14111537" NoIdentificacion="1085262101" Cantidad="8" ClaveUnidad="H87" Unidad="H87" Descripcion="PZA, Etiquetas Adhesivas Janel Láser J-5262 34x102mm C/350" ValorUnitario="62.98" Importe="503.80" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="503.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="80.61" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="14111537" NoIdentificacion="1085261101" Cantidad="6" ClaveUnidad="XPK" Unidad="XPK" Descripcion="PQTE, Etiqueta Janel 108 Láser 25mm x 102mm J-5261 25 Hojas C/500 Etiquetas" ValorUnitario="62.98" Importe="377.85" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="377.85" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.46" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="44121708" NoIdentificacion="2912" Cantidad="12" ClaveUnidad="XPK" Unidad="XPK" Descripcion="PQTE, Marcador Aquarelo Junior Punta Fina Colores Surtidos Estuche C/12 Pzas" ValorUnitario="47.84" Importe="574.13" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="574.13" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="91.86" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="44111506" NoIdentificacion="NE-153" Cantidad="24" ClaveUnidad="XPK" Unidad="XPK" Descripcion="PQTE, Sujeta Documentos Nextep Chico 19mm (3/4in) 12 Pzas, Fechaped: 2024-08-21" ValorUnitario="6.38" Importe="153.00" ObjetoImp="02"> <cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="153.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.48" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:InformacionAduanera NumeroPedimento="24  51  3296  5003258" /></cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="796.39">
+<cfdi:Traslados>
+<cfdi:Traslado Base="4977.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="796.39" />
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="77A450D9-1BD6-4678-AE5D-2745AE45714E" FechaTimbrado="2025-08-28T09:34:15" RfcProvCertif="SFE0807172W8" SelloCFD="2GVStvy1plYMzJ64SDCgWwSmgtaLUguxsrAsrJmZv5FrL0aq/6MpyV+EJ6dYCrGlgBdhoOInQM03Xxb13UgqRapvCHCAtnTPD1h4sIxwouJXIJp5hd3tPoQscNurf5KjrlM041lz+CSeFsaysR7CTFLYnbf34ub7fAEmbJqL4OZwDuXE3eUmQNuWg1iyaPuXHD+tKxs0fCiBYeQsvG7KDmr4MJkAyupO++5kPLuOnKgXc9tKeUvtoCRMRiylfH4R2nblr7YMtSBfUcDRnkcW/itmS14G2XYR2NZP2rilu/YtfLaSeZLGJQyfXX3QcWO1o5cghJWq79fk5WtGZUQryQ==" NoCertificadoSAT="00001000000710052019" SelloSAT="ch5PNPcwtETpjZNdRFI0MWRHbFIngqAzly89oT+NUfIenJFBB8bqcHQz0zGbgxCImRZ9wadd4GmmGJlug5rV1y4A9HD2hqsHs9OwlIhqwDDR/CKTZI+qA+zB10yt8xDoUEUqyniaAk5eMrvTNEmk36jrPosqBhEceXwXA4oUn5PO8R+qnnYakOPyiAbZfg5LUN9N88W7XncEd6cgJFZmb7Elv7bIt7fMjvVSCH1WafHmTth2nbU5MP4UNiJQAfcyAJEJkRMxEFkMy52ScLVBxZdKN+C78KPx8NNKPqcACEs8UZF8g/HF7hboJc8UV5Dq1qlf4HWKTHsPlBf0kJg7Gw==" /></cfdi:Complemento></cfdi:Comprobante>
