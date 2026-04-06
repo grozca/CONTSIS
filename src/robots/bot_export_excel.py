@@ -105,7 +105,7 @@ def _export_one_rfc_month(rfc: str, year: int, month: int, role: str, include_em
     out_dir = EXPORTS_DIR / rfc / yyyy_mm
     out_path = out_dir / f"{rfc}_{yyyy_mm}_{role}_Facturas.xlsx"
 
-    sheets = build_monthly_excels_from_xml_bytes(blobs)
+    sheets = build_monthly_excels_from_xml_bytes(blobs, role=role)
     # Si no hay XML y no quieren archivo vacío, omitimos
     has_data = any(not df.empty for df in sheets.values())
     if not has_data and not include_empty:

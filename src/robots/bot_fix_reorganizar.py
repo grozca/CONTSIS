@@ -12,7 +12,7 @@ from src.utils.logging_cfg import setup_logging
 
 log = logging.getLogger(__name__)
 
-RFC_CONFIG_PATH = Path("data/config/rfc_names.json")
+RFC_CONFIG_PATH = Path("data/config/clientes.json")
 
 def _load_own_rfcs() -> set:
     try:
