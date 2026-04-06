@@ -1,0 +1,65 @@
+empresa:
+  rfc: "IIS891106AE6"
+  nombre: "IBAYRO INDUSTRIAL S DE R L MI"
+
+notificaciones:
+  email:
+    habilitado: true
+    smtp_server: "smtp.gmail.com"
+    smtp_port: 587
+    remitente: "grozca@gmail.com"
+    destinatarios:
+      - "gersonrdzc@gmail.com"
+    asunto_prefijo: "[ALERTA DE INGRESO ALTO]"
+  whatsapp:
+    habilitado: false
+
+reglas:
+  ingreso_alto:
+    habilitado: true
+    umbral_mxn: 200000
+    tipos_comprob: ["I"]
+    severidad: "ALTA"
+  concentracion_cliente:
+    habilitado: true
+    porcentaje_maximo: 70
+    severidad: "BAJA"
+  tipo_cambio_anomalo:
+    habilitado: true
+    rango_minimo: 16.0
+    rango_maximo: 22.0
+    severidad: "MEDIA"
+  pago_sin_ingreso:
+    habilitado: true
+    ventana_dias: 60
+    severidad: "MEDIA"
+  ingreso_anomalo_historico:
+    habilitado: false
+    multiplicador: 3.0
+    minimo_meses_historico: 2
+    severidad: "ALTA"
+  ingreso_sin_clasificar:
+    habilitado: false
+    umbral_mxn: 50000
+    usos_cfdi_sospechosos: ["P01", "G03", "S01"]
+    severidad: "MEDIA"
+  vencimientos_sat:
+    habilitado: true
+    dias_anticipacion: 5
+
+datos:
+  carpeta_excel: "data/exports"
+  patron_emitidas: "**/*EMITIDAS_Facturas.xlsx"
+  patron_recibidas: "**/*RECIBIDAS_Facturas.xlsx"
+
+scheduler:
+  habilitado: true
+  hora_revision: "08:00"
+  dias_semana: ["mon", "tue", "wed", "thu", "fri"]
+  timezone: "America/Mexico_City"
+
+reportes:
+  carpeta_salida: "./reportes"
+  generar_excel: true
+  generar_html: true
+  retener_dias: 30

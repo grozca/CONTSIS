@@ -1,0 +1,88 @@
+flowchart TD A[Sistema actual] --> A1[Descomprimir CFDIs] A --> A2[Organizar por RFC y periodo] A --> A3[Crear Excel] A --> A4[Mandar alertas por correo] A1 --> B[Core de ingesta] A2 --> B B --> C[Normalización CFDI] C --> D[Base de datos operativa SQLite/Postgres] D --> E[Analytics layer] E --> E1[KPIs mensuales] E --> E2[Top clientes/proveedores] E --> E3[Variaciones mensuales] E --> E4[Riesgo por empresa] D --> F[Rules engine] F --> F1[Duplicados] F --> F2[Meses incompletos] F --> F3[Montos atípicos] F --> F4[Priorización] E --> G[Resumen ejecutivo] F --> G G --> H[Correo al director] G --> I[Dashboard] G --> J[API] D --> K[RAG futuro sobre documentos y reglas]
+Etapa Analytics (ejemplo debajo de lo que quiero hacer, poner atemcion en que soy inexperto, puedo tener errores en la arquitectura)
+Etapa D1 — modelo mínimo utilizable
+
+Objetivo: poder consultar rápido por empresa y mes.
+
+Haz primero:
+
+empresas
+cfdi
+pagos
+hallazgos_reglas
+fact_kpis_mensuales_empresa
+
+Con eso ya puedes:
+
+sacar ingresos/egresos
+ver conteos
+medir pagos
+alimentar alertas
+empezar dashboard
+Etapa D2 — analytics base
+
+Construye estos 4 bloques que pusiste:
+
+E1 KPIs mensuales
+
+Ejemplos:
+
+ingreso total
+egreso total
+facturas emitidas
+facturas recibidas
+pagos
+ticket promedio
+concentración
+E2 Top clientes/proveedores
+
+Top 10 por monto y porcentaje.
+
+E3 Variaciones mensuales
+
+Ejemplos:
+
+ingresos vs mes anterior
+egresos vs mes anterior
+número de facturas
+ticket promedio
+concentración por cliente
+E4 Riesgo por empresa
+
+Aquí puedes construir tu score.
+
+Cómo haría el score de riesgo por empresa
+
+Aquí hay muchísimo valor para tu despacho.
+
+Ejemplo de score de 0 a 100:
+
+Variables posibles
+meses incompletos
+cambios bruscos en ingresos
+concentración excesiva en 1 cliente
+caída fuerte de facturación
+demasiados CFDI cancelados
+pagos sin match
+duplicados detectados
+disminución abrupta de clientes activos
+ejemplo simple
+riesgo_score =
+  25% calidad de datos
++ 25% anomalías operativas
++ 20% concentración comercial
++ 15% variación brusca mensual
++ 15% incidencias fiscales
+
+Y luego:
+
+0-29 Bajo
+30-59 Medio
+60-79 Alto
+80-100 Crítico
+
+Eso luego alimenta:
+
+correo al director
+dashboard con semáforo
+priorización de revisión
