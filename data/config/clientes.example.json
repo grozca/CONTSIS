@@ -1,0 +1,24 @@
+{
+  "DESP010101AAA": {
+    "rfc": "DESP010101AAA",
+    "razon_social": "Despacho Contable Ejemplo SA de CV",
+    "nombre_corto": "Despacho",
+    "activo": true,
+    "dueno_cuenta": "Director",
+    "emails": [
+      "director@despacho.com"
+    ],
+    "es_despacho": true
+  },
+  "RFC123456ABC": {
+    "rfc": "RFC123456ABC",
+    "razon_social": "Cliente Piloto SA de CV",
+    "nombre_corto": "Cliente Piloto",
+    "activo": true,
+    "dueno_cuenta": "Contadora A",
+    "emails": [
+      "contabilidad@cliente.com"
+    ],
+    "es_despacho": false
+  }
+}
