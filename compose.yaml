@@ -1,0 +1,28 @@
+services:
+  contsis:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: contsis-app:latest
+    container_name: contsis-app
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "8501:8501"
+    environment:
+      CONTSIS_HOME: ${CONTSIS_HOME:-/app/runtime}
+      CONTSIS_SERVER_HOST: ${CONTSIS_SERVER_HOST:-0.0.0.0}
+      CONTSIS_SERVER_PORT: ${CONTSIS_SERVER_PORT:-8501}
+      CONTSIS_OPEN_BROWSER: ${CONTSIS_OPEN_BROWSER:-0}
+      EMAIL_REMITENTE: ${EMAIL_REMITENTE:-}
+      EMAIL_PASSWORD: ${EMAIL_PASSWORD:-}
+      EMAIL_DESTINATARIOS: ${EMAIL_DESTINATARIOS:-}
+      SAT_CER_PATH: ${SAT_CER_PATH:-}
+      SAT_KEY_PATH: ${SAT_KEY_PATH:-}
+      SAT_PWD_PATH: ${SAT_PWD_PATH:-}
+      BOVEDA_DIR: ${BOVEDA_DIR:-}
+      DB_PATH: ${DB_PATH:-}
+      LOG_PATH: ${LOG_PATH:-}
+    volumes:
+      - ./runtime:/app/runtime

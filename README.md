@@ -41,4 +41,33 @@ python main.py --alertas --piloto
 
 - Runtime-generated data under `data/boveda`, `data/exports`, `data/db`, and `logs` is intentionally ignored in Git.
 - Client desktop packaging files were removed from this repo to prepare for GitHub and AWS deployment.
-- Docker and cloud deployment files can be added next.
+
+## Docker Run
+
+Build the image:
+
+```powershell
+docker build -t contsis-app .
+```
+
+Run the dashboard:
+
+```powershell
+docker run --rm -p 8501:8501 contsis-app
+```
+
+Or run it with Docker Compose:
+
+```powershell
+docker compose up -d --build
+```
+
+The container stores writable runtime data in `/app/runtime` and seeds example config files there on startup:
+
+- `/app/runtime/data/config/clientes.json`
+- `/app/runtime/data/config/rfc_names.json`
+- `/app/runtime/alertas/config/config.yaml`
+
+For real cloud deployment, mount `/app/runtime` as persistent storage and inject your real `.env` values through AWS secrets or environment variables.
+
+Detailed EC2 steps are in `AWS_EC2_DEPLOY.md`.
