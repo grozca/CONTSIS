@@ -189,11 +189,11 @@ def render_quick_actions() -> None:
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         if st.button("Revisar XMLs", width="stretch", key="home-xmls"):
-            st.session_state["pending_section"] = "Operacion"
+            st.session_state["pending_section"] = "Operación"
             st.rerun()
     with col2:
         if st.button("Ver graficas", width="stretch", key="home-dashboard"):
-            st.session_state["pending_section"] = "Tablero"
+            st.session_state["pending_section"] = "Dashboard"
             st.rerun()
     with col3:
         if st.button("Generar Word", width="stretch", key="home-report"):
@@ -217,7 +217,7 @@ def render_missing_kpis_state(selected_rfc: str, selected_period: str) -> None:
         col1, col2 = st.columns(2)
         with col1:
             if st.button("Ir a Operacion", width="stretch", key=f"missing-kpis-ops-{selected_rfc}-{selected_period}"):
-                st.session_state["pending_section"] = "Operacion"
+                st.session_state["pending_section"] = "Operación"
                 st.rerun()
         with col2:
             if st.button("Ir al Directorio", width="stretch", key=f"missing-kpis-despacho-{selected_rfc}-{selected_period}"):

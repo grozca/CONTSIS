@@ -360,9 +360,10 @@ def render_account_owner_assignment_editor(companies: list[dict[str, Any]]) -> N
 
 
 def open_company_summary(rfc: str) -> None:
+    st.session_state.pop("sidebar_company_search", None)
     st.session_state["despacho_company_picker_version"] = int(
         st.session_state.get("despacho_company_picker_version", 0)
     ) + 1
-    st.session_state["selected_rfc"] = rfc
+    st.session_state["selected_rfc"] = str(rfc or "").upper()
     st.session_state["pending_section"] = "Resumen Ejecutivo"
     st.rerun()

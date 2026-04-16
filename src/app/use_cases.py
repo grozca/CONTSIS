@@ -5,6 +5,7 @@ import getpass
 import io
 import json
 import os
+import sqlite3
 import socket
 import sys
 from dataclasses import dataclass, field
@@ -193,7 +194,7 @@ def build_analytics_for_period(periodo: str) -> ActionResult:
         result = ActionResult(
             success=True,
             title="Analytics construidos",
-            message=f"Se actualizaron los indicadores y tablas analiticas para {periodo}.",
+            message=f"Se actualizaron los indicadores, tablas y datos del dashboard para {periodo}.",
             details=summary,
         )
     except Exception as exc:
@@ -390,18 +391,13 @@ def run_operational_step(step: str, rfc_empresa: str | None = None, year: int | 
 
             bot_fix_reorganizar.run()
             result = ActionResult(True, "R6fix completado", "Se corrigio la organizacion interna de XML ya extraidos.")
-        elif step == "r7":
-            from src.robots import bot_organizar
-
-            bot_organizar.run()
-            result = ActionResult(True, "R7 completado", "Se copiaron XML a la estructura organizada para consulta local.")
-        elif step == "r7a":
+        elif step in {"r7", "r7a"}:
             from src.robots import bot_cargar_xml_a_bd_min
 
             bot_cargar_xml_a_bd_min.main()
             result = ActionResult(
                 True,
-                "R7a completado",
+                "R7 completado",
                 f"Se cargaron XML a la base operativa {settings.db_path}.",
                 artifacts=[str(settings.db_path)],
             )
@@ -414,7 +410,32 @@ def run_operational_step(step: str, rfc_empresa: str | None = None, year: int | 
             )
             artifacts = [str(path) for path in discover_generated_files(rfc_empresa, periodo)["excel_files"]]
             if artifacts:
-                result = ActionResult(True, "R8 completado", "El Excel SAT del periodo ya quedo listo.", artifacts=artifacts)
+                try:
+                    analytics_summary = build_monthly(periodo)
+                except Exception as analytics_exc:
+                    result = ActionResult(
+                        False,
+                        "R8 parcial",
+                        "Los Excel del periodo se generaron, pero fallo la actualizacion de analytics para el dashboard.",
+                        artifacts=artifacts,
+                        details={
+                            "rfc": rfc_empresa.upper(),
+                            "periodo": periodo,
+                            "error": str(analytics_exc),
+                        },
+                    )
+                else:
+                    result = ActionResult(
+                        True,
+                        "R8 completado",
+                        "El Excel SAT del periodo ya quedo listo y la capa analitica se actualizo para el dashboard.",
+                        artifacts=artifacts,
+                        details={
+                            "rfc": rfc_empresa.upper(),
+                            "periodo": periodo,
+                            "analytics_summary": analytics_summary,
+                        },
+                    )
             else:
                 result = ActionResult(
                     False,
@@ -508,20 +529,18 @@ def get_operational_status(rfc_empresa: str | None, periodo: str) -> dict[str, A
     year, month = _parse_period(periodo)
     y = f"{year:04d}"
     m = f"{month:02d}"
-    ym_compact = f"{year:04d}{month:02d}"
 
+    extract_root = _extract_dir()
+    extracted_total_files = list(extract_root.rglob("*.xml")) if extract_root.exists() else []
+    extracted_global_period_files = list(extract_root.glob(f"**/{y}/{m}/*.xml")) if extract_root.exists() else []
     extracted_files = []
-    extracted_period_files = []
-    organized_period_files = []
+    extracted_period_files = extracted_global_period_files
     if rfc_empresa:
         rfc = rfc_empresa.upper()
-        rfc_extract = _extract_dir() / rfc
+        rfc_extract = extract_root / rfc
         if rfc_extract.exists():
             extracted_files = list(rfc_extract.rglob("*.xml"))
             extracted_period_files = list(rfc_extract.glob(f"**/{y}/{m}/*.xml"))
-        organized_base = _organized_dir() / rfc
-        if organized_base.exists():
-            organized_period_files = list(organized_base.glob(f"**/{ym_compact}/**/*.xml"))
 
     generated = discover_generated_files(rfc_empresa, periodo) if rfc_empresa else {
         "excel_files": [],
@@ -535,17 +554,31 @@ def get_operational_status(rfc_empresa: str | None, periodo: str) -> dict[str, A
     operational_db = Path(settings.db_path)
     zip_root = _zip_dir()
     zip_count = len(list(zip_root.glob("*.zip"))) if zip_root.exists() else 0
+    operational_cfdi_count = _count_operational_cfdi_rows(operational_db, rfc_empresa, periodo)
+    analytics_kpi_count = _count_analytics_kpis_rows(analytics_db, rfc_empresa, periodo)
 
     checks = [
         _check("RFC seleccionado", bool(rfc_empresa), "Empresa activa seleccionada en la barra lateral."),
         _check("ZIPs encontrados", zip_count > 0, f"{zip_count} archivo(s) ZIP detectados en {_zip_dir()}."),
-        _check("XML extraidos del RFC", len(extracted_files) > 0, f"{len(extracted_files)} XML detectados para el RFC en {_extract_dir()}."),
+        _check("XML extraidos totales", len(extracted_total_files) > 0, f"{len(extracted_total_files)} XML detectados en {_extract_dir()}."),
+        _check(
+            "XML del RFC activo",
+            len(extracted_files) > 0 if rfc_empresa else len(extracted_total_files) > 0,
+            f"{len(extracted_files) if rfc_empresa else len(extracted_total_files)} XML detectados para consulta operativa.",
+        ),
         _check("XML del periodo en extract", len(extracted_period_files) > 0, f"{len(extracted_period_files)} XML detectados en {periodo}."),
-        _check("XML organizados del periodo", len(organized_period_files) > 0, f"{len(organized_period_files)} XML detectados en data/organizado para {periodo}."),
-        _check("Base operativa CFDI", operational_db.exists() and operational_db.stat().st_size > 0, f"SQLite operativa ubicada en {operational_db}."),
+        _check(
+            "Base operativa CFDI",
+            operational_cfdi_count > 0,
+            f"{operational_cfdi_count} CFDI detectados en {operational_db} para {rfc_empresa or 'el periodo'} {periodo}.",
+        ),
         _check("Excel SAT generado", len(generated["excel_files"]) > 0, f"{len(generated['excel_files'])} archivo(s) Excel para el periodo."),
         _check("Resumen Word generado", len(generated["word_files"]) > 0, f"{len(generated['word_files'])} archivo(s) Word para el periodo."),
-        _check("Analytics construidos", analytics_db.exists() and analytics_db.stat().st_size > 0, f"Base analitica disponible en {analytics_db}."),
+        _check(
+            "Analytics construidos",
+            analytics_kpi_count > 0,
+            f"{analytics_kpi_count} fila(s) KPI detectadas en {analytics_db} para {rfc_empresa or 'el periodo'} {periodo}.",
+        ),
         _check("Reporte despacho generado", len(generated["report_files"]) > 0, f"{len(generated['report_files'])} reporte(s) generados para el periodo."),
         _check("Export BI del periodo", len(generated["bi_files"]) > 0, f"{len(generated['bi_files'])} archivo(s) BI en carpeta del periodo."),
     ]
@@ -557,8 +590,10 @@ def get_operational_status(rfc_empresa: str | None, periodo: str) -> dict[str, A
         "artifacts": generated,
         "summary": {
             "zip_files": zip_count,
-            "extract_count": len(extracted_period_files),
-            "organized_count": len(organized_period_files),
+            "extract_count": len(extracted_total_files),
+            "extract_period_count": len(extracted_period_files),
+            "db_ready": int(operational_cfdi_count > 0),
+            "analytics_ready": int(analytics_kpi_count > 0),
             "excel_count": len(generated["excel_files"]),
             "word_count": len(generated["word_files"]),
             "report_count": len(generated["report_files"]),
@@ -750,6 +785,76 @@ def _parse_period(periodo: str) -> tuple[int, int]:
 
 def _check(label: str, ok: bool, detail: str) -> dict[str, Any]:
     return {"label": label, "ok": ok, "detail": detail}
+
+
+def _sqlite_scalar(db_path: Path, query: str, params: tuple[Any, ...] = ()) -> Any:
+    if not db_path.exists():
+        return None
+
+    con: sqlite3.Connection | None = None
+    try:
+        con = sqlite3.connect(db_path)
+        row = con.execute(query, params).fetchone()
+        return row[0] if row else None
+    except sqlite3.Error:
+        return None
+    finally:
+        if con is not None:
+            con.close()
+
+
+def _sqlite_table_exists(db_path: Path, table_name: str) -> bool:
+    value = _sqlite_scalar(
+        db_path,
+        "SELECT 1 FROM sqlite_master WHERE type='table' AND name=? LIMIT 1",
+        (table_name,),
+    )
+    return bool(value)
+
+
+def _count_operational_cfdi_rows(db_path: Path, rfc_empresa: str | None, periodo: str) -> int:
+    if not _sqlite_table_exists(db_path, "cfdi"):
+        return 0
+
+    if rfc_empresa:
+        value = _sqlite_scalar(
+            db_path,
+            """
+            SELECT COUNT(*)
+            FROM cfdi
+            WHERE substr(COALESCE(fecha, ''), 1, 7) = ?
+              AND (UPPER(COALESCE(emisor_rfc, '')) = ? OR UPPER(COALESCE(receptor_rfc, '')) = ?)
+            """,
+            (periodo, rfc_empresa.upper(), rfc_empresa.upper()),
+        )
+        return int(value or 0)
+
+    value = _sqlite_scalar(
+        db_path,
+        "SELECT COUNT(*) FROM cfdi WHERE substr(COALESCE(fecha, ''), 1, 7) = ?",
+        (periodo,),
+    )
+    return int(value or 0)
+
+
+def _count_analytics_kpis_rows(db_path: Path, rfc_empresa: str | None, periodo: str) -> int:
+    if not _sqlite_table_exists(db_path, "kpis_mensuales_empresa"):
+        return 0
+
+    if rfc_empresa:
+        value = _sqlite_scalar(
+            db_path,
+            "SELECT COUNT(*) FROM kpis_mensuales_empresa WHERE rfc_empresa = ? AND periodo = ?",
+            (rfc_empresa.upper(), periodo),
+        )
+        return int(value or 0)
+
+    value = _sqlite_scalar(
+        db_path,
+        "SELECT COUNT(*) FROM kpis_mensuales_empresa WHERE periodo = ?",
+        (periodo,),
+    )
+    return int(value or 0)
 
 
 def _top_row(row: dict[str, Any]) -> str:
@@ -1172,6 +1277,8 @@ def _load_pdf_font(size: int, bold: bool) -> ImageFont.FreeTypeFont | ImageFont.
                 r"C:\Windows\Fonts\segoeuib.ttf",
                 r"C:\Windows\Fonts\arialbd.ttf",
                 r"C:\Windows\Fonts\calibrib.ttf",
+                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+                "/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf",
             ]
         )
     else:
@@ -1180,6 +1287,8 @@ def _load_pdf_font(size: int, bold: bool) -> ImageFont.FreeTypeFont | ImageFont.
                 r"C:\Windows\Fonts\segoeui.ttf",
                 r"C:\Windows\Fonts\arial.ttf",
                 r"C:\Windows\Fonts\calibri.ttf",
+                "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+                "/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf",
             ]
         )
 

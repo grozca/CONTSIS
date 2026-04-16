@@ -49,11 +49,10 @@ def _pre_runtime_env_candidates() -> list[Path]:
 
 @lru_cache(maxsize=1)
 def _load_pre_runtime_env() -> None:
-    if load_dotenv is None:
+    if dotenv_values is None:
         return
-    for candidate in _pre_runtime_env_candidates():
-        if candidate.exists():
-            load_dotenv(candidate, override=True)
+    for key, value in _merge_dotenv_candidates(_pre_runtime_env_candidates()).items():
+        os.environ[str(key)] = str(value)
 
 
 @lru_cache(maxsize=1)
@@ -86,23 +85,33 @@ def _all_env_candidates() -> list[Path]:
 @lru_cache(maxsize=1)
 def load_project_env() -> None:
     _load_pre_runtime_env()
-    if load_dotenv is None:
+    if dotenv_values is None:
         return
-    for candidate in _all_env_candidates():
-        if candidate.exists():
-            load_dotenv(candidate, override=True)
+    for key, value in _merge_dotenv_candidates(_all_env_candidates()).items():
+        os.environ[str(key)] = str(value)
 
 
 def merged_dotenv_values() -> dict[str, str]:
+    return _merge_dotenv_candidates(_all_env_candidates())
+
+
+def _merge_dotenv_candidates(candidates: list[Path]) -> dict[str, str]:
     values: dict[str, str] = {}
     if dotenv_values is None:
         return values
-    for candidate in _all_env_candidates():
+
+    for candidate in candidates:
         if not candidate.exists():
             continue
         for key, value in dotenv_values(candidate).items():
-            if value is not None:
-                values[str(key)] = str(value)
+            if value is None:
+                continue
+            normalized_key = str(key)
+            normalized_value = str(value)
+            if normalized_value.strip():
+                values[normalized_key] = normalized_value
+            else:
+                values.setdefault(normalized_key, normalized_value)
     return values
 
 

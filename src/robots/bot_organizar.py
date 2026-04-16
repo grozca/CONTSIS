@@ -1,4 +1,6 @@
 # src/robots/r7_organizar.py
+# LEGACY: este bot pertenecia a una estructura anterior con carpeta `organizado`.
+# Ya no forma parte del pipeline principal; se conserva solo para compatibilidad puntual.
 import logging
 from pathlib import Path
 import shutil

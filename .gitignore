@@ -32,6 +32,7 @@ data/config/clientes.json
 data/config/rfc_names.json
 data/config/RegimenF.txt
 config/pilot_settings.json
+config/users.yaml
 data/app_tmp/
 .streamlit/secrets.toml
 preview_alerta.html
@@ -46,3 +47,4 @@ build/
 build_hotfix*/
 dist/
 archive/
+runtime/

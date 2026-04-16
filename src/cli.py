@@ -1,4 +1,5 @@
 import argparse
+import json
 import sys
 from datetime import datetime
 
@@ -22,7 +23,7 @@ CONTSIS - Sistema de Robots CFDI
   python -m src.cli r6
   python -m src.cli r6fix
   python -m src.cli r7
-  python -m src.cli r7a
+  python -m src.cli r7a   # alias legado de r7
   python -m src.cli r8 --rfc RFC --year AAAA --month MM
   python -m src.cli r9 --rfc RFC --yyyy_mm AAAA-MM
 
@@ -65,14 +66,17 @@ def _pipeline(rfc: str, year: int, month: int) -> None:
     pasos = [
         ("R6 - Descomprimir ZIPs", lambda: __import__("src.robots.bot_descomprimir", fromlist=["run"]).run()),
         ("R6fix - Reorganizar XMLs", lambda: __import__("src.robots.bot_fix_reorganizar", fromlist=["run"]).run()),
-        ("R7 - Organizar carpetas", lambda: __import__("src.robots.bot_organizar", fromlist=["run"]).run()),
-        ("R7a - Cargar XMLs a SQLite", lambda: __import__("src.robots.bot_cargar_xml_a_bd_min", fromlist=["main"]).main()),
+        ("R7 - Cargar XMLs a SQLite", lambda: __import__("src.robots.bot_cargar_xml_a_bd_min", fromlist=["main"]).main()),
         (
             "R8 - Exportar Excel",
             lambda: _run_robot_main(
                 "bot_export_excel",
                 ["r8", "--rfc", rfc, "--year", str(year), "--month", str(month), "--roles", "RECIBIDAS,EMITIDAS"],
             ),
+        ),
+        (
+            "Analytics - Refrescar dashboard",
+            lambda: _refresh_analytics(yyyy_mm),
         ),
         (
             "R9 - Generar resumen Word",
@@ -146,11 +150,7 @@ def main() -> None:
         from src.robots import bot_fix_reorganizar
 
         bot_fix_reorganizar.run()
-    elif cmd == "r7":
-        from src.robots import bot_organizar
-
-        bot_organizar.run()
-    elif cmd == "r7a":
+    elif cmd in {"r7", "r7a"}:
         from src.robots import bot_cargar_xml_a_bd_min
 
         bot_cargar_xml_a_bd_min.main()
@@ -166,6 +166,7 @@ def main() -> None:
             "bot_export_excel",
             ["r8", "--rfc", args.rfc, "--year", str(args.year), "--month", str(args.month), "--roles", args.roles],
         )
+        _refresh_analytics(f"{args.year:04d}-{args.month:02d}")
     elif cmd == "r9":
         parser = argparse.ArgumentParser()
         parser.add_argument("r9")
@@ -185,6 +186,13 @@ def main() -> None:
     else:
         print(f"Comando desconocido: '{cmd}'")
         print(USO)
+
+
+def _refresh_analytics(periodo: str) -> None:
+    from src.analytics.build_monthly import build_monthly
+
+    summary = build_monthly(periodo)
+    print(json.dumps({"analytics_refreshed": summary}, ensure_ascii=False))
 
 
 if __name__ == "__main__":
