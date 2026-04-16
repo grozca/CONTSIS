@@ -635,14 +635,15 @@ def get_recent_execution_log(limit: int = 20) -> list[dict[str, Any]]:
 
 
 def get_mail_configuration_status() -> dict[str, Any]:
-    values = merged_dotenv_values()
-    remitente = (values.get("EMAIL_REMITENTE") or "").strip()
-    destinatarios_raw = (values.get("EMAIL_DESTINATARIOS") or "").strip()
-    password = (values.get("EMAIL_PASSWORD") or "").strip()
+    file_values = merged_dotenv_values()
+    remitente = (file_values.get("EMAIL_REMITENTE") or os.getenv("EMAIL_REMITENTE") or "").strip()
+    destinatarios_raw = (file_values.get("EMAIL_DESTINATARIOS") or os.getenv("EMAIL_DESTINATARIOS") or "").strip()
+    password = (file_values.get("EMAIL_PASSWORD") or os.getenv("EMAIL_PASSWORD") or "").strip()
     destinatarios = [item.strip() for item in destinatarios_raw.split(",") if item.strip()]
+    source_hint = str(ALERTS_ENV_PATH) if file_values else "variables de entorno del contenedor"
 
     return {
-        "env_path": str(ALERTS_ENV_PATH),
+        "env_path": source_hint,
         "configured": bool(remitente and password and destinatarios),
         "sender": remitente or None,
         "recipient_count": len(destinatarios),
