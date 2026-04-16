@@ -48,7 +48,16 @@ def upsert_empresa(conn: sqlite3.Connection, context: dict[str, Any]) -> None:
     )
 
 
-def upsert_cfdi_rows(conn: sqlite3.Connection, rows: list[dict[str, Any]]) -> int:
+def replace_cfdi_rows(
+    conn: sqlite3.Connection,
+    rfc_empresa: str,
+    periodo: str,
+    rows: list[dict[str, Any]],
+) -> int:
+    conn.execute(
+        "DELETE FROM cfdi WHERE rfc_empresa = ? AND periodo = ?",
+        (rfc_empresa, periodo),
+    )
     if not rows:
         return 0
 
@@ -190,7 +199,12 @@ def build_monthly(periodo: str, db_path: Path = DB_PATH) -> dict[str, Any]:
             result = transform_company_period_context(context)
 
             upsert_empresa(conn, context)
-            summary["cfdi_rows"] += upsert_cfdi_rows(conn, result.cfdi_rows)
+            summary["cfdi_rows"] += replace_cfdi_rows(
+                conn,
+                context["rfc"],
+                context["periodo"],
+                result.cfdi_rows,
+            )
             summary["pagos_rows"] += replace_pagos_rows(
                 conn,
                 context["rfc"],

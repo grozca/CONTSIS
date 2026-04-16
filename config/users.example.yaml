@@ -1,0 +1,19 @@
+cookie:
+  name: "contaisisr_auth"
+  key: "cambia-esta-cookie-key-en-tu-users-real"
+  expiry_days: 30
+
+credentials:
+  usernames:
+    admin:
+      email: "admin@example.com"
+      name: "Administrador SISR"
+      password: "$2b$12$LWTIqzG0xP3nRA5WZgmW3umk3a0TvHvnH8s1nm.X4I9KquMY8gi0y"
+    contadora1:
+      email: "contadora1@example.com"
+      name: "Contadora 1"
+      password: "$2b$12$LWTIqzG0xP3nRA5WZgmW3umk3a0TvHvnH8s1nm.X4I9KquMY8gi0y"
+    contadora2:
+      email: "contadora2@example.com"
+      name: "Contadora 2"
+      password: "$2b$12$LWTIqzG0xP3nRA5WZgmW3umk3a0TvHvnH8s1nm.X4I9KquMY8gi0y"

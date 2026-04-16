@@ -80,7 +80,8 @@ def upsert_cfdi(con, row):
     """, row)
 
 def main():
-    # Usa la carpeta donde tus bots dejan los XML organizados
+    # Usa la carpeta principal donde R6 deja los XML extraidos por RFC/ROL/AAAA/MM.
+    # Se mantiene el fallback a organized_dir solo por compatibilidad con ejecuciones antiguas.
     root = Path(settings.boveda_dir) / "extract"
     if not root.exists():
         root = Path(settings.organized_dir)

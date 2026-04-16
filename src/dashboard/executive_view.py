@@ -366,7 +366,7 @@ def render_top_banner(dataset: dict) -> None:
     st.markdown(
         f"""
         <div class="dark-hero">
-            <div class="dark-eyebrow">CONTSIS | tablero analitico CFDI</div>
+            <div class="dark-eyebrow">CONTSIS | dashboard analitico CFDI</div>
             <div class="dark-title">{empresa['nombre_corto'] or empresa['rfc']}</div>
             <div class="dark-subtitle">{mode_label} para {period_label}</div>
             <div class="dark-pills">

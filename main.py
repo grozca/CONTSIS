@@ -82,12 +82,13 @@ def _resolver_rfcs(rfc_arg: str) -> list[str]:
 
 
 def _run_pipeline(rfc: str, year: int, month: int) -> None:
+    yyyy_mm = f"{year:04d}-{month:02d}"
     pasos = [
         ("R6  - Descomprimir ZIPs", _r6),
         ("R6fix - Reorganizar XMLs", _r6fix),
-        ("R7  - Organizar carpetas", _r7),
-        ("R7a - Cargar XMLs a SQLite", _r7a),
+        ("R7  - Cargar XMLs a SQLite", _r7),
         ("R8  - Exportar Excel", lambda: _r8(rfc, year, month)),
+        ("Analytics - Refrescar dashboard", lambda: _refresh_analytics(yyyy_mm)),
         ("R9  - Generar resumen Word", lambda: _r9(rfc, year, month)),
     ]
 
@@ -114,12 +115,6 @@ def _r6fix() -> None:
 
 
 def _r7() -> None:
-    from src.robots import bot_organizar
-
-    bot_organizar.run()
-
-
-def _r7a() -> None:
     from src.robots import bot_cargar_xml_a_bd_min
 
     bot_cargar_xml_a_bd_min.main()
@@ -148,6 +143,13 @@ def _r9(rfc: str, year: int, month: int) -> None:
         bot_export_resumen.main()
     finally:
         _sys.argv = original_argv
+
+
+def _refresh_analytics(periodo: str) -> None:
+    from src.analytics.build_monthly import build_monthly
+
+    summary = build_monthly(periodo)
+    print(json.dumps({"analytics_refreshed": summary}, ensure_ascii=False))
 
 
 def _run_alertas(piloto: bool = False) -> None:

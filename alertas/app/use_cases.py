@@ -63,6 +63,8 @@ def ejecutar_modo_director(
 
     if enviar_email(destinatarios, asunto, html, cfg, logger):
         historial.registrar_envio("DIRECTOR", periodo, "director", hash_contenido, destinatarios)
+        return
+    raise RuntimeError(f"No se pudo enviar el correo de alertas del director para {periodo}.")
 
 
 def ejecutar_modo_cliente(
@@ -80,7 +82,7 @@ def ejecutar_modo_cliente(
     datos = cargar_datos_cliente_periodo(rfc, periodo, logger)
     if not datos.tiene_e and not datos.tiene_r:
         logger.error("No se encontraron Excel para %s en %s", rfc, periodo)
-        return
+        raise FileNotFoundError(f"No se encontraron Excel para {rfc} en {periodo}.")
 
     alertas_cliente = evaluar_cliente_periodo(datos, cfg, clientes, logger)
     logger.info("%s: %s alerta(s)", nombre, len(alertas_cliente))
@@ -98,7 +100,7 @@ def ejecutar_modo_cliente(
     destinatarios = resolve_email_destinatarios(cfg["notificaciones"]["email"].get("destinatarios", []))
     if not destinatarios:
         logger.warning("No hay destinatarios de director configurados para pruebas de envio a %s", nombre)
-        return
+        raise RuntimeError(f"No hay destinatarios configurados para el envio de alertas de {nombre}.")
 
     logger.info("Prueba de correo cliente redirigida a destinatarios de director: %s", ", ".join(destinatarios))
 
@@ -109,3 +111,5 @@ def ejecutar_modo_cliente(
 
     if enviar_email(destinatarios, asunto, html, cfg, logger):
         historial.registrar_envio(rfc, periodo, "cliente", hash_contenido, destinatarios)
+        return
+    raise RuntimeError(f"No se pudo enviar el correo de alertas de {nombre} para {periodo}.")
